@@ -1,6 +1,6 @@
 #resources=[
   |definitionProperties=[
-    |version=n0
+    |version=n1
     |language=i0
     |client=i0
     |path=$lang000/definitionProperties/00000000.txt

@@ -1,4 +1,4 @@
-#definitionproperties=[ hey now this is a change and I don't think it should be here!
+#definitionproperties=[
   |4=[
         |definition=n4
         |icon=$icon_public_docking_base_thelodica
@@ -27716,7 +27716,7 @@
             |override02=[|condition=$terraincondition_smoke_mid|newstateeffectid=n260]
             |override03=[|condition=$terraincondition_smoke_high|newstateeffectid=n261]
         ]
-  ] what about me?!
+  ]
   |5547=[
         |definition=n5547
         |icon=$icon_mech_metis
@@ -27736,5 +27736,3 @@
         |terminalscale=f0.9
   ]
 ]
-
-But did you see me too?
