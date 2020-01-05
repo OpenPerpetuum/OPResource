@@ -1,0 +1,4 @@
+*.png
+*.dds
+!icons/
+!textures/
