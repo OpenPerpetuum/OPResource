@@ -533,6 +533,19 @@
   ]
   |59=[
         |definition=n59
+        |defaulttint=iff00bcff
+        |gfxresource=$gfx_medium_laser
+        |staticscene=[
+            |scene01=[|sceneid=n2|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene04=[|sceneid=n5|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene07=[|sceneid=n4|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene08=[|sceneid=if|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+        ]
         |icon=$icon_laser
   ]
   |60=[
@@ -569,6 +582,19 @@
   ]
   |62=[
         |definition=n62
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_medium_artillery
+        |staticscene=[
+                |scene01=[|sceneid=n2|resource=$gfx_medium_artillery|scene=$med_artillery_arm]
+                |scene02=[|sceneid=n1|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene03=[|sceneid=n3|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene04=[|sceneid=n4|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene05=[|sceneid=n7|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene06=[|sceneid=n8|resource=$gfx_medium_artillery|scene=$med_artillery_tyrannos]
+                |scene07=[|sceneid=n5|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene08=[|sceneid=if|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene09=[|sceneid=i15|resource=$gfx_medium_artillery|scene=$med_artillery_zenith]
+        ]
         |icon=$icon_autocannon
   ]
   |63=[
@@ -610,6 +636,20 @@
   ]
   |65=[
         |definition=n65
+        |gfxresource=$gfx_medium_missile
+        |staticscene=[
+            |scene01=[|sceneid=n1|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene02=[|sceneid=n2|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene03=[|sceneid=n5|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene07=[|sceneid=n6|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene05=[|sceneid=n9|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene06=[|sceneid=if|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene08=[|sceneid=i10|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene09=[|sceneid=n3|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene10=[|sceneid=i18|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene11=[|sceneid=i20|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+        ]
         |icon=$icon_missle
   ]
   |66=[
@@ -648,6 +688,19 @@
   ]
   |68=[
         |definition=n68
+        |defaulttint=iffb56c10
+        |gfxresource=$gfx_medium_railgun
+        |staticscene=[
+            |scene01=[|sceneid=n2|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene07=[|sceneid=if|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene08=[|sceneid=n5|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_railgun|scene=$pbs_rail]
+        ]
         |icon=$icon_railgun
   ]
   |69=[
@@ -4167,6 +4220,18 @@
         |definition=n836
         |copyfrom=n58
   ]
+  |837=[
+        |definition=n837
+        |copyfrom=n59
+  ]
+  |838=[
+        |definition=n838
+        |copyfrom=n59
+  ]
+  |839=[
+        |definition=n839
+        |copyfrom=n59
+  ]
   |840=[
         |definition=n840
         |copyfrom=n60
@@ -4190,6 +4255,18 @@
   |845=[
         |definition=n845
         |copyfrom=n61
+  ]
+  |846=[
+        |definition=n846
+        |copyfrom=n62
+  ]
+  |847=[
+        |definition=n847
+        |copyfrom=n62
+  ]
+  |848=[
+        |definition=n848
+        |copyfrom=n62
   ]
   |849=[
         |definition=n849
@@ -4215,6 +4292,18 @@
         |definition=n854
         |copyfrom=n64
   ]
+  |855=[
+        |definition=n855
+        |copyfrom=n65
+  ]
+  |856=[
+        |definition=n856
+        |copyfrom=n65
+  ]
+  |857=[
+        |definition=n857
+        |copyfrom=n65
+  ]
   |858=[
         |definition=n858
         |copyfrom=n66
@@ -4238,6 +4327,18 @@
   |863=[
         |definition=n863
         |copyfrom=n67
+  ]
+  |864=[
+        |definition=n864
+        |copyfrom=n68
+  ]
+  |865=[
+        |definition=n865
+        |copyfrom=n68
+  ]
+  |866=[
+        |definition=n866
+        |copyfrom=n68
   ]
   |873=[
         |definition=n873
@@ -4784,18 +4885,7 @@
   ]
   |1001=[
         |definition=n1001
-        |defaulttint=iffb56c10
-        |gfxresource=$gfx_medium_railgun
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_railgun|scene=$med_rail_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_railgun|scene=$med_rail_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_railgun|scene=$med_rail_side_direct]
-            |scene04=[|sceneid=n4|resource=$gfx_medium_railgun|scene=$med_rail_top_turret]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_railgun|scene=$med_rail_mesmer]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_railgun|scene=$med_rail_tyrannos]
-            |scene07=[|sceneid=if|resource=$gfx_medium_railgun|scene=$med_rail_top_turret]
-        ]
-        |icon=$icon_railgun
+        |copyfrom=n68
   ]
   |1002=[
         |definition=n1002
@@ -4816,19 +4906,7 @@
   ]
   |1003=[
         |definition=n1003
-        |defaulttint=iff00bcff
-        |gfxresource=$gfx_medium_laser
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_laser|scene=$med_laser_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_laser|scene=$med_laser_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_laser|scene=$med_laser_side_direct]
-            |scene04=[|sceneid=n5|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_laser|scene=$med_laser_mesmer_slot]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_laser|scene=$med_laser_tyrannos_slot]
-            |scene07=[|sceneid=n4|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-            |scene08=[|sceneid=if|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-        ]
-        |icon=$icon_laser
+        |copyfrom=n59
   ]
   |1004=[
         |definition=n1004
@@ -4848,19 +4926,7 @@
   ]
   |1005=[
         |definition=n1005
-        |gfxresource=$gfx_medium_minigun
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_minigun|scene=$med_minigun_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_minigun|scene=$med_minigun_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_minigun|scene=$med_minigun_side_direct]
-            |scene04=[|sceneid=n4|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_minigun|scene=$med_minigun_tyrannos]
-            |scene07=[|sceneid=n5|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene08=[|sceneid=if|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene09=[|sceneid=i15|resource=$gfx_medium_minigun|scene=$med_minigun_zenith]
-        ]
-        |icon=$icon_autocannon
+        |copyfrom=n62
   ]
   |1006=[
         |definition=n1006
@@ -4924,15 +4990,15 @@
   ]
   |1021=[
         |definition=n1021
-        |copyfrom=n1001
+        |copyfrom=n68
   ]
   |1022=[
         |definition=n1022
-        |copyfrom=n1001
+        |copyfrom=n68
   ]
   |1023=[
         |definition=n1023
-        |copyfrom=n1001
+        |copyfrom=n68
   ]
   |1024=[
         |definition=n1024
@@ -4948,15 +5014,15 @@
   ]
   |1027=[
         |definition=n1027
-        |copyfrom=n1003
+        |copyfrom=n59
   ]
   |1028=[
         |definition=n1028
-        |copyfrom=n1003
+        |copyfrom=n59
   ]
   |1029=[
         |definition=n1029
-        |copyfrom=n1003
+        |copyfrom=n59
   ]
   |1030=[
         |definition=n1030
@@ -4972,15 +5038,15 @@
   ]
   |1033=[
         |definition=n1033
-        |copyfrom=n1005
+        |copyfrom=n62
   ]
   |1034=[
         |definition=n1034
-        |copyfrom=n1005
+        |copyfrom=n62
   ]
   |1035=[
         |definition=n1035
-        |copyfrom=n1005
+        |copyfrom=n62
   ]
   |1036=[
        |definition=n1036

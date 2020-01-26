@@ -2,3 +2,4 @@
 *.dds
 !icons/
 !textures/
+node_modules/
