@@ -147,4 +147,40 @@
     |size=i4e200
     |hash=ib6ab339a
   ]
+  |tactical_icon_colossus=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/tactical_icon_colossus/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
+  |icon_bot_dongo=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/bot_dongo/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
+  |icon_bot_permeth=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/bot_permeth/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
+  |icon_bot_onyx=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/bot_onyx/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
 ]#date=$2020-01-04-00-00-00#dummy=$knjkqdmkmn

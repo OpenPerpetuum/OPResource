@@ -595,7 +595,7 @@
   |593=[|value=L50250|name=$cf_walker_chassis|hidden=i0]
   |594=[|value=L50150|name=$cf_walker_head|hidden=i0]
   |595=[|value=L50350|name=$cf_walker_leg|hidden=i0]
-  |596=[|value=L601|name=$cf_walkers|hidden=i1]
+  |596=[|value=L601|name=$cf_walkers|hidden=i0]
   |597=[|value=L6030f|name=$cf_walking_stabilizers|hidden=i1]
   |598=[|value=L2110a|name=$cf_wall_builder_ammo|hidden=i0]
   |599=[|value=L20492|name=$cf_wall_healer|hidden=i1]
