@@ -27864,9 +27864,9 @@
   |5726=[
         |definition=n5726
         |icon=$icon_bot_permeth
-        |gfxresource=$gfx_gropho
+        |gfxresource=$gfx_ictus
         |staticscene=[
-            |scene01=[|sceneid=n0|resource=$gfx_gropho|scene=$head]
+            |scene01=[|sceneid=n0|resource=$gfx_ictus|scene=$head]
         ]
         |stateeffectoverrides=[
             |override01=[|condition=$terraincondition_suppressor|newstateeffectid=n274]
@@ -27890,9 +27890,9 @@
         |definition=n5728
         |icon=$icon_bot_permeth
         |defaulttint=iff1756d6
-        |gfxresource=$gfx_scarab
+        |gfxresource=$gfx_lithus
         |staticscene=[
-            |scene01=[|sceneid=n0|resource=$gfx_scarab|scene=$leg]
+            |scene01=[|sceneid=n0|resource=$gfx_lithus|scene=$leg]
         ]
         |miniicon=$tactical_icon_colossus
         |explosioneffects=N38
@@ -27939,9 +27939,9 @@
         |definition=n5732
         |icon=$icon_bot_onyx
         |defaulttint=iff1756d6
-        |gfxresource=$gfx_scarab
+        |gfxresource=$gfx_lithus
         |staticscene=[
-            |scene01=[|sceneid=n0|resource=$gfx_scarab|scene=$leg]
+            |scene01=[|sceneid=n0|resource=$gfx_lithus|scene=$leg]
         ]
         |miniicon=$tactical_icon_colossus
         |explosioneffects=N38
@@ -27962,9 +27962,9 @@
   |5734=[
         |definition=n5734
         |icon=$icon_bot_dongo
-        |gfxresource=$gfx_symbiont
+        |gfxresource=$gfx_vagabond
         |staticscene=[
-            |scene01=[|sceneid=n0|resource=$gfx_symbiont|scene=$head]
+            |scene01=[|sceneid=n0|resource=$gfx_vagabond|scene=$head]
         ]
         |stateeffectoverrides=[
             |override01=[|condition=$terraincondition_suppressor|newstateeffectid=n274]
@@ -27988,9 +27988,9 @@
         |definition=n5736
         |icon=$icon_bot_dongo
         |defaulttint=iff1756d6
-        |gfxresource=$gfx_scarab
+        |gfxresource=$gfx_lithus
         |staticscene=[
-            |scene01=[|sceneid=n0|resource=$gfx_scarab|scene=$leg]
+            |scene01=[|sceneid=n0|resource=$gfx_lithus|scene=$leg]
         ]
         |miniicon=$tactical_icon_colossus
         |explosioneffects=N38
