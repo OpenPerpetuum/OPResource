@@ -28321,25 +28321,26 @@
         |definition=n5683
         |copyfrom=n5520
   ]
-  |5684=[
-        |definition=n5684
-        |copyfrom=n5569
-  ]
-  |5687=[
-        |definition=n5687
-        |copyfrom=n5568
+  |5685=[
+        |definition=n5685
+        |icon=$icon_bot_anniversarkhe
         |miniicon=$tactical_icon_runner
   ]
-  |5688=[
-        |definition=n5688
+  |5686=[
+        |definition=n5686
         |icon=$icon_item_boost_ep
         |name=$def_boost_ep_t0
   ]
-  |5689=[
-        |definition=n5689
+  |5687=[
+        |definition=n5687
         |name=$def_npc_Hersh_PitBoss
         |icon=$icon_npc_hersh_pitboss
         |miniicon=$tactical_icon_heavymech
+  ]
+  |5689=[
+        |definition=n5689
+        |icon=$icon_npc_goblin
+        |miniicon=$tactical_icon_runner
   ]
   |5690=[
         |definition=n5690
