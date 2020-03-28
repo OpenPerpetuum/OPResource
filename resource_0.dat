@@ -1,11 +1,47 @@
 #resources=[
   |definitionProperties=[
+    |version=n2
+    |language=i0
+    |client=i0
+    |path=$lang0000/definitionProperties/00000002.txt
+    |compression=i0
+    |size=i17b000
+    |hash=ib6ab339a
+  ]
+  |categoryFlags=[
     |version=n1
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000001.txt
+    |path=$lang0000/categoryFlags/00000001.txt
     |compression=i0
-    |size=i17b000
+    |size=i4233008 
+    |hash=ib6ab339a
+  ]
+  |icon_bot_felos=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/bot_felos/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
+  |icon_bot_hydra=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/bot_hydra/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
+  |icon_bot_kyrx=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/bot_kyrx/00000000.png
+    |compression=i0
+    |size=i4e200
     |hash=ib6ab339a
   ]
   |icon_bot_anniversarkhe=[
@@ -219,4 +255,4 @@
     |size=i4e200
     |hash=ib6ab339a
   ]
-]#date=$2020-01-04-00-00-00#dummy=$knjkqdmkmn
+]#date=$2020-03-28-00-00-00#dummy=$knjkqdmkmn
