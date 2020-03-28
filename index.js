@@ -14,6 +14,8 @@ const port = 80;
 app.use(function(req, res, next){
     console.log(req.originalUrl);
     next();
+}
+
 app.use('/lang0000', express.static('lang0000'));
 
 // The index
