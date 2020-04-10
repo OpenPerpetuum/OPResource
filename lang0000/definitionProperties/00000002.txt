@@ -28574,6 +28574,7 @@
         |definition=n5724
         |icon=$icon_npc_outpost_guard
         |name=$def_npc_sap_guard_southi
+  ]
   |5726=[
         |definition=n5726
         |icon=$icon_bot_hydra
