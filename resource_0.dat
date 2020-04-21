@@ -1,9 +1,9 @@
 #resources=[
   |definitionProperties=[
-    |version=n1
+    |version=n2
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000001.txt
+    |path=$lang0000/definitionProperties/00000002.txt
     |compression=i0
     |size=i17b000
     |hash=ib6ab339a
@@ -49,6 +49,24 @@
     |language=i0
     |client=i0
     |path=$lang0000/icons/item_specimen_sap_item_flux/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
+  |icon_item_stronghold_teleport=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/item_stronghold_teleport/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
+  |icon_npc_beta1_pitboss=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/npc_beta1_pitboss/00000000.png
     |compression=i0
     |size=i4e200
     |hash=ib6ab339a
