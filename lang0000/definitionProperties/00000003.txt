@@ -533,7 +533,6 @@
   ]
   |59=[
         |definition=n59
-<<<<<<< HEAD
         |defaulttint=iff00bcff
         |gfxresource=$gfx_medium_laser
         |staticscene=[
@@ -547,8 +546,6 @@
             |scene08=[|sceneid=if|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
             |scene09=[|sceneid=i15|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
         ]
-=======
->>>>>>> master
         |icon=$icon_laser
   ]
   |60=[
@@ -585,7 +582,6 @@
   ]
   |62=[
         |definition=n62
-<<<<<<< HEAD
         |defaulttint=iff1756d6
         |gfxresource=$gfx_medium_artillery
         |staticscene=[
@@ -599,8 +595,6 @@
                 |scene08=[|sceneid=if|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
                 |scene09=[|sceneid=i15|resource=$gfx_medium_artillery|scene=$med_artillery_zenith]
         ]
-=======
->>>>>>> master
         |icon=$icon_autocannon
   ]
   |63=[
@@ -642,7 +636,6 @@
   ]
   |65=[
         |definition=n65
-<<<<<<< HEAD
         |gfxresource=$gfx_medium_missile
         |staticscene=[
             |scene01=[|sceneid=n1|resource=$gfx_medium_missile|scene=$pbs_large_missile]
@@ -657,8 +650,6 @@
             |scene10=[|sceneid=i18|resource=$gfx_medium_missile|scene=$pbs_large_missile]
             |scene11=[|sceneid=i20|resource=$gfx_medium_missile|scene=$pbs_large_missile]
         ]
-=======
->>>>>>> master
         |icon=$icon_missle
   ]
   |66=[
@@ -697,7 +688,6 @@
   ]
   |68=[
         |definition=n68
-<<<<<<< HEAD
         |defaulttint=iffb56c10
         |gfxresource=$gfx_medium_railgun
         |staticscene=[
@@ -711,8 +701,6 @@
             |scene08=[|sceneid=n5|resource=$gfx_medium_railgun|scene=$pbs_rail]
             |scene09=[|sceneid=i15|resource=$gfx_medium_railgun|scene=$pbs_rail]
         ]
-=======
->>>>>>> master
         |icon=$icon_railgun
   ]
   |69=[
@@ -4232,7 +4220,6 @@
         |definition=n836
         |copyfrom=n58
   ]
-<<<<<<< HEAD
   |837=[
         |definition=n837
         |copyfrom=n59
@@ -4245,8 +4232,6 @@
         |definition=n839
         |copyfrom=n59
   ]
-=======
->>>>>>> master
   |840=[
         |definition=n840
         |copyfrom=n60
@@ -4271,7 +4256,6 @@
         |definition=n845
         |copyfrom=n61
   ]
-<<<<<<< HEAD
   |846=[
         |definition=n846
         |copyfrom=n62
@@ -4284,8 +4268,6 @@
         |definition=n848
         |copyfrom=n62
   ]
-=======
->>>>>>> master
   |849=[
         |definition=n849
         |copyfrom=n63
@@ -4310,7 +4292,6 @@
         |definition=n854
         |copyfrom=n64
   ]
-<<<<<<< HEAD
   |855=[
         |definition=n855
         |copyfrom=n65
@@ -4323,8 +4304,6 @@
         |definition=n857
         |copyfrom=n65
   ]
-=======
->>>>>>> master
   |858=[
         |definition=n858
         |copyfrom=n66
@@ -4349,7 +4328,6 @@
         |definition=n863
         |copyfrom=n67
   ]
-<<<<<<< HEAD
   |864=[
         |definition=n864
         |copyfrom=n68
@@ -4362,8 +4340,6 @@
         |definition=n866
         |copyfrom=n68
   ]
-=======
->>>>>>> master
   |873=[
         |definition=n873
         |icon=$icon_gang_assist_speed
@@ -4909,22 +4885,7 @@
   ]
   |1001=[
         |definition=n1001
-<<<<<<< HEAD
         |copyfrom=n68
-=======
-        |defaulttint=iffb56c10
-        |gfxresource=$gfx_medium_railgun
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_railgun|scene=$med_rail_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_railgun|scene=$med_rail_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_railgun|scene=$med_rail_side_direct]
-            |scene04=[|sceneid=n4|resource=$gfx_medium_railgun|scene=$med_rail_top_turret]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_railgun|scene=$med_rail_mesmer]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_railgun|scene=$med_rail_tyrannos]
-            |scene07=[|sceneid=if|resource=$gfx_medium_railgun|scene=$med_rail_top_turret]
-        ]
-        |icon=$icon_railgun
->>>>>>> master
   ]
   |1002=[
         |definition=n1002
@@ -4945,23 +4906,7 @@
   ]
   |1003=[
         |definition=n1003
-<<<<<<< HEAD
         |copyfrom=n59
-=======
-        |defaulttint=iff00bcff
-        |gfxresource=$gfx_medium_laser
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_laser|scene=$med_laser_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_laser|scene=$med_laser_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_laser|scene=$med_laser_side_direct]
-            |scene04=[|sceneid=n5|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_laser|scene=$med_laser_mesmer_slot]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_laser|scene=$med_laser_tyrannos_slot]
-            |scene07=[|sceneid=n4|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-            |scene08=[|sceneid=if|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-        ]
-        |icon=$icon_laser
->>>>>>> master
   ]
   |1004=[
         |definition=n1004
@@ -4981,23 +4926,7 @@
   ]
   |1005=[
         |definition=n1005
-<<<<<<< HEAD
         |copyfrom=n62
-=======
-        |gfxresource=$gfx_medium_minigun
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_minigun|scene=$med_minigun_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_minigun|scene=$med_minigun_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_minigun|scene=$med_minigun_side_direct]
-            |scene04=[|sceneid=n4|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_minigun|scene=$med_minigun_tyrannos]
-            |scene07=[|sceneid=n5|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene08=[|sceneid=if|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene09=[|sceneid=i15|resource=$gfx_medium_minigun|scene=$med_minigun_zenith]
-        ]
-        |icon=$icon_autocannon
->>>>>>> master
   ]
   |1006=[
         |definition=n1006
@@ -5061,7 +4990,6 @@
   ]
   |1021=[
         |definition=n1021
-<<<<<<< HEAD
         |copyfrom=n68
   ]
   |1022=[
@@ -5071,17 +4999,6 @@
   |1023=[
         |definition=n1023
         |copyfrom=n68
-=======
-        |copyfrom=n1001
-  ]
-  |1022=[
-        |definition=n1022
-        |copyfrom=n1001
-  ]
-  |1023=[
-        |definition=n1023
-        |copyfrom=n1001
->>>>>>> master
   ]
   |1024=[
         |definition=n1024
@@ -5097,7 +5014,6 @@
   ]
   |1027=[
         |definition=n1027
-<<<<<<< HEAD
         |copyfrom=n59
   ]
   |1028=[
@@ -5107,17 +5023,6 @@
   |1029=[
         |definition=n1029
         |copyfrom=n59
-=======
-        |copyfrom=n1003
-  ]
-  |1028=[
-        |definition=n1028
-        |copyfrom=n1003
-  ]
-  |1029=[
-        |definition=n1029
-        |copyfrom=n1003
->>>>>>> master
   ]
   |1030=[
         |definition=n1030
@@ -5133,7 +5038,6 @@
   ]
   |1033=[
         |definition=n1033
-<<<<<<< HEAD
         |copyfrom=n62
   ]
   |1034=[
@@ -5143,17 +5047,6 @@
   |1035=[
         |definition=n1035
         |copyfrom=n62
-=======
-        |copyfrom=n1005
-  ]
-  |1034=[
-        |definition=n1034
-        |copyfrom=n1005
-  ]
-  |1035=[
-        |definition=n1035
-        |copyfrom=n1005
->>>>>>> master
   ]
   |1036=[
        |definition=n1036
