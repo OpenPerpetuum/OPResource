@@ -28613,9 +28613,9 @@
   |6000=[
         |definition=n6000
         |icon=$icon_bot_hydra
-        |gfxresource=$gfx_ictus
+        |gfxresource=$gfx_artemis
         |staticscene=[
-            |scene01=[|sceneid=n0|resource=$gfx_ictus|scene=$head]
+            |scene01=[|sceneid=n0|resource=$gfx_artemis|scene=$head]
         ]
         |stateeffectoverrides=[
             |override01=[|condition=$terraincondition_suppressor|newstateeffectid=n274]
