@@ -219,7 +219,7 @@
   |217=[|value=L303070f|name=$cf_large_missile_launchers|hidden=i0]
   |218=[|value=L407070f|name=$cf_large_plasma|hidden=i1]
   |219=[|value=L3060a|name=$cf_large_plasma_ammo|hidden=i1]
-  |220=[|value=L3030a|name=$cf_large_projectile_ammo|hidden=i0]
+  |220=[|value=L3030a|name=$cf_large_projectile_ammo|hidden=i1]
   |221=[|value=L3010a|name=$cf_large_railgun_ammo|hidden=i0]
   |222=[|value=L304070f|name=$cf_large_railguns|hidden=i0]
   |223=[|value=L303010f|name=$cf_large_remote_armor_repairers|hidden=i1]
