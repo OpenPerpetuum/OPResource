@@ -28769,4 +28769,28 @@
         |definition=n6014
         |copyfrom=n6013
   ]
+  |6018=[
+        |definition=n6018
+        |icon=$icon_geoscan_document
+  ]
+  |6019=[
+        |definition=n6019
+        |icon=$icon_material_fluxore
+  ]
+  |6020=[
+        |definition=n6020
+        |icon=$icon_ammo_mining_probe_fluxore_tile
+  ]
+  |6021=[
+        |definition=n6021
+        |icon=$icon_ammo_mining_probe_fluxore_direction
+  ]
+  |6022=[
+        |definition=n6022
+        |icon=$icon_ammo_mining_fluxore
+  ]
+  |6023=[
+        |definition=n6023
+        |icon=$icon_ct_ammo
+  ]
 ]
