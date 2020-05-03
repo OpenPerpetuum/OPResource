@@ -134,6 +134,15 @@
     |size=i4e200
     |hash=ib6ab339a
   ]
+  |def_materialtype_unknown_16=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/icons/material_fluxore/00000000.png
+    |compression=i0
+    |size=i4e200
+    |hash=ib6ab339a
+  ]
   |icon_npc_beta1_pitboss=[
     |version=n0
     |language=i0
