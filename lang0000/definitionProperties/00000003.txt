@@ -1779,7 +1779,6 @@
         |miniicon=$tactical_icon_runner
   ]
   |205=[
-
         |definition=n205
         |icon=$icon_mech_kain
         |miniicon=$tactical_icon_mech
@@ -29159,130 +29158,162 @@
   ]
   |6024=[
         |definition=n6024
-        |copyfrom=n197
+        |miniicon=$tactical_icon_runner
+        |icon=$icon_mech_argano
   ]
   |6025=[
         |definition=n6025
-        |copyfrom=n198
+        |icon=$icon_mech_laird
+        |miniicon=$tactical_icon_runner
   ]
   |6026=[
         |definition=n6026
-        |copyfrom=n201
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
   ]
   |6027=[
         |definition=n6027
-        |copyfrom=n201
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
   ]
   |6028=[
         |definition=n6028
-        |copyfrom=n201
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
   ]
   |6029=[
         |definition=n6029
-        |copyfrom=n206
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
   ]
   |6030=[
         |definition=n6030
-        |copyfrom=n206
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
   ]
   |6031=[
         |definition=n6031
-        |copyfrom=n206
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
   ]
   |6032=[
         |definition=n6032
-        |copyfrom=n202
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
   ]
   |6033=[
         |definition=n6033
-        |copyfrom=n202
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
   ]
   |6034=[
         |definition=n6034
-        |copyfrom=n202
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
   ]
   |6035=[
         |definition=n6035
-        |copyfrom=n216
+        |icon=$icon_mech_gropho
+        |miniicon=$tactical_icon_heavymech
   ]
   |6036=[
         |definition=n6036
-        |copyfrom=n216
+        |icon=$icon_mech_gropho
+        |miniicon=$tactical_icon_heavymech
   ]
   |6037=[
         |definition=n6037
-        |copyfrom=n205
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
   ]
   |6038=[
         |definition=n6038
-        |copyfrom=n205
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
   ]
   |6039=[
         |definition=n6039
-        |copyfrom=n205
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
   ]
   |6040=[
         |definition=n6040
-        |copyfrom=n213
+        |icon=$icon_mech_mesmer
+        |miniicon=$tactical_icon_heavymech
   ]
   |6041=[
         |definition=n6041
-        |copyfrom=n213
+        |icon=$icon_mech_mesmer
+        |miniicon=$tactical_icon_heavymech
   ]
   |6042=[
         |definition=n6042
-        |copyfrom=n214
+        |icon=$icon_mech_seth
+        |miniicon=$tactical_icon_heavymech
   ]
   |6043=[
         |definition=n6043
-        |copyfrom=n214
+        |icon=$icon_mech_seth
+        |miniicon=$tactical_icon_heavymech
   ]
   |6044=[
         |definition=n6044
-        |copyfrom=n208
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
   ]
   |6045=[
         |definition=n6045
-        |copyfrom=n208
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
   ]
   |6046=[
         |definition=n6046
-        |copyfrom=n208
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
   ]
   |6047=[
         |definition=n6047
-        |copyfrom=n196
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
   ]
   |6048=[
         |definition=n6048
-        |copyfrom=n196
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
   ]
   |6049=[
         |definition=n6049
-        |copyfrom=n196
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
   ]
   |6050=[
         |definition=n6050
-        |copyfrom=n204
+        |icon=$icon_mech_castel
+        |miniicon=$tactical_icon_runner
   ]
   |6051=[
         |definition=n6051
-        |copyfrom=n204
+        |icon=$icon_mech_castel
+        |miniicon=$tactical_icon_runner
   ]
   |6052=[
         |definition=n6052
-        |copyfrom=n194
+        |icon=$icon_mech_prometheus
+        |miniicon=$tactical_icon_runner
   ]
   |6053=[
         |definition=n6053
-        |copyfrom=n194
+        |icon=$icon_mech_prometheus
+        |miniicon=$tactical_icon_runner
   ]
   |6054=[
         |definition=n6054
-        |copyfrom=n193
+        |icon=$icon_mech_yagel
+        |miniicon=$tactical_icon_runner
   ]
   |6055=[
         |definition=n6055
-        |copyfrom=n193
+        |icon=$icon_mech_yagel
+        |miniicon=$tactical_icon_runner
   ]
 ]
