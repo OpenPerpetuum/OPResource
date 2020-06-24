@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000003.txt
     |compression=i0
-    |size=i17b000
+    |size=ib27ea
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -14,308 +14,247 @@
     |client=i0
     |path=$lang0000/categoryFlags/00000001.txt
     |compression=i0
-    |size=i17b000
+    |size=i93b1
     |hash=ib6ab339a
+  ]
+  |icon_ammo_cruisemissile_a_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i522d
+    |path=$lang0000/icons/ammo_cruisemissile_a_pr/00000000.png
+  ]
+  |icon_ammo_cruisemissile_b_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i506e
+    |path=$lang0000/icons/ammo_cruisemissile_b_pr/00000000.png
+  ]
+  |icon_ammo_cruisemissile_c_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i529b
+    |path=$lang0000/icons/ammo_cruisemissile_c_pr/00000000.png
+  ]
+  |icon_ammo_cruisemissile_d_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5099
+    |path=$lang0000/icons/ammo_cruisemissile_d_pr/00000000.png
+  ]
+  |icon_ammo_lasercrystal_a_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7028
+    |path=$lang0000/icons/ammo_lasercrystal_a_pr/00000000.png
+  ]
+  |icon_ammo_lasercrystal_b_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6eab
+    |path=$lang0000/icons/ammo_lasercrystal_b_pr/00000000.png
+  ]
+  |icon_ammo_lasercrystal_c_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6d95
+    |path=$lang0000/icons/ammo_lasercrystal_c_pr/00000000.png
+  ]
+  |icon_ammo_lasercrystal_d_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6b32
+    |path=$lang0000/icons/ammo_lasercrystal_d_pr/00000000.png
+  ]
+  |icon_ammo_longrange_cruisemissile_a_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4a88
+    |path=$lang0000/icons/ammo_longrange_cruisemissile_a_pr/00000000.png
+  ]
+  |icon_ammo_longrange_cruisemissile_b_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4949
+    |path=$lang0000/icons/ammo_longrange_cruisemissile_b_pr/00000000.png
+  ]
+  |icon_ammo_longrange_cruisemissile_c_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4bd8
+    |path=$lang0000/icons/ammo_longrange_cruisemissile_c_pr/00000000.png
+  ]
+  |icon_ammo_longrange_cruisemissile_d_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i497c
+    |path=$lang0000/icons/ammo_longrange_cruisemissile_d_pr/00000000.png
   ]
   |icon_ammo_mining_fluxore=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7300
     |path=$lang0000/icons/ammo_mining_fluxore/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
+  ]
+  |icon_ammo_mining_fluxore_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i77cf
+    |path=$lang0000/icons/ammo_mining_fluxore_pr/00000000.png
+  ]
+  |icon_ammo_mining_gammaterial_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i710d
+    |path=$lang0000/icons/ammo_mining_gammaterial_pr/00000000.png
   ]
   |icon_ammo_mining_probe_fluxore_direction=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7645
     |path=$lang0000/icons/ammo_mining_probe_fluxore_direction/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_ammo_mining_probe_fluxore_tile=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i761c
     |path=$lang0000/icons/ammo_mining_probe_fluxore_tile/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
+  ]
+  |icon_ammo_railgun_a_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6512
+    |path=$lang0000/icons/ammo_railgun_a_pr/00000000.png
+  ]
+  |icon_ammo_railgun_b_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i65f6
+    |path=$lang0000/icons/ammo_railgun_b_pr/00000000.png
+  ]
+  |icon_ammo_railgun_c_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6591
+    |path=$lang0000/icons/ammo_railgun_c_pr/00000000.png
+  ]
+  |icon_ammo_railgun_d_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6558
+    |path=$lang0000/icons/ammo_railgun_d_pr/00000000.png
   ]
   |icon_bot_felos=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9aa3
     |path=$lang0000/icons/bot_felos/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_bot_hydra=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9590
     |path=$lang0000/icons/bot_hydra/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_bot_onyx=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i941e
     |path=$lang0000/icons/bot_onyx/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_bot_anniversarkhe=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ia38d
     |path=$lang0000/icons/bot_anniversarkhe/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_item_boost_ep=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i72a3
     |path=$lang0000/icons/item_boost_ep/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_item_ct_capsule=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i90e9
     |path=$lang0000/icons/item_ct_capsule/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_item_specimen_sap_item=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9ac0
     |path=$lang0000/icons/item_specimen_sap_item/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_item_specimen_sap_item_flux=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i991a
     |path=$lang0000/icons/item_specimen_sap_item_flux/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_item_stronghold_teleport=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8065
     |path=$lang0000/icons/item_stronghold_teleport/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_material_fluxore=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab
     |path=$lang0000/icons/material_fluxore/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |def_materialtype_unknown_16=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab
     |path=$lang0000/icons/material_fluxore/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
+  ]
+  |icon_module_armor_plate_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5e78
+    |path=$lang0000/icons/module_armor_plate_pr/00000000.png
+  ]
+  |icon_module_armor_repairer_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i85d8
+    |path=$lang0000/icons/module_armor_repairer_pr/00000000.png
+  ]
+  |icon_module_core_battery_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6a20
+    |path=$lang0000/icons/module_core_battery_pr/00000000.png
+  ]
+  |icon_module_core_booster_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i74f8
+    |path=$lang0000/icons/module_core_booster_pr/00000000.png
+  ]
+  |icon_module_shield_generator_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i78d8
+    |path=$lang0000/icons/module_shield_generator_pr/00000000.png
+  ]
+  |icon_module_laser_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4ecf
+    |path=$lang0000/icons/module_laser_pr/00000000.png
+  ]
+  |icon_module_missile_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6f8d
+    |path=$lang0000/icons/module_missile_pr/00000000.png
+  ]
+  |icon_module_railgun_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5655
+    |path=$lang0000/icons/module_railgun_pr/00000000.png
   ]
   |icon_npc_beta1_pitboss=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9689
     |path=$lang0000/icons/npc_beta1_pitboss/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_npc_goblin=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=iab45
     |path=$lang0000/icons/npc_goblin/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_npc_outpost_guard=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9c5f
     |path=$lang0000/icons/npc_outpost_guard/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_npc_outpost_invader=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8eec
     |path=$lang0000/icons/npc_outpost_invader/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |icon_npc_hersh_pitboss=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8ac4
     |path=$lang0000/icons/npc_hersh_pitboss/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintBlack=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i43b8
     |path=$lang0000/icons/paint_black/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintBlue=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5747
     |path=$lang0000/icons/paint_blue/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintCyan=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5d4a
     |path=$lang0000/icons/paint_cyan/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintDarkBlue=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5476
     |path=$lang0000/icons/paint_dark_blue/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintDarkGreen=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i529a
     |path=$lang0000/icons/paint_dark_green/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintDarkRed=[
-    |version=n0
-    |language=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5359
     |path=$lang0000/icons/paint_dark_red/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintGray=[
-    |version=n0
-    |language=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4f8d
     |path=$lang0000/icons/paint_gray/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintGreen=[
-    |version=n0
-    |language=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5574
     |path=$lang0000/icons/paint_green/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintMagenta=[
-    |version=n0
-    |language=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i592f
     |path=$lang0000/icons/paint_magenta/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintOrange=[
-    |version=n0
-    |language=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i59ba
     |path=$lang0000/icons/paint_orange/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintWhite=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5627
     |path=$lang0000/icons/paint_white/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintPurple=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5509
     |path=$lang0000/icons/paint_purple/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintRed=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i579c
     |path=$lang0000/icons/paint_red/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintTeal=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i553e
     |path=$lang0000/icons/paint_teal/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
   |paintYellow=[
-    |version=n0
-    |language=i0
-    |client=i0
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5914
     |path=$lang0000/icons/paint_yellow/00000000.png
-    |compression=i0
-    |size=i4e200
-    |hash=ib6ab339a
   ]
-]#date=$2020-03-28-00-00-00#dummy=$knjkqdmkmn
+]#date=$2020-06-23-00-00-00#dummy=$knjkqdmkmn
