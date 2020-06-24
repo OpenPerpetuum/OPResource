@@ -28609,358 +28609,666 @@
         |icon=$icon_bot_anniversarkhe
         |miniicon=$tactical_icon_runner
   ]
+
   |5730=[
         |definition=n5730
-        |icon=$icon_ct_ammo
-  ]
-  |5730=[
-        |definition=n5730
-        |icon=$icon_ct_ammo
-  ]
-  |5730=[
-        |definition=n5730
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_railgun_a_pr
   ]
   |5731=[
         |definition=n5731
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_railgun_b_pr
   ]
   |5732=[
         |definition=n5732
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_railgun_c_pr
   ]
   |5733=[
         |definition=n5733
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_railgun_d_pr
   ]
   |5734=[
         |definition=n5734
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_lasercrystal_a_pr
   ]
   |5735=[
         |definition=n5735
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_lasercrystal_b_pr
   ]
   |5736=[
         |definition=n5736
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_lasercrystal_c_pr
   ]
   |5737=[
         |definition=n5737
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_lasercrystal_d_pr
   ]
   |5738=[
         |definition=n5738
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_cruisemissile_a_pr
   ]
   |5739=[
         |definition=n5739
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_cruisemissile_b_pr
   ]
   |5740=[
         |definition=n5740
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_cruisemissile_c_pr
   ]
   |5741=[
         |definition=n5741
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_cruisemissile_d_pr
   ]
   |5742=[
         |definition=n5742
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_longrange_cruisemissile_a_pr
   ]
   |5743=[
         |definition=n5743
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_longrange_cruisemissile_b_pr
   ]
   |5744=[
         |definition=n5744
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_longrange_cruisemissile_c_pr
   ]
   |5745=[
         |definition=n5745
-        |icon=$icon_ct_ammo
+        |icon=$icon_ammo_longrange_cruisemissile_d_pr
   ]
+
   |5746=[
         |definition=n5746
-        |icon=$def_standard_armor_plate
+        |icon=$icon_ct_ammo
   ]
   |5747=[
         |definition=n5747
-        |icon=$def_standard_armor_plate
+        |icon=$icon_ct_ammo
   ]
   |5748=[
         |definition=n5748
-        |icon=$def_standard_armor_plate
+        |icon=$icon_ct_ammo
   ]
   |5749=[
         |definition=n5749
-        |icon=$def_standard_armor_repairer
+        |icon=$icon_ct_ammo
   ]
   |5750=[
         |definition=n5750
-        |icon=$def_standard_armor_repairer
+        |icon=$icon_ct_ammo
   ]
   |5751=[
         |definition=n5751
-        |icon=$def_standard_armor_repairer
+        |icon=$icon_ct_ammo
   ]
   |5752=[
         |definition=n5752
-        |icon=$def_standard_shield_generator
+        |icon=$icon_ct_ammo
   ]
   |5753=[
         |definition=n5753
-        |icon=$def_standard_shield_generator
+        |icon=$icon_ct_ammo
   ]
   |5754=[
         |definition=n5754
-        |icon=$def_standard_shield_generator
+        |icon=$icon_ct_ammo
   ]
   |5755=[
         |definition=n5755
-        |icon=$icon_core_battery
+        |icon=$icon_ct_ammo
   ]
   |5756=[
         |definition=n5756
-        |icon=$icon_core_battery
+        |icon=$icon_ct_ammo
   ]
   |5757=[
         |definition=n5757
-        |icon=$icon_core_battery
+        |icon=$icon_ct_ammo
   ]
   |5758=[
         |definition=n5758
-        |icon=$icon_core_booster
+        |icon=$icon_ct_ammo
   ]
   |5759=[
         |definition=n5759
-        |icon=$icon_core_booster
+        |icon=$icon_ct_ammo
   ]
   |5760=[
         |definition=n5760
-        |icon=$icon_core_booster
+        |icon=$icon_ct_ammo
   ]
   |5761=[
         |definition=n5761
-        |icon=$icon_ct_module
+        |icon=$icon_ct_ammo
   ]
+
   |5762=[
         |definition=n5762
-        |icon=$icon_ct_module
+        |icon=$icon_module_armor_plate_pr
   ]
   |5763=[
         |definition=n5763
-        |icon=$icon_ct_module
+        |icon=$def_standard_armor_plate
   ]
   |5764=[
         |definition=n5764
-        |icon=$icon_ct_module
+        |icon=$def_standard_armor_plate
   ]
   |5765=[
         |definition=n5765
-        |icon=$icon_ct_module
+        |icon=$def_standard_armor_plate
   ]
+
   |5766=[
         |definition=n5766
-        |icon=$icon_ct_module
+        |icon=$icon_module_armor_repairer_pr
   ]
   |5767=[
         |definition=n5767
-        |icon=$icon_ct_module
+        |icon=$def_standard_armor_repairer
   ]
   |5768=[
         |definition=n5768
-        |icon=$icon_ct_module
+        |icon=$def_standard_armor_repairer
   ]
   |5769=[
         |definition=n5769
-        |icon=$icon_ct_module
+        |icon=$def_standard_armor_repairer
   ]
+
   |5770=[
         |definition=n5770
-        |icon=$icon_ct_module
+        |icon=$icon_module_shield_generator_pr
   ]
   |5771=[
         |definition=n5771
-        |icon=$icon_ct_module
+        |icon=$def_standard_shield_generator
   ]
   |5772=[
         |definition=n5772
-        |icon=$icon_ct_module
+        |icon=$def_standard_shield_generator
   ]
   |5773=[
         |definition=n5773
-        |icon=$icon_ct_module
+        |icon=$def_standard_shield_generator
   ]
+
   |5774=[
         |definition=n5774
-        |icon=$icon_ct_module
+        |icon=$icon_module_core_battery_pr
   ]
   |5775=[
         |definition=n5775
-        |icon=$icon_ct_module
+        |icon=$icon_core_battery
   ]
   |5776=[
         |definition=n5776
-        |icon=$icon_ct_module
+        |icon=$icon_core_battery
   ]
   |5777=[
         |definition=n5777
-        |icon=$icon_ct_module
+        |icon=$icon_core_battery
   ]
+
   |5778=[
         |definition=n5778
-        |icon=$icon_ct_module
+        |icon=$icon_module_core_booster_pr
   ]
   |5779=[
         |definition=n5779
-        |icon=$icon_ct_module
+        |icon=$icon_core_booster
   ]
   |5780=[
         |definition=n5780
-        |icon=$icon_ct_module
+        |icon=$icon_core_booster
   ]
   |5781=[
         |definition=n5781
-        |copyfrom=n4863
+        |icon=$icon_core_booster
   ]
+
   |5782=[
         |definition=n5782
-        |copyfrom=n4863
+        |icon=$icon_ct_module
   ]
   |5783=[
         |definition=n5783
-        |copyfrom=n4863
+        |icon=$icon_ct_module
   ]
   |5784=[
         |definition=n5784
-        |copyfrom=n4863
+        |icon=$icon_ct_module
   ]
   |5785=[
         |definition=n5785
-        |copyfrom=n4863
+        |icon=$icon_ct_module
   ]
   |5786=[
         |definition=n5786
-        |copyfrom=n4863
+        |icon=$icon_ct_module
   ]
   |5787=[
         |definition=n5787
-        |copyfrom=n4864
+        |icon=$icon_ct_module
   ]
   |5788=[
         |definition=n5788
-        |copyfrom=n4864
+        |icon=$icon_ct_module
   ]
   |5789=[
         |definition=n5789
-        |copyfrom=n4864
+        |icon=$icon_ct_module
   ]
   |5790=[
         |definition=n5790
-        |copyfrom=n4865
+        |icon=$icon_ct_module
   ]
   |5791=[
         |definition=n5791
-        |copyfrom=n4865
+        |icon=$icon_ct_module
   ]
   |5792=[
         |definition=n5792
-        |copyfrom=n4865
+        |icon=$icon_ct_module
   ]
   |5793=[
         |definition=n5793
-        |copyfrom=n4865
+        |icon=$icon_ct_module
   ]
   |5794=[
         |definition=n5794
-        |copyfrom=n4865
+        |icon=$icon_ct_module
   ]
   |5795=[
         |definition=n5795
-        |copyfrom=n4865
+        |icon=$icon_ct_module
   ]
   |5796=[
         |definition=n5796
-        |icon=$icon_ct_weapon
+        |icon=$icon_ct_module
   ]
   |5797=[
         |definition=n5797
-        |icon=$icon_ct_weapon
+        |icon=$icon_ct_module
   ]
   |5798=[
         |definition=n5798
-        |icon=$icon_ct_weapon
+        |icon=$icon_ct_module
   ]
   |5799=[
         |definition=n5799
-        |icon=$icon_ct_weapon
+        |icon=$icon_ct_module
   ]
   |5800=[
         |definition=n5800
-        |icon=$icon_ct_weapon
+        |icon=$icon_ct_module
   ]
   |5801=[
         |definition=n5801
-        |icon=$icon_ct_weapon
+        |icon=$icon_ct_module
   ]
+
   |5802=[
         |definition=n5802
-        |icon=$icon_ct_weapon
+        |copyfrom=n4863
+        |icon=$icon_module_laser_pr
   ]
   |5803=[
         |definition=n5803
-        |icon=$icon_ct_weapon
+        |copyfrom=n4863
   ]
   |5804=[
         |definition=n5804
-        |icon=$icon_ct_weapon
+        |copyfrom=n4863
   ]
   |5805=[
         |definition=n5805
-        |icon=$icon_ct_weapon
+        |copyfrom=n4863
   ]
   |5806=[
         |definition=n5806
-        |icon=$icon_ct_weapon
+        |copyfrom=n4863
+        |icon=$icon_module_laser_pr
   ]
   |5807=[
         |definition=n5807
-        |icon=$icon_ct_weapon
+        |copyfrom=n4863
   ]
   |5808=[
         |definition=n5808
-        |icon=$icon_ct_weapon
+        |copyfrom=n4863
   ]
   |5809=[
         |definition=n5809
-        |icon=$icon_ct_weapon
+        |copyfrom=n4863
   ]
+
   |5810=[
         |definition=n5810
-        |icon=$icon_ct_weapon
+        |copyfrom=n4864
+        |icon=$icon_module_missile_pr
   ]
   |5811=[
         |definition=n5811
-        |icon=$icon_ct_weapon
+        |copyfrom=n4864
   ]
   |5812=[
         |definition=n5812
-        |icon=$icon_ct_weapon
+        |copyfrom=n4864
   ]
   |5813=[
         |definition=n5813
-        |icon=$icon_ct_weapon
+        |copyfrom=n4864
   ]
+
   |5814=[
         |definition=n5814
-        |icon=$icon_ct_weapon
+        |copyfrom=n4865
+        |icon=$icon_module_railgun_pr
   ]
   |5815=[
         |definition=n5815
+        |copyfrom=n4865
+  ]
+  |5816=[
+        |definition=n5816
+        |copyfrom=n4865
+  ]
+  |5817=[
+        |definition=n5817
+        |copyfrom=n4865
+  ]
+  |5818=[
+        |definition=n5818
+        |copyfrom=n4865
+        |icon=$icon_module_railgun_pr
+  ]
+  |5819=[
+        |definition=n5819
+        |copyfrom=n4865
+  ]
+  |5820=[
+        |definition=n5820
+        |copyfrom=n4865
+  ]
+  |5821=[
+        |definition=n5821
+        |copyfrom=n4865
+  ]
+
+  |5822=[
+        |definition=n5822
         |icon=$icon_ct_weapon
   ]
+  |5823=[
+        |definition=n5823
+        |icon=$icon_ct_weapon
+  ]
+  |5824=[
+        |definition=n5824
+        |icon=$icon_ct_weapon
+  ]
+  |5825=[
+        |definition=n5825
+        |icon=$icon_ct_weapon
+  ]
+  |5826=[
+        |definition=n5826
+        |icon=$icon_ct_weapon
+  ]
+  |5827=[
+        |definition=n5827
+        |icon=$icon_ct_weapon
+  ]
+  |5828=[
+        |definition=n5828
+        |icon=$icon_ct_weapon
+  ]
+  |5829=[
+        |definition=n5829
+        |icon=$icon_ct_weapon
+  ]
+  |5830=[
+        |definition=n5830
+        |icon=$icon_ct_weapon
+  ]
+  |5831=[
+        |definition=n5831
+        |icon=$icon_ct_weapon
+  ]
+  |5832=[
+        |definition=n5832
+        |icon=$icon_ct_weapon
+  ]
+  |5833=[
+        |definition=n5833
+        |icon=$icon_ct_weapon
+  ]
+  |5834=[
+        |definition=n5834
+        |icon=$icon_ct_weapon
+  ]
+  |5835=[
+        |definition=n5835
+        |icon=$icon_ct_weapon
+  ]
+  |5836=[
+        |definition=n5836
+        |icon=$icon_ct_weapon
+  ]
+  |5837=[
+        |definition=n5837
+        |icon=$icon_ct_weapon
+  ]
+  |5838=[
+        |definition=n5838
+        |icon=$icon_ct_weapon
+  ]
+  |5839=[
+        |definition=n5839
+        |icon=$icon_ct_weapon
+  ]
+  |5840=[
+        |definition=n5840
+        |icon=$icon_ct_weapon
+  ]
+  |5841=[
+        |definition=n5841
+        |icon=$icon_ct_weapon
+  ]
+
+  |5842=[
+        |definition=n5842
+        |icon=$icon_geoscan_document
+  ]
+  |5843=[
+        |definition=n5843
+        |icon=$icon_material_fluxore
+  ]
+  |5844=[
+        |definition=n5844
+        |icon=$icon_ammo_mining_probe_fluxore_tile
+  ]
+  |5845=[
+        |definition=n5845
+        |icon=$icon_ammo_mining_probe_fluxore_direction
+  ]
+  |5846=[
+        |definition=n5846
+        |icon=$icon_ammo_mining_fluxore
+  ]
+  |5847=[
+        |definition=n5847
+        |icon=$icon_ammo_mining_fluxore_pr
+  ]
+  |5848=[
+        |definition=n5848
+        |icon=$icon_ammo_mining_gammaterial_pr
+  ]
+  |5849=[
+        |definition=n5849
+        |icon=$icon_ct_ammo
+  ]
+
+  |5850=[
+        |definition=n5850
+        |miniicon=$tactical_icon_runner
+        |icon=$icon_mech_argano
+  ]
+  |5851=[
+        |definition=n5851
+        |icon=$icon_mech_laird
+        |miniicon=$tactical_icon_runner
+  ]
+  |5852=[
+        |definition=n5852
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5853=[
+        |definition=n5853
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5854=[
+        |definition=n5854
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5855=[
+        |definition=n5855
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
+  ]
+  |5856=[
+        |definition=n5856
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
+  ]
+  |5857=[
+        |definition=n5857
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
+  ]
+  |5858=[
+        |definition=n5858
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5859=[
+        |definition=n5859
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5860=[
+        |definition=n5860
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5861=[
+        |definition=n5861
+        |icon=$icon_mech_gropho
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5862=[
+        |definition=n5862
+        |icon=$icon_mech_gropho
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5863=[
+        |definition=n5863
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
+  ]
+  |5864=[
+        |definition=n5864
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
+  ]
+  |5865=[
+        |definition=n5865
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
+  ]
+  |5866=[
+        |definition=n5866
+        |icon=$icon_mech_mesmer
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5867=[
+        |definition=n5867
+        |icon=$icon_mech_mesmer
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5868=[
+        |definition=n5868
+        |icon=$icon_mech_seth
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5869=[
+        |definition=n5869
+        |icon=$icon_mech_seth
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5870=[
+        |definition=n5870
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
+  ]
+  |5871=[
+        |definition=n5871
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
+  ]
+  |5872=[
+        |definition=n5872
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
+  ]
+  |5873=[
+        |definition=n5873
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5874=[
+        |definition=n5874
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5875=[
+        |definition=n5875
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5876=[
+        |definition=n5876
+        |icon=$icon_mech_castel
+        |miniicon=$tactical_icon_runner
+  ]
+  |5877=[
+        |definition=n5877
+        |icon=$icon_mech_castel
+        |miniicon=$tactical_icon_runner
+  ]
+  |5878=[
+        |definition=n5878
+        |icon=$icon_mech_prometheus
+        |miniicon=$tactical_icon_runner
+  ]
+  |5879=[
+        |definition=n5879
+        |icon=$icon_mech_prometheus
+        |miniicon=$tactical_icon_runner
+  ]
+  |5880=[
+        |definition=n5880
+        |icon=$icon_mech_yagel
+        |miniicon=$tactical_icon_runner
+  ]
+  |5881=[
+        |definition=n5881
+        |icon=$icon_mech_yagel
+        |miniicon=$tactical_icon_runner
+  ]
+
   |6000=[
         |definition=n6000
         |icon=$icon_bot_hydra
@@ -29131,189 +29439,5 @@
   |6017=[
         |definition=n6017
         |icon=$icon_ct_robot
-  ]
-  |6018=[
-        |definition=n6018
-        |icon=$icon_geoscan_document
-  ]
-  |6019=[
-        |definition=n6019
-        |icon=$icon_material_fluxore
-  ]
-  |6020=[
-        |definition=n6020
-        |icon=$icon_ammo_mining_probe_fluxore_tile
-  ]
-  |6021=[
-        |definition=n6021
-        |icon=$icon_ammo_mining_probe_fluxore_direction
-  ]
-  |6022=[
-        |definition=n6022
-        |icon=$icon_ammo_mining_fluxore
-  ]
-  |6023=[
-        |definition=n6023
-        |icon=$icon_ct_ammo
-  ]
-  |6024=[
-        |definition=n6024
-        |miniicon=$tactical_icon_runner
-        |icon=$icon_mech_argano
-  ]
-  |6025=[
-        |definition=n6025
-        |icon=$icon_mech_laird
-        |miniicon=$tactical_icon_runner
-  ]
-  |6026=[
-        |definition=n6026
-        |icon=$icon_mech_arbalest
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6027=[
-        |definition=n6027
-        |icon=$icon_mech_arbalest
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6028=[
-        |definition=n6028
-        |icon=$icon_mech_arbalest
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6029=[
-        |definition=n6029
-        |icon=$icon_mech_artemis
-        |miniicon=$tactical_icon_mech
-  ]
-  |6030=[
-        |definition=n6030
-        |icon=$icon_mech_artemis
-        |miniicon=$tactical_icon_mech
-  ]
-  |6031=[
-        |definition=n6031
-        |icon=$icon_mech_artemis
-        |miniicon=$tactical_icon_mech
-  ]
-  |6032=[
-        |definition=n6032
-        |icon=$icon_mech_baphomet
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6033=[
-        |definition=n6033
-        |icon=$icon_mech_baphomet
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6034=[
-        |definition=n6034
-        |icon=$icon_mech_baphomet
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6035=[
-        |definition=n6035
-        |icon=$icon_mech_gropho
-        |miniicon=$tactical_icon_heavymech
-  ]
-  |6036=[
-        |definition=n6036
-        |icon=$icon_mech_gropho
-        |miniicon=$tactical_icon_heavymech
-  ]
-  |6037=[
-        |definition=n6037
-        |icon=$icon_mech_kain
-        |miniicon=$tactical_icon_mech
-  ]
-  |6038=[
-        |definition=n6038
-        |icon=$icon_mech_kain
-        |miniicon=$tactical_icon_mech
-  ]
-  |6039=[
-        |definition=n6039
-        |icon=$icon_mech_kain
-        |miniicon=$tactical_icon_mech
-  ]
-  |6040=[
-        |definition=n6040
-        |icon=$icon_mech_mesmer
-        |miniicon=$tactical_icon_heavymech
-  ]
-  |6041=[
-        |definition=n6041
-        |icon=$icon_mech_mesmer
-        |miniicon=$tactical_icon_heavymech
-  ]
-  |6042=[
-        |definition=n6042
-        |icon=$icon_mech_seth
-        |miniicon=$tactical_icon_heavymech
-  ]
-  |6043=[
-        |definition=n6043
-        |icon=$icon_mech_seth
-        |miniicon=$tactical_icon_heavymech
-  ]
-  |6044=[
-        |definition=n6044
-        |icon=$icon_mech_tyrannos
-        |miniicon=$tactical_icon_mech
-  ]
-  |6045=[
-        |definition=n6045
-        |icon=$icon_mech_tyrannos
-        |miniicon=$tactical_icon_mech
-  ]
-  |6046=[
-        |definition=n6046
-        |icon=$icon_mech_tyrannos
-        |miniicon=$tactical_icon_mech
-  ]
-  |6047=[
-        |definition=n6047
-        |icon=$icon_mech_waspish
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6048=[
-        |definition=n6048
-        |icon=$icon_mech_waspish
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6049=[
-        |definition=n6049
-        |icon=$icon_mech_waspish
-        |miniicon=$tactical_icon_crawler
-  ]
-  |6050=[
-        |definition=n6050
-        |icon=$icon_mech_castel
-        |miniicon=$tactical_icon_runner
-  ]
-  |6051=[
-        |definition=n6051
-        |icon=$icon_mech_castel
-        |miniicon=$tactical_icon_runner
-  ]
-  |6052=[
-        |definition=n6052
-        |icon=$icon_mech_prometheus
-        |miniicon=$tactical_icon_runner
-  ]
-  |6053=[
-        |definition=n6053
-        |icon=$icon_mech_prometheus
-        |miniicon=$tactical_icon_runner
-  ]
-  |6054=[
-        |definition=n6054
-        |icon=$icon_mech_yagel
-        |miniicon=$tactical_icon_runner
-  ]
-  |6055=[
-        |definition=n6055
-        |icon=$icon_mech_yagel
-        |miniicon=$tactical_icon_runner
   ]
 ]
