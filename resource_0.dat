@@ -102,16 +102,16 @@
     |path=$lang0000/icons/ammo_railgun_d_pr/00000000.png
   ]
   |icon_bot_felos=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9aa3
-    |path=$lang0000/icons/bot_felos/00000000.png
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9aa3
+    |path=$lang0000/icons/bot_felos/00000001.png
   ]
   |icon_bot_hydra=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9590
-    |path=$lang0000/icons/bot_hydra/00000000.png
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9590
+    |path=$lang0000/icons/bot_hydra/00000001.png
   ]
   |icon_bot_onyx=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i941e
-    |path=$lang0000/icons/bot_onyx/00000000.png
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i941e
+    |path=$lang0000/icons/bot_onyx/00000001.png
   ]
   |icon_bot_anniversarkhe=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ia38d
