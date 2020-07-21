@@ -18,12 +18,12 @@
         |basesound=$snd_3d_ambience_asi_station_inside
         |terrainsound=$snd_3d_ambience_asi_station_ambient
         |terrainsoundparams=[
-                |maxdistance=f80
-                |mindistance=f30
-                |maxsoundlevel=f0.3
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f80
+				|mindistance=f30
+				|maxsoundlevel=f0.3
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |5=[
         |definition=n5
@@ -533,6 +533,19 @@
   ]
   |59=[
         |definition=n59
+        |defaulttint=iff00bcff
+        |gfxresource=$gfx_medium_laser
+        |staticscene=[
+            |scene01=[|sceneid=n2|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene04=[|sceneid=n5|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene07=[|sceneid=n4|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene08=[|sceneid=if|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_laser|scene=$pbs_gatling_laser]
+        ]
         |icon=$icon_laser
   ]
   |60=[
@@ -569,6 +582,19 @@
   ]
   |62=[
         |definition=n62
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_medium_artillery
+        |staticscene=[
+                |scene01=[|sceneid=n2|resource=$gfx_medium_artillery|scene=$med_artillery_arm]
+                |scene02=[|sceneid=n1|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene03=[|sceneid=n3|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene04=[|sceneid=n4|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene05=[|sceneid=n7|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene06=[|sceneid=n8|resource=$gfx_medium_artillery|scene=$med_artillery_tyrannos]
+                |scene07=[|sceneid=n5|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene08=[|sceneid=if|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene09=[|sceneid=i15|resource=$gfx_medium_artillery|scene=$med_artillery_zenith]
+        ]
         |icon=$icon_autocannon
   ]
   |63=[
@@ -610,6 +636,20 @@
   ]
   |65=[
         |definition=n65
+        |gfxresource=$gfx_medium_missile
+        |staticscene=[
+            |scene01=[|sceneid=n1|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene02=[|sceneid=n2|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene03=[|sceneid=n5|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene07=[|sceneid=n6|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene05=[|sceneid=n9|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene06=[|sceneid=if|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene08=[|sceneid=i10|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene09=[|sceneid=n3|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene10=[|sceneid=i18|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+            |scene11=[|sceneid=i20|resource=$gfx_medium_missile|scene=$pbs_large_missile]
+        ]
         |icon=$icon_missle
   ]
   |66=[
@@ -648,6 +688,19 @@
   ]
   |68=[
         |definition=n68
+        |defaulttint=iffb56c10
+        |gfxresource=$gfx_medium_railgun
+        |staticscene=[
+            |scene01=[|sceneid=n2|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene07=[|sceneid=if|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene08=[|sceneid=n5|resource=$gfx_medium_railgun|scene=$pbs_rail]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_railgun|scene=$pbs_rail]
+        ]
         |icon=$icon_railgun
   ]
   |69=[
@@ -1726,7 +1779,6 @@
         |miniicon=$tactical_icon_runner
   ]
   |205=[
-
         |definition=n205
         |icon=$icon_mech_kain
         |miniicon=$tactical_icon_mech
@@ -3438,12 +3490,12 @@
         |decalid=n1
         |terrainsound=$snd_3d_ambience_asi_teleport_ambient
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f0.25
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f0.25
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |668=[
         |definition=n668
@@ -4167,6 +4219,18 @@
         |definition=n836
         |copyfrom=n58
   ]
+  |837=[
+        |definition=n837
+        |copyfrom=n59
+  ]
+  |838=[
+        |definition=n838
+        |copyfrom=n59
+  ]
+  |839=[
+        |definition=n839
+        |copyfrom=n59
+  ]
   |840=[
         |definition=n840
         |copyfrom=n60
@@ -4190,6 +4254,18 @@
   |845=[
         |definition=n845
         |copyfrom=n61
+  ]
+  |846=[
+        |definition=n846
+        |copyfrom=n62
+  ]
+  |847=[
+        |definition=n847
+        |copyfrom=n62
+  ]
+  |848=[
+        |definition=n848
+        |copyfrom=n62
   ]
   |849=[
         |definition=n849
@@ -4215,6 +4291,18 @@
         |definition=n854
         |copyfrom=n64
   ]
+  |855=[
+        |definition=n855
+        |copyfrom=n65
+  ]
+  |856=[
+        |definition=n856
+        |copyfrom=n65
+  ]
+  |857=[
+        |definition=n857
+        |copyfrom=n65
+  ]
   |858=[
         |definition=n858
         |copyfrom=n66
@@ -4238,6 +4326,18 @@
   |863=[
         |definition=n863
         |copyfrom=n67
+  ]
+  |864=[
+        |definition=n864
+        |copyfrom=n68
+  ]
+  |865=[
+        |definition=n865
+        |copyfrom=n68
+  ]
+  |866=[
+        |definition=n866
+        |copyfrom=n68
   ]
   |873=[
         |definition=n873
@@ -4784,18 +4884,7 @@
   ]
   |1001=[
         |definition=n1001
-        |defaulttint=iffb56c10
-        |gfxresource=$gfx_medium_railgun
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_railgun|scene=$med_rail_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_railgun|scene=$med_rail_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_railgun|scene=$med_rail_side_direct]
-            |scene04=[|sceneid=n4|resource=$gfx_medium_railgun|scene=$med_rail_top_turret]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_railgun|scene=$med_rail_mesmer]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_railgun|scene=$med_rail_tyrannos]
-            |scene07=[|sceneid=if|resource=$gfx_medium_railgun|scene=$med_rail_top_turret]
-        ]
-        |icon=$icon_railgun
+        |copyfrom=n68
   ]
   |1002=[
         |definition=n1002
@@ -4816,19 +4905,7 @@
   ]
   |1003=[
         |definition=n1003
-        |defaulttint=iff00bcff
-        |gfxresource=$gfx_medium_laser
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_laser|scene=$med_laser_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_laser|scene=$med_laser_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_laser|scene=$med_laser_side_direct]
-            |scene04=[|sceneid=n5|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_laser|scene=$med_laser_mesmer_slot]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_laser|scene=$med_laser_tyrannos_slot]
-            |scene07=[|sceneid=n4|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-            |scene08=[|sceneid=if|resource=$gfx_medium_laser|scene=$med_laser_top_direct]
-        ]
-        |icon=$icon_laser
+        |copyfrom=n59
   ]
   |1004=[
         |definition=n1004
@@ -4848,19 +4925,7 @@
   ]
   |1005=[
         |definition=n1005
-        |gfxresource=$gfx_medium_minigun
-        |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_minigun|scene=$med_minigun_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_minigun|scene=$med_minigun_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_minigun|scene=$med_minigun_side_direct]
-            |scene04=[|sceneid=n4|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_minigun|scene=$med_minigun_tyrannos]
-            |scene07=[|sceneid=n5|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene08=[|sceneid=if|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
-            |scene09=[|sceneid=i15|resource=$gfx_medium_minigun|scene=$med_minigun_zenith]
-        ]
-        |icon=$icon_autocannon
+        |copyfrom=n62
   ]
   |1006=[
         |definition=n1006
@@ -4924,15 +4989,15 @@
   ]
   |1021=[
         |definition=n1021
-        |copyfrom=n1001
+        |copyfrom=n68
   ]
   |1022=[
         |definition=n1022
-        |copyfrom=n1001
+        |copyfrom=n68
   ]
   |1023=[
         |definition=n1023
-        |copyfrom=n1001
+        |copyfrom=n68
   ]
   |1024=[
         |definition=n1024
@@ -4948,15 +5013,15 @@
   ]
   |1027=[
         |definition=n1027
-        |copyfrom=n1003
+        |copyfrom=n59
   ]
   |1028=[
         |definition=n1028
-        |copyfrom=n1003
+        |copyfrom=n59
   ]
   |1029=[
         |definition=n1029
-        |copyfrom=n1003
+        |copyfrom=n59
   ]
   |1030=[
         |definition=n1030
@@ -4972,15 +5037,15 @@
   ]
   |1033=[
         |definition=n1033
-        |copyfrom=n1005
+        |copyfrom=n62
   ]
   |1034=[
         |definition=n1034
-        |copyfrom=n1005
+        |copyfrom=n62
   ]
   |1035=[
         |definition=n1035
-        |copyfrom=n1005
+        |copyfrom=n62
   ]
   |1036=[
        |definition=n1036
@@ -5189,12 +5254,12 @@
         |decalid=n1
 
         |terrainsoundparams=[
-                |maxdistance=f80
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f80
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
 
   ]
   |1146=[
@@ -6292,12 +6357,12 @@
         |basesound=$snd_3d_ambience_tm_station_inside
         |terrainsound=$snd_3d_ambience_tm_station_ambient
         |terrainsoundparams=[
-                |maxdistance=f80
-                |mindistance=f30
-                |maxsoundlevel=f0.4
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f80
+				|mindistance=f30
+				|maxsoundlevel=f0.4
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |1393=[
         |definition=n1393
@@ -6318,12 +6383,12 @@
         |basesound=$snd_3d_ambience_ics_station_inside
         |terrainsound=$snd_3d_ambience_ics_station_ambient
         |terrainsoundparams=[
-                |maxdistance=f80
-                |mindistance=f30
-                |maxsoundlevel=f0.45
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f80
+				|mindistance=f30
+				|maxsoundlevel=f0.45
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
   |1394=[
@@ -6341,12 +6406,12 @@
         |decalid=n1
         |terrainsound=$snd_3d_ambience_tm_teleport_ambient
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f0.25
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f0.25
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
   |1395=[
@@ -6364,12 +6429,12 @@
         |decalid=n1
         |terrainsound=$snd_3d_ambience_ics_teleport_ambient
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f0.25
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f0.25
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |1400=[
         |definition=n1400
@@ -11080,12 +11145,12 @@
         |basesound=$snd_3d_ambience_asi_outpost_inside
         |terrainsound=$snd_3d_ambience_asi_outpost_ambient
         |terrainsoundparams=[
-                |maxdistance=f70
-                |mindistance=f20
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f70
+				|mindistance=f20
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |2528=[
         |definition=n2528
@@ -11106,12 +11171,12 @@
         |basesound=$snd_3d_ambience_tm_outpost_inside
         |terrainsound=$snd_3d_ambience_tm_outpost_ambient
         |terrainsoundparams=[
-                |maxdistance=f70
-                |mindistance=f20
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f70
+				|mindistance=f20
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |2529=[
         |definition=n2529
@@ -11132,12 +11197,12 @@
         |basesound=$snd_3d_ambience_ics_outpost_inside
         |terrainsound=$snd_3d_ambience_ics_outpost_ambient
         |terrainsoundparams=[
-                |maxdistance=f70
-                |mindistance=f20
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f70
+				|mindistance=f20
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |2532=[
         |definition=n2532
@@ -11889,12 +11954,12 @@
         |explosioneffects=N17
         |terrainsound=$snd_3d_ambience_damage_collector_working
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |2725=[
         |definition=n2725
@@ -11922,12 +11987,12 @@
         |miniicon=$tactical_icon_teleport
         |terrainsound=$snd_3d_ambience_standing_collector_working
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
 
@@ -11945,12 +12010,12 @@
         |miniicon=$tactical_icon_teleport
         |terrainsound=$snd_3d_ambience_hack_collector_working
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
 
@@ -11968,12 +12033,12 @@
         |miniicon=$tactical_icon_teleport
         |terrainsound=$snd_3d_ambience_item_collector_working
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
   |2732=[
@@ -12208,12 +12273,12 @@
         |dematerializeeffects=N18
         |terrainsound=$snd_3d_ambience_teleport_active
         |terrainsoundparams=[
-                |maxdistance=f20
-                |mindistance=f5
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f20
+				|mindistance=f5
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |2769=[
         |definition=n2769
@@ -12977,12 +13042,12 @@
         |explosioneffects=N26
         |terrainsound=$snd_3d_ambience_blob_emitter_active
         |terrainsoundparams=[
-                |maxdistance=f40
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f40
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |2871=[
         |definition=n2871
@@ -20234,12 +20299,12 @@
         |explosioneffects=N26
         |terrainsound=$snd_3d_ambience_blob_emitter_active
         |terrainsoundparams=[
-                |maxdistance=f40
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f40
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |4169=[
         |definition=n4169
@@ -20961,12 +21026,12 @@
         |miniicon=$tactical_icon_sap
         |terrainsound=$snd_3d_ambience_hack_collector_working
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |4275=[
         |definition=n4275
@@ -20982,12 +21047,12 @@
         |miniicon=$tactical_icon_sap
         |terrainsound=$snd_3d_ambience_standing_collector_working
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |4276=[
         |definition=n4276
@@ -21004,12 +21069,12 @@
         |explosioneffects=N17
         |terrainsound=$snd_3d_ambience_damage_collector_working
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |4277=[
         |definition=n4277
@@ -21025,12 +21090,12 @@
         |miniicon=$tactical_icon_sap
         |terrainsound=$snd_3d_ambience_item_collector_working
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |4278=[
         |definition=n4278
@@ -22347,12 +22412,12 @@
         |explosioneffects=N26
         |terrainsound=$snd_3d_ambience_blob_emitter_active
         |terrainsoundparams=[
-                |maxdistance=f40
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f40
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |4604=[
         |definition=n4604
@@ -22398,8 +22463,8 @@
         |icon=$icon_wall_healer
   ]
   |4616=[
-            |definition=n4616
-            |icon=$icon_pbs_facility
+  			|definition=n4616
+  			|icon=$icon_pbs_facility
   ]
   |4617=[
         |definition=n4617
@@ -22422,15 +22487,15 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside4
         |terrainsoundparams=[
-                |maxdistance=f20
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f20
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
 
-        |explosioneffects=N58       
+        |explosioneffects=N58		
   ]
   |4619=[
         |definition=n4619
@@ -22448,13 +22513,13 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_transmitter
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_transmitter
         |explosioneffects=N60
   ]
   |4622=[
@@ -22469,8 +22534,8 @@
         |explosioneffects=N6,27,55
   ]
   |4623=[
-            |definition=n4623
-            |icon=$icon_pbs_transmitter
+  			|definition=n4623
+  			|icon=$icon_pbs_transmitter
   ]
   |4624=[
         |definition=n4624
@@ -22527,13 +22592,13 @@
         |basesound=$snd_3d_ambience_pbs_inside_final
         |terrainsound=$snd_3d_ambience_pbs_outside3
         |terrainsoundparams=[
-                |maxdistance=f35
-                |mindistance=f17
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_terminal_small
+				|maxdistance=f35
+				|mindistance=f17
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_terminal_small
         |explosioneffects=N67
   ]
   |4634=[
@@ -22548,8 +22613,8 @@
         |explosioneffects=N6,27,55
   ]
   |4635=[
-            |definition=n4635
-            |icon=$icon_pbs_terminal_small
+  			|definition=n4635
+  			|icon=$icon_pbs_terminal_small
   ]
   |4636=[
         |definition=n4636
@@ -22570,13 +22635,13 @@
         |basesound=$snd_3d_ambience_pbs_inside_final
         |terrainsound=$snd_3d_ambience_pbs_outside2
         |terrainsoundparams=[
-                |maxdistance=f40
-                |mindistance=f20
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_terminal_medium
+				|maxdistance=f40
+				|mindistance=f20
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_terminal_medium
         |explosioneffects=N68
   ]
   |4637=[
@@ -22591,8 +22656,8 @@
         |explosioneffects=N6,27,55
   ]
   |4638=[
-            |definition=n4638
-            |icon=$icon_pbs_terminal_medium
+  			|definition=n4638
+  			|icon=$icon_pbs_terminal_medium
   ]
   |4639=[
         |definition=n4639
@@ -22628,13 +22693,13 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
   ]
   |4649=[
         |definition=n4649
@@ -22648,8 +22713,8 @@
         |explosioneffects=N6,27,55
   ]
   |4650=[
-            |definition=n4650
-            |icon=$icon_pbs_facility
+  			|definition=n4650
+  			|icon=$icon_pbs_facility
   ]
   |4651=[
         |definition=n4651
@@ -22706,18 +22771,18 @@
         |basesound=$snd_3d_ambience_pbs_inside_final
         |terrainsound=$snd_3d_ambience_pbs_outside
         |terrainsoundparams=[
-                |maxdistance=f40
-                |mindistance=f20
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_terminal_large
+				|maxdistance=f40
+				|mindistance=f20
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_terminal_large
         |explosioneffects=N69
   ]
   |4666=[
-            |definition=n4666
-            |icon=$icon_pbs_terminal_large
+  			|definition=n4666
+  			|icon=$icon_pbs_terminal_large
   ]
   |4667=[
         |definition=n4667
@@ -22731,8 +22796,8 @@
         |explosioneffects=N6,27,55
   ]
   |4668=[
-            |definition=n4668
-            |icon=$icon_pbs_facility
+  			|definition=n4668
+  			|icon=$icon_pbs_facility
   ]
   |4669=[
         |definition=n4669
@@ -22755,18 +22820,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside4
         |terrainsoundparams=[
-                |maxdistance=f20
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f20
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N58
   ]
   |4671=[
-            |definition=n4671
-            |icon=$icon_pbs_facility
+  			|definition=n4671
+  			|icon=$icon_pbs_facility
   ]
   |4672=[
         |definition=n4672
@@ -22789,13 +22854,13 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside4
         |terrainsoundparams=[
-                |maxdistance=f20
-                |mindistance=f10
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f20
+				|mindistance=f10
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N58
   ]
   |4674=[
@@ -22808,13 +22873,13 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_transmitter
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_transmitter
         |explosioneffects=N60
   ]
   |4675=[
@@ -22829,8 +22894,8 @@
         |explosioneffects=N6,27,55
   ]
   |4676=[
-            |definition=n4676
-            |icon=$icon_pbs_transmitter
+  			|definition=n4676
+  			|icon=$icon_pbs_transmitter
   ]
   |4677=[
         |definition=n4677
@@ -22842,13 +22907,13 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_transmitter
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_transmitter
         |explosioneffects=N60
   ]
   |4678=[
@@ -22863,12 +22928,12 @@
         |explosioneffects=N6,27,55
   ]
   |4679=[
-            |definition=n4679
-            |icon=$icon_pbs_transmitter
+  			|definition=n4679
+  			|icon=$icon_pbs_transmitter
   ]
   |4680=[
-            |definition=n4680
-            |icon=$icon_pbs_transmitter_xl
+  			|definition=n4680
+  			|icon=$icon_pbs_transmitter_xl
   ]
   |4681=[
         |definition=n4681
@@ -22891,18 +22956,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_transmitter_xl
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_transmitter_xl
         |explosioneffects=N60
   ]
   |4683=[
-            |definition=n4683
-            |icon=$icon_pbs_transmitter_xl
+  			|definition=n4683
+  			|icon=$icon_pbs_transmitter_xl
   ]
   |4684=[
         |definition=n4684
@@ -22925,18 +22990,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_transmitter_xl
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_transmitter_xl
         |explosioneffects=N60
   ]
   |4686=[
-            |definition=n4686
-            |icon=$icon_pbs_transmitter_xl
+  			|definition=n4686
+  			|icon=$icon_pbs_transmitter_xl
   ]
   |4687=[
         |definition=n4687
@@ -22959,13 +23024,13 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_transmitter_xl
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_transmitter_xl
         |explosioneffects=N60
   ]
   |4689=[
@@ -22978,13 +23043,13 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside5
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_miner_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_miner_tower
         |explosioneffects=N65
   ]
   |4690=[
@@ -22999,8 +23064,8 @@
         |explosioneffects=N6,27,55
   ]
   |4691=[
-            |definition=n4691
-            |icon=$icon_pbs_miner_tower
+  			|definition=n4691
+  			|icon=$icon_pbs_miner_tower
   ]
   |4692=[
         |definition=n4692
@@ -23012,18 +23077,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside8
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_repairer
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_repairer
         |explosioneffects=N63
   ]
   |4693=[
-            |definition=n4693
-            |icon=$icon_pbs_repairer
+  			|definition=n4693
+  			|icon=$icon_pbs_repairer
   ]
   |4694=[
         |definition=n4694
@@ -23042,10 +23107,10 @@
         |icon=$icon_pbs_facility_upgrade
   ]
   |4698=[
-    |definition=n4698
-    |icon=$icon_pbs_facility_upgrade
+	|definition=n4698
+	|icon=$icon_pbs_facility_upgrade
         |miniicon=$tactical_icon_pbs_facilityupgrade
-    |defaulttint=iff000000
+	|defaulttint=iff000000
         |gfxresource=$gfx_pbs_buildings
         |staticscene=[
         |scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
@@ -23064,8 +23129,8 @@
         |explosioneffects=N61
   ]
   |4700=[
-            |definition=n4700
-            |icon=$icon_pbs_control_tower
+  			|definition=n4700
+  			|icon=$icon_pbs_control_tower
   ]
   |4701=[
         |definition=n4701
@@ -23088,18 +23153,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside6
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_control_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_control_tower
         |explosioneffects=N64
   ]
   |4703=[
-            |definition=n4703
-            |icon=$icon_pbs_facility
+  			|definition=n4703
+  			|icon=$icon_pbs_facility
   ]
   |4704=[
         |definition=n4704
@@ -23122,18 +23187,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4706=[
-            |definition=n4706
-            |icon=$icon_pbs_facility
+  			|definition=n4706
+  			|icon=$icon_pbs_facility
   ]
   |4707=[
         |definition=n4707
@@ -23156,18 +23221,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4709=[
-            |definition=n4709
-            |icon=$icon_pbs_facility
+  			|definition=n4709
+  			|icon=$icon_pbs_facility
   ]
   |4710=[
         |definition=n4710
@@ -23190,18 +23255,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4712=[
-            |definition=n4712
-            |icon=$icon_pbs_facility_upgrade
+  			|definition=n4712
+  			|icon=$icon_pbs_facility_upgrade
   ]
   |4713=[
         |definition=n4713
@@ -23226,8 +23291,8 @@
         |explosioneffects=N61
   ]
   |4715=[
-            |definition=n4715
-            |icon=$icon_pbs_facility_upgrade
+  			|definition=n4715
+  			|icon=$icon_pbs_facility_upgrade
   ]
   |4716=[
         |definition=n4716
@@ -23252,8 +23317,8 @@
         |explosioneffects=N61
   ]
   |4718=[
-    |definition=n4718
-    |icon=$icon_pbs_repairer
+  	|definition=n4718
+  	|icon=$icon_pbs_repairer
   ]
   |4719=[
         |definition=n4719
@@ -23276,13 +23341,13 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside8
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_repairer
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_repairer
         |explosioneffects=N63
   ]
   |4721=[
@@ -23310,18 +23375,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside8
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
         |explosioneffects=N63
         |icon=$icon_pbs_repairer
   ]
   |4724=[
-            |definition=n4724
-            |icon=$icon_pbs_facility
+  			|definition=n4724
+  			|icon=$icon_pbs_facility
   ]
   |4725=[
         |definition=n4725
@@ -23344,18 +23409,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4727=[
-            |definition=n4727
-            |icon=$icon_pbs_facility
+  			|definition=n4727
+  			|icon=$icon_pbs_facility
   ]
   |4728=[
         |definition=n4728
@@ -23378,13 +23443,13 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4730=[
@@ -23411,8 +23476,8 @@
         |icon=$icon_ammo_deconstruction
   ]
   |4735=[
-            |definition=n4735
-            |icon=$icon_pbs_miner_tower
+  			|definition=n4735
+  			|icon=$icon_pbs_miner_tower
   ]
   |4736=[
         |definition=n4736
@@ -23435,18 +23500,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside5
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_miner_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_miner_tower
         |explosioneffects=N65
   ]
   |4738=[
-            |definition=n4738
-            |icon=$icon_pbs_miner_tower
+  			|definition=n4738
+  			|icon=$icon_pbs_miner_tower
   ]
   |4739=[
         |definition=n4739
@@ -23469,18 +23534,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside5
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_miner_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_miner_tower
         |explosioneffects=N65
   ]
   |4741=[
-            |definition=n4741
-            |icon=$icon_pbs_control_tower
+  			|definition=n4741
+  			|icon=$icon_pbs_control_tower
   ]
   |4742=[
         |definition=n4742
@@ -23503,18 +23568,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside6
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_control_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_control_tower
         |explosioneffects=N64
   ]
   |4744=[
-            |definition=n4744
-            |icon=$icon_pbs_control_tower
+  			|definition=n4744
+  			|icon=$icon_pbs_control_tower
   ]
   |4745=[
         |definition=n4745
@@ -23537,18 +23602,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside6
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_control_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_control_tower
         |explosioneffects=N64
   ]
   |4750=[
-            |definition=n4750
-            |icon=$icon_pbs_effect_emitter
+  			|definition=n4750
+  			|icon=$icon_pbs_effect_emitter
   ]
   |4751=[
         |definition=n4751
@@ -23573,8 +23638,8 @@
         |explosioneffects=N61
   ]
   |4753=[
-            |definition=n4753
-            |icon=$icon_pbs_effect_emitter
+  			|definition=n4753
+  			|icon=$icon_pbs_effect_emitter
   ]
   |4754=[
         |definition=n4754
@@ -23599,8 +23664,8 @@
         |explosioneffects=N61
   ]
   |4756=[
-            |definition=n4756
-            |icon=$icon_pbs_effect_emitter
+  			|definition=n4756
+  			|icon=$icon_pbs_effect_emitter
   ]
   |4757=[
         |definition=n4757
@@ -23625,8 +23690,8 @@
         |explosioneffects=N61
   ]
   |4759=[
-            |definition=n4759
-            |icon=$icon_pbs_facility
+  			|definition=n4759
+  			|icon=$icon_pbs_facility
   ]
   
   |4760=[
@@ -23650,18 +23715,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4762=[
-            |definition=n4762
-            |icon=$icon_pbs_facility
+  			|definition=n4762
+  			|icon=$icon_pbs_facility
   ]
   |4763=[
         |definition=n4763
@@ -23684,18 +23749,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4765=[
-            |definition=n4765
-            |icon=$icon_pbs_facility
+  			|definition=n4765
+  			|icon=$icon_pbs_facility
   ]
   |4766=[
         |definition=n4766
@@ -23718,18 +23783,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4768=[
-            |definition=n4768
-            |icon=$icon_pbs_facility
+  			|definition=n4768
+  			|icon=$icon_pbs_facility
   ]
   |4769=[
         |definition=n4769
@@ -23752,18 +23817,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
         ]
         |icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4771=[
-            |definition=n4771
-            |icon=$icon_pbs_facility
+  			|definition=n4771
+  			|icon=$icon_pbs_facility
   ]
   |4772=[
         |definition=n4772
@@ -23786,18 +23851,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
         ]
         |icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4774=[
-            |definition=n4774
-            |icon=$icon_pbs_facility
+  			|definition=n4774
+  			|icon=$icon_pbs_facility
   ]
   |4775=[
         |definition=n4775
@@ -23821,17 +23886,17 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
         |explosioneffects=N62
         ]
   ]
   |4777=[
-            |definition=n4777
-            |icon=$icon_pbs_facility
+  			|definition=n4777
+  			|icon=$icon_pbs_facility
   ]
   |4778=[
         |definition=n4778
@@ -23854,18 +23919,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4780=[
-            |definition=n4780
-            |icon=$icon_pbs_facility
+  			|definition=n4780
+  			|icon=$icon_pbs_facility
   ]
   |4781=[
         |definition=n4781
@@ -23888,18 +23953,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4783=[
-            |definition=n4783
-            |icon=$icon_pbs_facility
+  			|definition=n4783
+  			|icon=$icon_pbs_facility
   ]
   |4784=[
         |definition=n4784
@@ -23922,18 +23987,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4786=[
-            |definition=n4786
-            |icon=$icon_pbs_facility
+  			|definition=n4786
+  			|icon=$icon_pbs_facility
   ]
   |4787=[
         |definition=n4787
@@ -23956,18 +24021,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4789=[
-            |definition=n4789
-            |icon=$icon_pbs_facility
+  			|definition=n4789
+  			|icon=$icon_pbs_facility
   ]
   |4790=[
         |definition=n4790
@@ -23990,18 +24055,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4792=[
-            |definition=n4792
-            |icon=$icon_pbs_facility
+  			|definition=n4792
+  			|icon=$icon_pbs_facility
         ]
   |4793=[
         |definition=n4793
@@ -24024,18 +24089,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4795=[
-            |definition=n4795
-            |icon=$icon_pbs_facility
+  			|definition=n4795
+  			|icon=$icon_pbs_facility
   ]
   |4796=[
         |definition=n4796
@@ -24058,18 +24123,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4798=[
-            |definition=n4798
-            |icon=$icon_pbs_facility
+  			|definition=n4798
+  			|icon=$icon_pbs_facility
   ]
   |4799=[
         |definition=n4799
@@ -24092,18 +24157,18 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4801=[
-            |definition=n4801
-            |icon=$icon_pbs_facility
+  			|definition=n4801
+  			|icon=$icon_pbs_facility
   ]
   |4802=[
         |definition=n4802
@@ -24126,13 +24191,13 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4804=[
@@ -24152,8 +24217,8 @@
         |icon=$icon_kernel_pbs
   ]
   |4808=[
-            |definition=n4808
-            |icon=$icon_pbs_turret
+  			|definition=n4808
+  			|icon=$icon_pbs_turret
   ]
   |4809=[
         |definition=n4809
@@ -24172,8 +24237,8 @@
         |icon=$icon_pbs_turret
   ]
   |4811=[
-            |definition=n4811
-            |icon=$icon_pbs_turret
+  			|definition=n4811
+  			|icon=$icon_pbs_turret
   ]
   |4812=[
         |definition=n4812
@@ -24192,8 +24257,8 @@
         |icon=$icon_pbs_turret
   ]
   |4814=[
-            |definition=n4814
-            |icon=$icon_pbs_turret
+  			|definition=n4814
+  			|icon=$icon_pbs_turret
   ]
   |4815=[
         |definition=n4815
@@ -24212,8 +24277,8 @@
         |icon=$icon_pbs_turret
   ]
   |4817=[
-            |definition=n4817
-            |icon=$icon_pbs_turret
+  			|definition=n4817
+  			|icon=$icon_pbs_turret
   ]
   |4818=[
         |definition=n4818
@@ -24232,8 +24297,8 @@
         |icon=$icon_pbs_turret
   ]
   |4820=[
-            |definition=n4820
-            |icon=$icon_pbs_turret
+  			|definition=n4820
+  			|icon=$icon_pbs_turret
   ]
   
   |4821=[
@@ -24264,8 +24329,8 @@
         |explosioneffects=N6,27,55
   ]
   |4823=[
-            |definition=n4823
-            |icon=$icon_pbs_turret
+  			|definition=n4823
+  			|icon=$icon_pbs_turret
   ]
   |4825=[
         |definition=n4825
@@ -24273,8 +24338,8 @@
         |icon=$icon_pbs_turret
   ]
   |4826=[
-            |definition=n4826
-            |icon=$icon_pbs_turret
+  			|definition=n4826
+  			|icon=$icon_pbs_turret
   ]
   |4827=[
         |definition=n4827
@@ -24293,8 +24358,8 @@
         |icon=$icon_pbs_turret
   ]
   |4829=[
-            |definition=n4829
-            |icon=$icon_pbs_turret
+  			|definition=n4829
+  			|icon=$icon_pbs_turret
   ]
   |4830=[
         |definition=n4830
@@ -24313,8 +24378,8 @@
         |icon=$icon_pbs_turret
   ]
   |4832=[
-            |definition=n4832
-            |icon=$icon_pbs_turret
+  			|definition=n4832
+  			|icon=$icon_pbs_turret
   ]
   |4833=[
         |definition=n4833
@@ -24333,8 +24398,8 @@
         |icon=$icon_pbs_turret
   ]
   |4835=[
-            |definition=n4835
-            |icon=$icon_pbs_facility
+  			|definition=n4835
+  			|icon=$icon_pbs_facility
   ]
   |4836=[
         |definition=n4836
@@ -24357,18 +24422,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4838=[
-            |definition=n4838
-            |icon=$icon_pbs_facility
+  			|definition=n4838
+  			|icon=$icon_pbs_facility
   ]
   |4839=[
         |definition=n4839
@@ -24391,18 +24456,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4841=[
-            |definition=n4841
-            |icon=$icon_pbs_facility
+  			|definition=n4841
+  			|icon=$icon_pbs_facility
   ]
   |4842=[
         |definition=n4842
@@ -24425,18 +24490,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside7
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_facility
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_facility
         |explosioneffects=N62
   ]
   |4844=[
-            |definition=n4844
-            |icon=$icon_pbs_booster
+  			|definition=n4844
+  			|icon=$icon_pbs_booster
   ]
   |4845=[
         |definition=n4845
@@ -24461,8 +24526,8 @@
         |explosioneffects=N61
   ]
   |4847=[
-            |definition=n4847
-            |icon=$icon_pbs_booster
+  			|definition=n4847
+  			|icon=$icon_pbs_booster
   ]
   |4848=[
         |definition=n4848
@@ -24487,8 +24552,8 @@
         |explosioneffects=N61
   ]
   |4850=[
-            |definition=n4850
-            |icon=$icon_pbs_booster
+  			|definition=n4850
+  			|icon=$icon_pbs_booster
   ]
   
   |4851=[
@@ -25017,20 +25082,20 @@
         |icon=$def_standard_sensor_dampener
   ]
   |4979=[
-    |definition=n4979
-    |icon=$icon_pbs_turret
+	|definition=n4979
+	|icon=$icon_pbs_turret
   ]
   |4980=[
-    |definition=n4980
-    |icon=$icon_pbs_turret
+	|definition=n4980
+	|icon=$icon_pbs_turret
   ]
   |4981=[
-    |definition=n4981
-    |icon=$icon_pbs_turret
+	|definition=n4981
+	|icon=$icon_pbs_turret
   ]
   |4982=[
-    |definition=n4982
-    |icon=$icon_pbs_turret
+	|definition=n4982
+	|icon=$icon_pbs_turret
   ]
   |4987=[
         |definition=n4987
@@ -25473,8 +25538,8 @@
         |icon=$icon_data_console3
   ]
   |5124=[
-            |definition=n5124
-            |icon=$icon_pbs_battery
+  			|definition=n5124
+  			|icon=$icon_pbs_battery
   ]
   |5125=[
         |definition=n5125
@@ -25497,18 +25562,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_battery
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_battery
         |explosioneffects=N59
   ]
   |5127=[
-            |definition=n5127
-            |icon=$icon_pbs_battery
+  			|definition=n5127
+  			|icon=$icon_pbs_battery
   ]
   |5128=[
         |definition=n5128
@@ -25531,18 +25596,18 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_battery
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_battery
         |explosioneffects=N59
   ]
   |5130=[
-            |definition=n5130
-            |icon=$icon_pbs_battery
+  			|definition=n5130
+  			|icon=$icon_pbs_battery
   ]
   |5131=[
         |definition=n5131
@@ -25565,13 +25630,13 @@
         ]
         |terrainsound=$snd_3d_ambience_pbs_outside9
         |terrainsoundparams=[
-                |maxdistance=f15
-                |mindistance=f7
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_battery
+				|maxdistance=f15
+				|mindistance=f7
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_battery
         |explosioneffects=N59
   ]
   |5133=[
@@ -25828,12 +25893,12 @@
         |explosioneffects=N6,27,55
   ]
   |5192=[
-            |definition=n5192
-            |icon=$icon_pbs_effect_emitter
+  			|definition=n5192
+  			|icon=$icon_pbs_effect_emitter
   ]
   |5193=[
-            |definition=n5193
-            |icon=$icon_pbs_effect_emitter
+  			|definition=n5193
+  			|icon=$icon_pbs_effect_emitter
   ]
   |5194=[
         |definition=n5194
@@ -25858,8 +25923,8 @@
         |explosioneffects=N61
   ]
   |5196=[
-            |definition=n5196
-            |icon=$icon_pbs_effect_emitter
+  			|definition=n5196
+  			|icon=$icon_pbs_effect_emitter
   ]
   |5197=[
         |definition=n5197
@@ -26490,12 +26555,12 @@
         |basesound=$snd_3d_ambience_asi_station_inside
         |terrainsound=$snd_3d_ambience_asi_station_ambient
         |terrainsoundparams=[
-                |maxdistance=f80
-                |mindistance=f30
-                |maxsoundlevel=f0.3
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f80
+				|mindistance=f30
+				|maxsoundlevel=f0.3
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
   |5326=[
@@ -26513,12 +26578,12 @@
         |decalid=n1
         |terrainsound=$snd_3d_ambience_ics_teleport_ambient
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f0.25
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f0.25
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
   |5327=[
@@ -26536,12 +26601,12 @@
         |decalid=n1
         |terrainsound=$snd_3d_ambience_tm_teleport_ambient
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f0.25
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f0.25
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
 
@@ -26560,12 +26625,12 @@
         |decalid=n1
         |terrainsound=$snd_3d_ambience_asi_teleport_ambient
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f0.25
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f0.25
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
 
   |5329=[
@@ -26583,12 +26648,12 @@
         |decalid=n1
         |terrainsound=$snd_3d_ambience_tm_teleport_ambient
         |terrainsoundparams=[
-                |maxdistance=f50
-                |mindistance=f10
-                |maxsoundlevel=f0.25
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
+				|maxdistance=f50
+				|mindistance=f10
+				|maxsoundlevel=f0.25
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
   ]
   |5332=[
         |definition=n5332
@@ -26618,13 +26683,13 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside5
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_miner_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_miner_tower
         |explosioneffects=N65
   ]
   |5350=[
@@ -26637,13 +26702,13 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside5
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_miner_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_miner_tower
         |explosioneffects=N65
   ]
   |5351=[
@@ -26656,13 +26721,13 @@
             ]
         |terrainsound=$snd_3d_ambience_pbs_outside5
         |terrainsoundparams=[
-                |maxdistance=f30
-                |mindistance=f15
-                |maxsoundlevel=f1
-                |minsoundlevel=f0
-                |rollofffactor=f0.8
-                ]
-                |icon=$icon_pbs_miner_tower
+				|maxdistance=f30
+				|mindistance=f15
+				|maxsoundlevel=f1
+				|minsoundlevel=f0
+				|rollofffactor=f0.8
+				]
+				|icon=$icon_pbs_miner_tower
         |explosioneffects=N65
   ]
   |5352=[
@@ -26699,16 +26764,16 @@
         |explosioneffects=N6,27,55
   ]
   |5355=[
-    |definition=n5355
-    |icon=$icon_pbs_miner_tower
+	|definition=n5355
+	|icon=$icon_pbs_miner_tower
   ]
   |5356=[
-    |definition=n5356
-    |icon=$icon_pbs_miner_tower
+	|definition=n5356
+	|icon=$icon_pbs_miner_tower
   ]
   |5357=[
-    |definition=n5357
-    |icon=$icon_pbs_miner_tower
+	|definition=n5357
+	|icon=$icon_pbs_miner_tower
   ]
   |5358=[
     |definition=n5358
@@ -28352,7 +28417,7 @@
   ]
   |5692=[
         |definition=n5692
-        |icon=$icon_item_specimen_sap_item_flux
+        |icon=$icon_ct_ammo
   ]
   |5693=[
         |definition=n5693
@@ -28508,5 +28573,871 @@
         |definition=n5724
         |icon=$icon_npc_outpost_guard
         |name=$def_npc_sap_guard_southi
+  ]
+  |5726=[
+        |definition=n5726
+        |icon=$icon_item_stronghold_teleport
+        |name=$def_mobile_teleport_stronghold_capsule
+  ]
+  |5727=[
+        |definition=n5727
+        |icon=$icon_item_stronghold_teleport
+        |gfxresource=$gfx_mteleport
+        |staticscene=[
+            |scene01=[|sceneid=n0|resource=$gfx_mteleport|scene=$m_teleport]
+        ]
+        |miniicon=$tactical_icon_teleport
+        |explosioneffects=N4,5
+        |dematerializeeffects=N18
+        |terrainsound=$snd_3d_ambience_teleport_active
+        |terrainsoundparams=[
+            |maxdistance=f20
+            |mindistance=f5
+            |maxsoundlevel=f1
+            |minsoundlevel=f0
+            |rollofffactor=f0.8
+        ]
+  ]
+  |5728=[
+        |definition=n5728
+        |name=$def_npc_beta1_pitboss
+        |icon=$icon_npc_beta1_pitboss
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5729=[
+        |definition=n5729
+        |icon=$icon_bot_anniversarkhe
+        |miniicon=$tactical_icon_runner
+  ]
+
+  |5730=[
+        |definition=n5730
+        |icon=$icon_ammo_railgun_a_pr
+  ]
+  |5731=[
+        |definition=n5731
+        |icon=$icon_ammo_railgun_b_pr
+  ]
+  |5732=[
+        |definition=n5732
+        |icon=$icon_ammo_railgun_c_pr
+  ]
+  |5733=[
+        |definition=n5733
+        |icon=$icon_ammo_railgun_d_pr
+  ]
+  |5734=[
+        |definition=n5734
+        |icon=$icon_ammo_lasercrystal_a_pr
+  ]
+  |5735=[
+        |definition=n5735
+        |icon=$icon_ammo_lasercrystal_b_pr
+  ]
+  |5736=[
+        |definition=n5736
+        |icon=$icon_ammo_lasercrystal_c_pr
+  ]
+  |5737=[
+        |definition=n5737
+        |icon=$icon_ammo_lasercrystal_d_pr
+  ]
+  |5738=[
+        |definition=n5738
+        |icon=$icon_ammo_cruisemissile_a_pr
+  ]
+  |5739=[
+        |definition=n5739
+        |icon=$icon_ammo_cruisemissile_b_pr
+  ]
+  |5740=[
+        |definition=n5740
+        |icon=$icon_ammo_cruisemissile_c_pr
+  ]
+  |5741=[
+        |definition=n5741
+        |icon=$icon_ammo_cruisemissile_d_pr
+  ]
+  |5742=[
+        |definition=n5742
+        |icon=$icon_ammo_longrange_cruisemissile_a_pr
+  ]
+  |5743=[
+        |definition=n5743
+        |icon=$icon_ammo_longrange_cruisemissile_b_pr
+  ]
+  |5744=[
+        |definition=n5744
+        |icon=$icon_ammo_longrange_cruisemissile_c_pr
+  ]
+  |5745=[
+        |definition=n5745
+        |icon=$icon_ammo_longrange_cruisemissile_d_pr
+  ]
+
+  |5746=[
+        |definition=n5746
+        |icon=$icon_ct_ammo
+  ]
+  |5747=[
+        |definition=n5747
+        |icon=$icon_ct_ammo
+  ]
+  |5748=[
+        |definition=n5748
+        |icon=$icon_ct_ammo
+  ]
+  |5749=[
+        |definition=n5749
+        |icon=$icon_ct_ammo
+  ]
+  |5750=[
+        |definition=n5750
+        |icon=$icon_ct_ammo
+  ]
+  |5751=[
+        |definition=n5751
+        |icon=$icon_ct_ammo
+  ]
+  |5752=[
+        |definition=n5752
+        |icon=$icon_ct_ammo
+  ]
+  |5753=[
+        |definition=n5753
+        |icon=$icon_ct_ammo
+  ]
+  |5754=[
+        |definition=n5754
+        |icon=$icon_ct_ammo
+  ]
+  |5755=[
+        |definition=n5755
+        |icon=$icon_ct_ammo
+  ]
+  |5756=[
+        |definition=n5756
+        |icon=$icon_ct_ammo
+  ]
+  |5757=[
+        |definition=n5757
+        |icon=$icon_ct_ammo
+  ]
+  |5758=[
+        |definition=n5758
+        |icon=$icon_ct_ammo
+  ]
+  |5759=[
+        |definition=n5759
+        |icon=$icon_ct_ammo
+  ]
+  |5760=[
+        |definition=n5760
+        |icon=$icon_ct_ammo
+  ]
+  |5761=[
+        |definition=n5761
+        |icon=$icon_ct_ammo
+  ]
+
+  |5762=[
+        |definition=n5762
+        |icon=$icon_module_armor_plate_pr
+  ]
+  |5763=[
+        |definition=n5763
+        |icon=$def_standard_armor_plate
+  ]
+  |5764=[
+        |definition=n5764
+        |icon=$def_standard_armor_plate
+  ]
+  |5765=[
+        |definition=n5765
+        |icon=$def_standard_armor_plate
+  ]
+
+  |5766=[
+        |definition=n5766
+        |icon=$icon_module_armor_repairer_pr
+  ]
+  |5767=[
+        |definition=n5767
+        |icon=$def_standard_armor_repairer
+  ]
+  |5768=[
+        |definition=n5768
+        |icon=$def_standard_armor_repairer
+  ]
+  |5769=[
+        |definition=n5769
+        |icon=$def_standard_armor_repairer
+  ]
+
+  |5770=[
+        |definition=n5770
+        |icon=$icon_module_shield_generator_pr
+  ]
+  |5771=[
+        |definition=n5771
+        |icon=$def_standard_shield_generator
+  ]
+  |5772=[
+        |definition=n5772
+        |icon=$def_standard_shield_generator
+  ]
+  |5773=[
+        |definition=n5773
+        |icon=$def_standard_shield_generator
+  ]
+
+  |5774=[
+        |definition=n5774
+        |icon=$icon_module_core_battery_pr
+  ]
+  |5775=[
+        |definition=n5775
+        |icon=$icon_core_battery
+  ]
+  |5776=[
+        |definition=n5776
+        |icon=$icon_core_battery
+  ]
+  |5777=[
+        |definition=n5777
+        |icon=$icon_core_battery
+  ]
+
+  |5778=[
+        |definition=n5778
+        |icon=$icon_module_core_booster_pr
+  ]
+  |5779=[
+        |definition=n5779
+        |icon=$icon_core_booster
+  ]
+  |5780=[
+        |definition=n5780
+        |icon=$icon_core_booster
+  ]
+  |5781=[
+        |definition=n5781
+        |icon=$icon_core_booster
+  ]
+
+  |5782=[
+        |definition=n5782
+        |icon=$icon_ct_module
+  ]
+  |5783=[
+        |definition=n5783
+        |icon=$icon_ct_module
+  ]
+  |5784=[
+        |definition=n5784
+        |icon=$icon_ct_module
+  ]
+  |5785=[
+        |definition=n5785
+        |icon=$icon_ct_module
+  ]
+  |5786=[
+        |definition=n5786
+        |icon=$icon_ct_module
+  ]
+  |5787=[
+        |definition=n5787
+        |icon=$icon_ct_module
+  ]
+  |5788=[
+        |definition=n5788
+        |icon=$icon_ct_module
+  ]
+  |5789=[
+        |definition=n5789
+        |icon=$icon_ct_module
+  ]
+  |5790=[
+        |definition=n5790
+        |icon=$icon_ct_module
+  ]
+  |5791=[
+        |definition=n5791
+        |icon=$icon_ct_module
+  ]
+  |5792=[
+        |definition=n5792
+        |icon=$icon_ct_module
+  ]
+  |5793=[
+        |definition=n5793
+        |icon=$icon_ct_module
+  ]
+  |5794=[
+        |definition=n5794
+        |icon=$icon_ct_module
+  ]
+  |5795=[
+        |definition=n5795
+        |icon=$icon_ct_module
+  ]
+  |5796=[
+        |definition=n5796
+        |icon=$icon_ct_module
+  ]
+  |5797=[
+        |definition=n5797
+        |icon=$icon_ct_module
+  ]
+  |5798=[
+        |definition=n5798
+        |icon=$icon_ct_module
+  ]
+  |5799=[
+        |definition=n5799
+        |icon=$icon_ct_module
+  ]
+  |5800=[
+        |definition=n5800
+        |icon=$icon_ct_module
+  ]
+  |5801=[
+        |definition=n5801
+        |icon=$icon_ct_module
+  ]
+
+  |5802=[
+        |definition=n5802
+        |copyfrom=n4863
+        |icon=$icon_module_laser_pr
+  ]
+  |5803=[
+        |definition=n5803
+        |copyfrom=n4863
+  ]
+  |5804=[
+        |definition=n5804
+        |copyfrom=n4863
+  ]
+  |5805=[
+        |definition=n5805
+        |copyfrom=n4863
+  ]
+  |5806=[
+        |definition=n5806
+        |copyfrom=n4863
+        |icon=$icon_module_laser_pr
+  ]
+  |5807=[
+        |definition=n5807
+        |copyfrom=n4863
+  ]
+  |5808=[
+        |definition=n5808
+        |copyfrom=n4863
+  ]
+  |5809=[
+        |definition=n5809
+        |copyfrom=n4863
+  ]
+
+  |5810=[
+        |definition=n5810
+        |copyfrom=n4864
+        |icon=$icon_module_missile_pr
+  ]
+  |5811=[
+        |definition=n5811
+        |copyfrom=n4864
+  ]
+  |5812=[
+        |definition=n5812
+        |copyfrom=n4864
+  ]
+  |5813=[
+        |definition=n5813
+        |copyfrom=n4864
+  ]
+
+  |5814=[
+        |definition=n5814
+        |copyfrom=n4865
+        |icon=$icon_module_railgun_pr
+  ]
+  |5815=[
+        |definition=n5815
+        |copyfrom=n4865
+  ]
+  |5816=[
+        |definition=n5816
+        |copyfrom=n4865
+  ]
+  |5817=[
+        |definition=n5817
+        |copyfrom=n4865
+  ]
+  |5818=[
+        |definition=n5818
+        |copyfrom=n4865
+        |icon=$icon_module_railgun_pr
+  ]
+  |5819=[
+        |definition=n5819
+        |copyfrom=n4865
+  ]
+  |5820=[
+        |definition=n5820
+        |copyfrom=n4865
+  ]
+  |5821=[
+        |definition=n5821
+        |copyfrom=n4865
+  ]
+
+  |5822=[
+        |definition=n5822
+        |icon=$icon_ct_weapon
+  ]
+  |5823=[
+        |definition=n5823
+        |icon=$icon_ct_weapon
+  ]
+  |5824=[
+        |definition=n5824
+        |icon=$icon_ct_weapon
+  ]
+  |5825=[
+        |definition=n5825
+        |icon=$icon_ct_weapon
+  ]
+  |5826=[
+        |definition=n5826
+        |icon=$icon_ct_weapon
+  ]
+  |5827=[
+        |definition=n5827
+        |icon=$icon_ct_weapon
+  ]
+  |5828=[
+        |definition=n5828
+        |icon=$icon_ct_weapon
+  ]
+  |5829=[
+        |definition=n5829
+        |icon=$icon_ct_weapon
+  ]
+  |5830=[
+        |definition=n5830
+        |icon=$icon_ct_weapon
+  ]
+  |5831=[
+        |definition=n5831
+        |icon=$icon_ct_weapon
+  ]
+  |5832=[
+        |definition=n5832
+        |icon=$icon_ct_weapon
+  ]
+  |5833=[
+        |definition=n5833
+        |icon=$icon_ct_weapon
+  ]
+  |5834=[
+        |definition=n5834
+        |icon=$icon_ct_weapon
+  ]
+  |5835=[
+        |definition=n5835
+        |icon=$icon_ct_weapon
+  ]
+  |5836=[
+        |definition=n5836
+        |icon=$icon_ct_weapon
+  ]
+  |5837=[
+        |definition=n5837
+        |icon=$icon_ct_weapon
+  ]
+  |5838=[
+        |definition=n5838
+        |icon=$icon_ct_weapon
+  ]
+  |5839=[
+        |definition=n5839
+        |icon=$icon_ct_weapon
+  ]
+  |5840=[
+        |definition=n5840
+        |icon=$icon_ct_weapon
+  ]
+  |5841=[
+        |definition=n5841
+        |icon=$icon_ct_weapon
+  ]
+
+  |5842=[
+        |definition=n5842
+        |icon=$icon_geoscan_document
+  ]
+  |5843=[
+        |definition=n5843
+        |icon=$icon_material_fluxore
+  ]
+  |5844=[
+        |definition=n5844
+        |icon=$icon_ammo_mining_probe_fluxore_tile
+  ]
+  |5845=[
+        |definition=n5845
+        |icon=$icon_ammo_mining_probe_fluxore_direction
+  ]
+  |5846=[
+        |definition=n5846
+        |icon=$icon_ammo_mining_fluxore
+  ]
+  |5847=[
+        |definition=n5847
+        |icon=$icon_ammo_mining_fluxore_pr
+  ]
+  |5848=[
+        |definition=n5848
+        |icon=$icon_ammo_mining_gammaterial_pr
+  ]
+  |5849=[
+        |definition=n5849
+        |icon=$icon_ct_ammo
+  ]
+
+  |5850=[
+        |definition=n5850
+        |miniicon=$tactical_icon_runner
+        |icon=$icon_mech_argano
+  ]
+  |5851=[
+        |definition=n5851
+        |icon=$icon_mech_laird
+        |miniicon=$tactical_icon_runner
+  ]
+  |5852=[
+        |definition=n5852
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5853=[
+        |definition=n5853
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5854=[
+        |definition=n5854
+        |icon=$icon_mech_arbalest
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5855=[
+        |definition=n5855
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
+  ]
+  |5856=[
+        |definition=n5856
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
+  ]
+  |5857=[
+        |definition=n5857
+        |icon=$icon_mech_artemis
+        |miniicon=$tactical_icon_mech
+  ]
+  |5858=[
+        |definition=n5858
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5859=[
+        |definition=n5859
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5860=[
+        |definition=n5860
+        |icon=$icon_mech_baphomet
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5861=[
+        |definition=n5861
+        |icon=$icon_mech_gropho
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5862=[
+        |definition=n5862
+        |icon=$icon_mech_gropho
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5863=[
+        |definition=n5863
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
+  ]
+  |5864=[
+        |definition=n5864
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
+  ]
+  |5865=[
+        |definition=n5865
+        |icon=$icon_mech_kain
+        |miniicon=$tactical_icon_mech
+  ]
+  |5866=[
+        |definition=n5866
+        |icon=$icon_mech_mesmer
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5867=[
+        |definition=n5867
+        |icon=$icon_mech_mesmer
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5868=[
+        |definition=n5868
+        |icon=$icon_mech_seth
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5869=[
+        |definition=n5869
+        |icon=$icon_mech_seth
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |5870=[
+        |definition=n5870
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
+  ]
+  |5871=[
+        |definition=n5871
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
+  ]
+  |5872=[
+        |definition=n5872
+        |icon=$icon_mech_tyrannos
+        |miniicon=$tactical_icon_mech
+  ]
+  |5873=[
+        |definition=n5873
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5874=[
+        |definition=n5874
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5875=[
+        |definition=n5875
+        |icon=$icon_mech_waspish
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5876=[
+        |definition=n5876
+        |icon=$icon_mech_castel
+        |miniicon=$tactical_icon_runner
+  ]
+  |5877=[
+        |definition=n5877
+        |icon=$icon_mech_castel
+        |miniicon=$tactical_icon_runner
+  ]
+  |5878=[
+        |definition=n5878
+        |icon=$icon_mech_prometheus
+        |miniicon=$tactical_icon_runner
+  ]
+  |5879=[
+        |definition=n5879
+        |icon=$icon_mech_prometheus
+        |miniicon=$tactical_icon_runner
+  ]
+  |5880=[
+        |definition=n5880
+        |icon=$icon_mech_yagel
+        |miniicon=$tactical_icon_runner
+  ]
+  |5881=[
+        |definition=n5881
+        |icon=$icon_mech_yagel
+        |miniicon=$tactical_icon_runner
+  ]
+
+  |6000=[
+        |definition=n6000
+        |icon=$icon_bot_hydra
+        |gfxresource=$gfx_artemis
+        |staticscene=[
+            |scene01=[|sceneid=n0|resource=$gfx_artemis|scene=$head]
+        ]
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_suppressor|newstateeffectid=n274]
+            |override02=[|condition=$terraincondition_remote_sensor_amplifier|newstateeffectid=n279]
+        ]
+  ]
+  |6001=[
+        |definition=n6001
+        |icon=$icon_bot_hydra
+        |gfxresource=$gfx_gropho
+        |dynamicscene=$chassis
+        |headondynamic=i1
+        |dynamicrotationspeed=f5.0
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_smoke_low|newstateeffectid=n259]
+            |override02=[|condition=$terraincondition_smoke_mid|newstateeffectid=n260]
+            |override03=[|condition=$terraincondition_smoke_high|newstateeffectid=n261]
+        ]
+  ]
+  |6002=[
+        |definition=n6002
+        |icon=$icon_bot_hydra
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_lithus
+        |staticscene=[
+            |scene01=[|sceneid=n0|resource=$gfx_lithus|scene=$leg]
+        ]
+        |miniicon=$tactical_icon_heavymech
+        |explosioneffects=N38
+        |dematerializeeffects=N21
+        |materializeeffects=N25
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_demobilizer|newstateeffectid=n284]
+        ]
+        |dummyresource=$gfx_robotdummies
+        |dummyscene=$heavymech
+        |terminalscale=f0.9
+  ]
+  |6003=[
+        |definition=n6003
+        |icon=$icon_bot_hydra
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |6004=[
+        |definition=n6004
+        |copyfrom=n6003
+  ]
+  |6005=[
+        |definition=n6005
+        |icon=$icon_bot_felos
+        |gfxresource=$gfx_vagabond
+        |staticscene=[
+            |scene01=[|sceneid=n0|resource=$gfx_vagabond|scene=$head]
+        ]
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_suppressor|newstateeffectid=n274]
+            |override02=[|condition=$terraincondition_remote_sensor_amplifier|newstateeffectid=n279]
+        ]
+  ]
+  |6006=[
+        |definition=n6006
+        |icon=$icon_bot_felos
+        |gfxresource=$gfx_mesmer
+        |dynamicscene=$chassis
+        |headondynamic=i1
+        |dynamicrotationspeed=f5.0
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_smoke_low|newstateeffectid=n259]
+            |override02=[|condition=$terraincondition_smoke_mid|newstateeffectid=n260]
+            |override03=[|condition=$terraincondition_smoke_high|newstateeffectid=n261]
+        ]
+  ]
+  |6007=[
+        |definition=n6007
+        |icon=$icon_bot_felos
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_lithus
+        |staticscene=[
+            |scene01=[|sceneid=n0|resource=$gfx_lithus|scene=$leg]
+        ]
+        |miniicon=$tactical_icon_heavymech
+        |explosioneffects=N38
+        |dematerializeeffects=N21
+        |materializeeffects=N25
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_demobilizer|newstateeffectid=n284]
+        ]
+        |dummyresource=$gfx_robotdummies
+        |dummyscene=$heavymech
+        |terminalscale=f0.9
+  ]
+  |6008=[
+        |definition=n6008
+        |icon=$icon_bot_felos
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |6009=[
+        |definition=n6009
+        |copyfrom=n6008
+  ]
+  |6010=[
+        |definition=n6010
+        |icon=$icon_bot_onyx
+        |gfxresource=$gfx_zenith
+        |staticscene=[
+            |scene01=[|sceneid=n0|resource=$gfx_zenith|scene=$head]
+        ]
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_suppressor|newstateeffectid=n274]
+            |override02=[|condition=$terraincondition_remote_sensor_amplifier|newstateeffectid=n279]
+        ]
+  ]
+  |6011=[
+        |definition=n6011
+        |icon=$icon_bot_onyx
+        |gfxresource=$gfx_seth
+        |dynamicscene=$chassis
+        |headondynamic=i1
+        |dynamicrotationspeed=f5.0
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_smoke_low|newstateeffectid=n259]
+            |override02=[|condition=$terraincondition_smoke_mid|newstateeffectid=n260]
+            |override03=[|condition=$terraincondition_smoke_high|newstateeffectid=n261]
+        ]
+  ]
+  |6012=[
+        |definition=n6012
+        |icon=$icon_bot_onyx
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_lithus
+        |staticscene=[
+            |scene01=[|sceneid=n0|resource=$gfx_lithus|scene=$leg]
+        ]
+        |miniicon=$tactical_icon_heavymech
+        |explosioneffects=N38
+        |dematerializeeffects=N21
+        |materializeeffects=N25
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_demobilizer|newstateeffectid=n284]
+        ]
+        |dummyresource=$gfx_robotdummies
+        |dummyscene=$heavymech
+        |terminalscale=f0.9
+  ]
+  |6013=[
+        |definition=n6013
+        |icon=$icon_bot_onyx
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |6014=[
+        |definition=n6014
+        |copyfrom=n6013
+  ]
+  |6015=[
+        |definition=n6015
+        |icon=$icon_ct_robot
+  ]
+  |6016=[
+        |definition=n6016
+        |icon=$icon_ct_robot
+  ]
+  |6017=[
+        |definition=n6017
+        |icon=$icon_ct_robot
   ]
 ]
