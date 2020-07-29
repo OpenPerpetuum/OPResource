@@ -17,6 +17,28 @@
     |size=i93b1
     |hash=ib6ab339a
   ]
+  |altitude0070=[
+    |version=n0|language=i0|client=i0|compression=i0|size=i93b10
+    |path=$lang0000/layers/70/altitude0070/altitude.0070.bin
+  ]
+  |blocks0070=[
+    |version=n0|language=i0|client=i0|compression=i0|size=i93b10
+    |path=$lang0000/layers/70/blocks0070/blocks.0070.bin
+  ]
+  |control0070=[
+    |version=n0|language=i0|client=i0|compression=i0|size=i93b10
+    |path=$lang0000/layers/70/control0070/control.0070.bin
+  ]
+  |plants0070=[
+    |version=n0|language=i0|client=i0|compression=i0|size=i93b10
+    |path=$lang0000/layers/70/plants0070/plants.0070.bin
+  ]
+
+  |zoneDataCache=[
+    |version=n0|language=i0|client=i0|compression=i0|size=i93b1
+    |path=$lang0000/zoneDataCache/00000000.txt
+  ]
+
   |icon_ammo_cruisemissile_a_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i522d
     |path=$lang0000/icons/ammo_cruisemissile_a_pr/00000000.png
