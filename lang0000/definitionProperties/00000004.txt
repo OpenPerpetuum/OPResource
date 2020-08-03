@@ -29269,6 +29269,17 @@
         |miniicon=$tactical_icon_runner
   ]
 
+  |5882=[
+        |definition=n5882
+        |miniicon=$tactical_icon_rift
+        |icon=$icon_rift_echo
+        |gfxresource=$gfx_small_e_neutralizer
+        |staticscene=[
+        |scene01=[|sceneid=n0|resource=$gfx_small_e_neutralizer|scene=$rift_echo]
+        ]
+        |explosioneffects=N6,27,55
+  ]
+
   |6000=[
         |definition=n6000
         |icon=$icon_bot_hydra
