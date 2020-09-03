@@ -29670,6 +29670,33 @@
         |miniicon=$icon_public_docking_base_thelodica
   ]
 
+
+
+  |5924=[
+        |definition=n5924
+        |icon=$icon_ammo_projectile_chemo
+  ]
+  |5925=[
+        |definition=n5925
+        |icon=$icon_ct_ammo
+  ]
+  |5926=[
+        |definition=n5926
+        |icon=$icon_item_ct_capsule
+  ]
+  |5927=[
+        |definition=n5927
+        |icon=$icon_ammo_projectile_chemo
+  ]
+  |5928=[
+        |definition=n5928
+        |icon=$icon_ct_ammo
+  ]
+  |5929=[
+        |definition=n5929
+        |icon=$icon_item_ct_capsule
+  ]
+
   |6000=[
         |definition=n6000
         |icon=$icon_bot_hydra
