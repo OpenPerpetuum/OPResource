@@ -29280,6 +29280,11 @@
         |explosioneffects=N6,27,55
   ]
 
+  |5930=[
+        |definition=n5930
+        |copyfrom=n5379
+  ]
+
   |6000=[
         |definition=n6000
         |icon=$icon_bot_hydra
@@ -29450,9 +29455,5 @@
   |6017=[
         |definition=n6017
         |icon=$icon_ct_robot
-  ]
-  |6731=[
-		|definition=n6731
-		|copyfrom=n5379
   ]
 ]
