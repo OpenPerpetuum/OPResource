@@ -29670,8 +29670,6 @@
         |miniicon=$icon_public_docking_base_thelodica
   ]
 
-
-
   |5924=[
         |definition=n5924
         |icon=$icon_ammo_projectile_chemo
@@ -29695,6 +29693,11 @@
   |5929=[
         |definition=n5929
         |icon=$icon_item_ct_capsule
+  ]
+
+  |5930=[
+        |definition=n5930
+        |copyfrom=n5379
   ]
 
   |6000=[

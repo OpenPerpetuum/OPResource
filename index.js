@@ -21,8 +21,6 @@ app.use('/lang0000', express.static('lang0000'));
 // The index
 app.get('/', function(req, res, next) {
     console.log("Client hit index!");
-    console.log(req.params);
-    console.log(req.query);
     res.sendFile(path.join(__dirname + '/resource_0.dat'));
 });
 
