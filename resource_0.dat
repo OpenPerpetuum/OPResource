@@ -1,9 +1,9 @@
 #resources=[
   |definitionProperties=[
-    |version=n4
+    |version=n5
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000004.txt
+    |path=$lang0000/definitionProperties/00000005.txt
     |compression=i0
     |size=ib27ea
     |hash=ib6ab339a
@@ -13,6 +13,15 @@
     |language=i0
     |client=i0
     |path=$lang0000/categoryFlags/00000001.txt
+    |compression=i0
+    |size=i93b1
+    |hash=ib6ab339a
+  ]
+  |txtEffectIcons=[
+    |version=n20
+    |language=i0
+    |client=i0
+    |path=$lang0000/txtEffectIcons/00000020.txt
     |compression=i0
     |size=i93b1
     |hash=ib6ab339a
@@ -117,6 +126,22 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ia38d
     |path=$lang0000/icons/bot_anniversarkhe/00000000.png
   ]
+  |icon_effect_alpha_bonus=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ibc9
+    |path=$lang0000/icons/effect_alpha_bonus/00000000.png
+  ]
+  |icon_effect_alpha2_bonus=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ic7b
+    |path=$lang0000/icons/effect_alpha2_bonus/00000000.png
+  ]
+  |icon_effect_beta_bonus=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=icf1
+    |path=$lang0000/icons/effect_beta_bonus/00000000.png
+  ]
+  |icon_effect_beta2_bonus=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ic86
+    |path=$lang0000/icons/effect_beta2_bonus/00000000.png
+  ]
   |icon_item_boost_ep=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i72a3
     |path=$lang0000/icons/item_boost_ep/00000000.png
@@ -164,6 +189,10 @@
   |icon_module_shield_generator_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i78d8
     |path=$lang0000/icons/module_shield_generator_pr/00000000.png
+  ]
+  |icon_module_siege_hack_module=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i515b
+    |path=$lang0000/icons/module_siege_hack_module/00000000.png
   ]
   |icon_module_laser_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4ecf
