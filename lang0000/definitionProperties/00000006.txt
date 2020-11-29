@@ -11995,6 +11995,10 @@
                 ]
   ]
 
+  |2729=[
+        |definition=n2729
+        |icon=$icon_module_siege_hack_module
+  ]
 
   |2730=[
         |definition=n2730
