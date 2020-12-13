@@ -94,6 +94,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i761c
     |path=$lang0000/icons/ammo_mining_probe_fluxore_tile/00000000.png
   ]
+  |icon_ammo_projectile_t=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4edd
+    |path=$lang0000/icons/ammo_projectile_t/00000000.png
+  ]
   |icon_ammo_railgun_a_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6512
     |path=$lang0000/icons/ammo_railgun_a_pr/00000000.png
