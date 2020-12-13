@@ -29298,7 +29298,7 @@
   ]
   |5927=[
         |definition=n5927
-        |icon=$def_ammo_projectile_t
+        |icon=$icon_ammo_projectile_t
   ]
   |5928=[
         |definition=n5928
