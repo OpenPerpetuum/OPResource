@@ -29290,7 +29290,7 @@
   ]
   |5925=[
         |definition=n5925
-        |icon=$icon=$icon_ct_ammo
+        |icon=$icon_ct_ammo
   ]
   |5926=[
         |definition=n5926
@@ -29302,7 +29302,7 @@
   ]
   |5928=[
         |definition=n5928
-        |icon=$icon=$icon_ct_ammo
+        |icon=$icon_ct_ammo
   ]
   |5929=[
         |definition=n5929
