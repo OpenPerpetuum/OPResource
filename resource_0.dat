@@ -1,11 +1,11 @@
 #resources=[
   |definitionProperties=[
-    |version=n5
+    |version=n7
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000005.txt
+    |path=$lang0000/definitionProperties/00000007.txt
     |compression=i0
-    |size=ib27ea
+    |size=ib28a5
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -18,12 +18,12 @@
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n20
+    |version=n21
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000020.txt
+    |path=$lang0000/txtEffectIcons/00000021.txt
     |compression=i0
-    |size=i1eb1
+    |size=i20bd
     |hash=ib6ab339a
   ]
   |icon_ammo_cruisemissile_a_pr=[
@@ -94,6 +94,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i761c
     |path=$lang0000/icons/ammo_mining_probe_fluxore_tile/00000000.png
   ]
+  |icon_ammo_projectile_t=[
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4edd
+    |path=$lang0000/icons/ammo_projectile_t/00000001.png
+  ]
   |icon_ammo_railgun_a_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6512
     |path=$lang0000/icons/ammo_railgun_a_pr/00000000.png
@@ -141,6 +145,38 @@
   |icon_effect_beta2_bonus=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ic86
     |path=$lang0000/icons/effect_beta2_bonus/00000000.png
+  ]
+  |icon_effect_day=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i521
+    |path=$lang0000/icons/effect_day/00000000.png
+  ]
+  |icon_effect_day_clear=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3da
+    |path=$lang0000/icons/effect_day_clear/00000000.png
+  ]
+  |icon_effect_day_overcast=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5ec
+    |path=$lang0000/icons/effect_day_overcast/00000000.png
+  ]
+  |icon_effect_night=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i609
+    |path=$lang0000/icons/effect_night/00000000.png
+  ]
+  |icon_effect_night_clear=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5b4
+    |path=$lang0000/icons/effect_night_clear/00000000.png
+  ]
+  |icon_effect_night_overcast=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5ac
+    |path=$lang0000/icons/effect_night_overcast/00000000.png
+  ]
+  |icon_effect_weather_good=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i532
+    |path=$lang0000/icons/effect_weather_good/00000000.png
+  ]
+  |icon_effect_weather_bad=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i48b
+    |path=$lang0000/icons/effect_weather_bad/00000000.png
   ]
   |icon_item_boost_ep=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i72a3
@@ -190,10 +226,6 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i78d8
     |path=$lang0000/icons/module_shield_generator_pr/00000000.png
   ]
-  |icon_module_siege_hack_module=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i515b
-    |path=$lang0000/icons/module_siege_hack_module/00000000.png
-  ]
   |icon_module_laser_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4ecf
     |path=$lang0000/icons/module_laser_pr/00000000.png
@@ -205,6 +237,10 @@
   |icon_module_railgun_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5655
     |path=$lang0000/icons/module_railgun_pr/00000000.png
+  ]
+  |icon_module_siege_hack_module=[
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5124
+    |path=$lang0000/icons/module_siege_hack_module/00000001.png
   ]
   |icon_npc_beta1_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9689
