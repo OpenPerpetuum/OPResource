@@ -322,4 +322,24 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5914
     |path=$lang0000/icons/paint_yellow/00000000.png
   ]
+  |altitude0070=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i44fed
+    |path=$lang0000/layers/70/altitude0070/00000000.dat
+  ]
+  |blocks0070=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i519e
+    |path=$lang0000/layers/70/blocks0070/00000000.dat
+  ]
+  |control0070=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i1777
+    |path=$lang0000/layers/70/control0070/00000000.dat
+  ]
+  |plants0070=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i10dc6
+    |path=$lang0000/layers/70/plants0070/00000000.dat
+  ]
+  |zoneDataCache=[
+    |version=n0|language=i0|client=i0|compression=i0|size=i96af
+    |path=$lang0000/zoneDataCache/00000000.txt
+  ]
 ]#date=$2020-06-23-00-00-00#dummy=$knjkqdmkmn
