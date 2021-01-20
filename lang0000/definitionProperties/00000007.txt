@@ -29984,7 +29984,7 @@
         |icon=$icon_item_ct_capsule
   ]
   |5992=[
-        |definition=n5972
+        |definition=n5992
         |icon=$icon_item_ct_capsule
   ]
   |5993=[
