@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000007.txt
     |compression=i0
-    |size=ib28a5
+    |size=ib8ceb
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -198,6 +198,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8065
     |path=$lang0000/icons/item_stronghold_teleport/00000000.png
   ]
+  |icon_material_boss_shard=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6f0c
+    |path=$lang0000/icons/material_boss_shard/00000000.png
+  ]
   |icon_material_fluxore=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab
     |path=$lang0000/icons/material_fluxore/00000000.png
@@ -242,6 +246,14 @@
     |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5124
     |path=$lang0000/icons/module_siege_hack_module/00000001.png
   ]
+  |icon_npc_alpha1_arkhe_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7892
+    |path=$lang0000/icons/npc_alpha1_arkhe_boss/00000000.png
+  ]
+  |icon_npc_alpha2_synd_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8a1d
+    |path=$lang0000/icons/npc_alpha2_synd_boss/00000000.png
+  ]
   |icon_npc_beta1_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9689
     |path=$lang0000/icons/npc_beta1_pitboss/00000000.png
@@ -261,6 +273,18 @@
   |icon_npc_hersh_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8ac4
     |path=$lang0000/icons/npc_hersh_pitboss/00000000.png
+  ]
+  |icon_npc_sh70_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8956
+    |path=$lang0000/icons/npc_sh70_boss/00000000.png
+  ]
+  |icon_npc_sh70_miniboss_a=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8d46
+    |path=$lang0000/icons/npc_sh70_miniboss_a/00000000.png
+  ]
+  |icon_npc_sh70_miniboss_b=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i909f
+    |path=$lang0000/icons/npc_sh70_miniboss_b/00000000.png
   ]
   |paintBlack=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i43b8
