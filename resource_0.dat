@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000008.txt
     |compression=i0
-    |size=ib8ceb
+    |size=ib8d59
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -14,7 +14,7 @@
     |client=i0
     |path=$lang0000/categoryFlags/00000002.txt
     |compression=i0
-    |size=i93b1
+    |size=ia0f7
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -362,8 +362,40 @@
     |version=n0|language=i0|client=i0|compression=i1|size=i10dc6
     |path=$lang0000/layers/70/plants0070/00000000.dat
   ]
+  |altitude0071=[
+    |version=n0|language=i0|client=i0|compression=i1|size=if1d9
+    |path=$lang0000/layers/71/altitude0071/00000000.dat
+  ]
+  |blocks0071=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i1471
+    |path=$lang0000/layers/71/blocks0071/00000000.dat
+  ]
+  |control0071=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i569
+    |path=$lang0000/layers/71/control0071/00000000.dat
+  ]
+  |plants0071=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i2760
+    |path=$lang0000/layers/71/plants0071/00000000.dat
+  ]
+  |altitude0072=[
+    |version=n0|language=i0|client=i0|compression=i1|size=iaf78
+    |path=$lang0000/layers/72/altitude0072/00000000.dat
+  ]
+  |blocks0072=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i2cb8
+    |path=$lang0000/layers/72/blocks0072/00000000.dat
+  ]
+  |control0072=[
+    |version=n0|language=i0|client=i0|compression=i1|size=iad7
+    |path=$lang0000/layers/72/control0072/00000000.dat
+  ]
+  |plants0072=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i1a9b
+    |path=$lang0000/layers/72/plants0072/00000000.dat
+  ]
   |zoneDataCache=[
-    |version=n0|language=i0|client=i0|compression=i0|size=i96af
-    |path=$lang0000/zoneDataCache/00000000.txt
+    |version=n1|language=i0|client=i0|compression=i0|size=i9d6d
+    |path=$lang0000/zoneDataCache/00000001.txt
   ]
 ]#date=$2020-06-23-00-00-00#dummy=$knjkqdmkmn
