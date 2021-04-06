@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000008.txt
     |compression=i0
-    |size=ibaa9f
+    |size=ibaaa5
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -205,6 +205,14 @@
   |icon_material_boss_shard=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6f0c
     |path=$lang0000/icons/material_boss_shard/00000000.png
+  ]
+  |icon_material_boss_shard_71=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7006
+    |path=$lang0000/icons/material_boss_shard_71/00000000.png
+  ]
+  |icon_material_boss_shard_72=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6bc4
+    |path=$lang0000/icons/material_boss_shard_72/00000000.png
   ]
   |icon_material_fluxore=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab

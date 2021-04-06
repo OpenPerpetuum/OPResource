@@ -30348,11 +30348,11 @@
   ]
   |6040=[
         |definition=n6040
-        |icon=$icon_material_boss_shard
+        |icon=$icon_material_boss_shard_71
   ]
   |6041=[
         |definition=n6041
-        |icon=$icon_material_boss_shard
+        |icon=$icon_material_boss_shard_72
   ]
   |6042=[
         |definition=n6042
