@@ -15451,7 +15451,7 @@
         |icon=$icon_ct_module
   ]
   |3376=[
-        |definition=n3376ase_wall_
+        |definition=n3376
         |gfxresource=$gfx_decorbuildings
         |defaulttint=i00000000
         |decorfadedistance=f400
@@ -22427,6 +22427,10 @@
         |definition=n4604
         |icon=$icon_silgium
   ]
+  |4606=[
+        |definition=n4606
+        |icon=$icon_material_axicoline
+  ]
   |4607=[
         |definition=n4607
         |icon=$icon_material_silgium_rare
@@ -27895,12 +27899,41 @@
         |miniicon=$tactical_icon_runner
   ]
 
+  |5570=[
+        |definition=n5570
+        |icon=$icon_npc_alpha1_synd_boss
+        |miniicon=$tactical_icon_mech
+  ]
+  |5571=[
+        |definition=n5571
+        |icon=$icon_npc_rr_vektor
+        |miniicon=$tactical_icon_runner
+  ]
+  |5572=[
+        |definition=n5572
+        |icon=$icon_npc_rr_locust
+        |miniicon=$tactical_icon_crawler
+  ]
   |5573=[
-        |definition=n5569
+        |definition=n5573
         |icon=$icon_npc_alpha1_arkhe_boss
         |miniicon=$tactical_icon_runner
   ]
-
+  |5574=[
+        |definition=n5574
+        |icon=$icon_npc_alpha1_peli_boss
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5575=[
+        |definition=n5575
+        |icon=$icon_npc_alpha1_nuim_boss
+        |miniicon=$tactical_icon_crawler
+  ]
+  |5576=[
+        |definition=n5576
+        |icon=$icon_npc_alpha1_thelo_boss
+        |miniicon=$tactical_icon_crawler
+  ]
   |5577=[
         |definition=n5577
         |icon=$paintBlack
@@ -27961,7 +27994,21 @@
         |definition=n5591
         |icon=$paintWhite
   ]
-
+  |5592=[
+        |definition=n5592
+        |icon=$icon_npc_alpha2_thelo_boss
+        |miniicon=$tactical_icon_mech
+  ]
+  |5593=[
+        |definition=n5593
+        |icon=$icon_npc_alpha2_nuim_boss
+        |miniicon=$tactical_icon_mech
+  ]
+  |5594=[
+        |definition=n5594
+        |icon=$icon_npc_alpha2_peli_boss
+        |miniicon=$tactical_icon_mech
+  ]
   |5595=[
         |definition=n5595
         |icon=$icon_npc_alpha2_synd_boss
@@ -29752,6 +29799,26 @@
         |copyfrom=n5379
   ]
 
+  |5931=[
+        |definition=n5931
+        |icon=$icon_npc_alpha1_synd_boss
+        |miniicon=$tactical_icon_mech
+  ]
+  |5932=[
+        |definition=n5932
+        |icon=$icon_npc_rr_helix
+        |miniicon=$tactical_icon_runner
+  ]
+  |5933=[
+        |definition=n5933
+        |icon=$icon_npc_alpha2_synd_boss
+        |miniicon=$tactical_icon_mech
+  ]
+  |5934=[
+        |definition=n5934
+        |icon=$icon_npc_rr_echelon
+        |miniicon=$tactical_icon_mech
+  ]
 
   |5935=[
         |definition=n5935
@@ -30010,13 +30077,16 @@
         |icon=$icon_npc_sh70_miniboss_b
         |miniicon=$tactical_icon_mech
   ]
-
   |5998=[
         |definition=n5998
         |copyfrom=n5882
         |name=$def_rift_targetted_portal
   ]
-
+  |5999=[
+        |definition=n5999
+        |icon=$icon_bot_anniversarkhe
+        |miniicon=$tactical_icon_runner
+  ]
   |6000=[
         |definition=n6000
         |icon=$icon_bot_hydra
@@ -30187,5 +30257,293 @@
   |6017=[
         |definition=n6017
         |icon=$icon_ct_robot
+  ]
+  |6018=[
+        |definition=n6018
+        |icon=$icon_ct_robot
+  ]
+  |6019=[
+        |definition=n6019
+        |icon=$icon_ct_robot
+  ]
+  |6020=[
+        |definition=n6020
+        |icon=$icon_ct_robot
+  ]
+  |6021=[
+        |definition=n6021
+        |icon=$icon_ct_robot
+  ]
+  |6022=[
+        |definition=n6022
+        |icon=$icon_ct_robot
+  ]
+  |6023=[
+        |definition=n6023
+        |icon=$icon_ct_robot
+  ]
+  |6024=[
+        |definition=n6024
+        |icon=$icon_ct_robot
+  ]
+  |6025=[
+        |definition=n6025
+        |icon=$icon_ct_robot
+  ]
+  |6026=[
+        |definition=n6026
+        |icon=$icon_ct_robot
+  ]
+  |6027=[
+        |definition=n6027
+        |icon=$icon_ct_robot
+  ]
+  |6028=[
+        |definition=n6028
+        |icon=$icon_ct_robot
+  ]
+  |6029=[
+        |definition=n6029
+        |icon=$icon_item_ct_capsule
+  ]
+  |6030=[
+        |definition=n6030
+        |icon=$icon_item_ct_capsule
+  ]
+  |6031=[
+        |definition=n6031
+        |icon=$icon_item_ct_capsule
+  ]
+  |6032=[
+        |definition=n6032
+        |icon=$icon_item_ct_capsule
+  ]
+  |6033=[
+        |definition=n6033
+        |icon=$icon_item_ct_capsule
+  ]
+  |6034=[
+        |definition=n6034
+        |icon=$icon_item_ct_capsule
+  ]
+  |6035=[
+        |definition=n6035
+        |icon=$icon_item_ct_capsule
+  ]
+  |6036=[
+        |definition=n6036
+        |icon=$icon_item_ct_capsule
+  ]
+  |6037=[
+        |definition=n6037
+        |icon=$icon_item_ct_capsule
+  ]
+  |6038=[
+        |definition=n6038
+        |icon=$icon_item_ct_capsule
+  ]
+  |6039=[
+        |definition=n6039
+        |icon=$icon_item_ct_capsule
+  ]
+  |6040=[
+        |definition=n6040
+        |icon=$icon_material_boss_shard
+  ]
+  |6041=[
+        |definition=n6041
+        |icon=$icon_material_boss_shard
+  ]
+  |6042=[
+        |definition=n6042
+        |icon=$def_standard_armor_repairer
+  ]
+  |6043=[
+        |definition=n6043
+        |icon=$def_standard_armor_repairer
+  ]
+  |6044=[
+        |definition=n6044
+        |icon=$def_standard_armor_repairer
+  ]
+  |6045=[
+        |definition=n6045
+        |icon=$def_standard_armor_repairer
+  ]
+  |6046=[
+        |definition=n6046
+        |icon=$def_standard_shield_generator
+  ]
+  |6047=[
+        |definition=n6047
+        |icon=$def_standard_shield_generator
+  ]
+  |6048=[
+        |definition=n6048
+        |icon=$def_standard_shield_generator
+  ]
+  |6049=[
+        |definition=n6049
+        |icon=$def_standard_shield_generator
+  ]
+  |6050=[
+        |definition=n6050
+        |icon=$def_standard_industrial_scanners
+  ]
+  |6051=[
+        |definition=n6051
+        |icon=$def_standard_industrial_scanners
+  ]
+  |6052=[
+        |definition=n6052
+        |icon=$icon_damagemod_projectile
+  ]
+  |6053=[
+        |definition=n6053
+        |icon=$icon_damagemod_projectile
+  ]
+  |6054=[
+        |definition=n6054
+        |icon=$def_standard_mass_reductor
+  ]
+  |6055=[
+        |definition=n6055
+        |icon=$def_standard_mass_reductor
+  ]
+  |6056=[
+        |definition=n6056
+        |icon=$icon_evasive_module
+  ]
+  |6057=[
+        |definition=n6057
+        |icon=$icon_evasive_module
+  ]
+  |6058=[
+        |definition=n6058
+        |icon=$icon_ct_module
+  ]
+  |6059=[
+        |definition=n6059
+        |icon=$icon_ct_module
+  ]
+  |6060=[
+        |definition=n6060
+        |icon=$icon_ct_module
+  ]
+  |6061=[
+        |definition=n6061
+        |icon=$icon_ct_module
+  ]
+  |6062=[
+        |definition=n6062
+        |icon=$icon_ct_module
+  ]
+  |6063=[
+        |definition=n6063
+        |icon=$icon_ct_module
+  ]
+  |6064=[
+        |definition=n6064
+        |icon=$icon_ct_module
+  ]
+  |6065=[
+        |definition=n6065
+        |icon=$icon_ct_module
+  ]
+  |6066=[
+        |definition=n6066
+        |icon=$icon_ct_module
+  ]
+  |6067=[
+        |definition=n6067
+        |icon=$icon_ct_module
+  ]
+  |6068=[
+        |definition=n6068
+        |icon=$icon_ct_module
+  ]
+  |6069=[
+        |definition=n6069
+        |icon=$icon_ct_module
+  ]
+  |6070=[
+        |definition=n6070
+        |icon=$icon_ct_module
+  ]
+  |6071=[
+        |definition=n6071
+        |icon=$icon_ct_module
+  ]
+  |6072=[
+        |definition=n6072
+        |icon=$icon_ct_module
+  ]
+  |6073=[
+        |definition=n6073
+        |icon=$icon_ct_module
+  ]
+  |6074=[
+        |definition=n6074
+        |icon=$icon_item_ct_capsule
+  ]
+  |6075=[
+        |definition=n6075
+        |icon=$icon_item_ct_capsule
+  ]
+  |6076=[
+        |definition=n6076
+        |icon=$icon_item_ct_capsule
+  ]
+  |6077=[
+        |definition=n6077
+        |icon=$icon_item_ct_capsule
+  ]
+  |6078=[
+        |definition=n6078
+        |icon=$icon_item_ct_capsule
+  ]
+  |6079=[
+        |definition=n6079
+        |icon=$icon_item_ct_capsule
+  ]
+  |6080=[
+        |definition=n6080
+        |icon=$icon_item_ct_capsule
+  ]
+  |6081=[
+        |definition=n6081
+        |icon=$icon_item_ct_capsule
+  ]
+  |6082=[
+        |definition=n6082
+        |icon=$icon_item_ct_capsule
+  ]
+  |6083=[
+        |definition=n6083
+        |icon=$icon_item_ct_capsule
+  ]
+  |6084=[
+        |definition=n6084
+        |icon=$icon_item_ct_capsule
+  ]
+  |6085=[
+        |definition=n6085
+        |icon=$icon_item_ct_capsule
+  ]
+  |6086=[
+        |definition=n6086
+        |icon=$icon_item_ct_capsule
+  ]
+  |6087=[
+        |definition=n6087
+        |icon=$icon_item_ct_capsule
+  ]
+  |6088=[
+        |definition=n6088
+        |icon=$icon_item_ct_capsule
+  ]
+  |6089=[
+        |definition=n6089
+        |icon=$icon_item_ct_capsule
   ]
 ]

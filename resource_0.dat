@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000008.txt
     |compression=i0
-    |size=ib8d59
+    |size=ibaa9f
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -198,6 +198,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8065
     |path=$lang0000/icons/item_stronghold_teleport/00000000.png
   ]
+  |icon_material_axicoline=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15
+    |path=$lang0000/icons/material_axicoline/00000000.png
+  ]
   |icon_material_boss_shard=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6f0c
     |path=$lang0000/icons/material_boss_shard/00000000.png
@@ -246,13 +250,37 @@
     |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5124
     |path=$lang0000/icons/module_siege_hack_module/00000001.png
   ]
+  |icon_npc_alpha1_nuim_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8fd6
+    |path=$lang0000/icons/npc_alpha1_nuim_boss/00000000.png
+  ]
+  |icon_npc_alpha1_peli_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8f3e
+    |path=$lang0000/icons/npc_alpha1_peli_boss/00000000.png
+  ]
   |icon_npc_alpha1_arkhe_boss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7892
     |path=$lang0000/icons/npc_alpha1_arkhe_boss/00000000.png
   ]
+  |icon_npc_alpha1_thelo_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8bc0
+    |path=$lang0000/icons/npc_alpha1_thelo_boss/00000000.png
+  ]
+  |icon_npc_alpha2_nuim_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9468
+    |path=$lang0000/icons/npc_alpha2_nuim_boss/00000000.png
+  ]
+  |icon_npc_alpha2_peli_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9141
+    |path=$lang0000/icons/npc_alpha2_peli_boss/00000000.png
+  ]
   |icon_npc_alpha2_synd_boss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8a1d
     |path=$lang0000/icons/npc_alpha2_synd_boss/00000000.png
+  ]
+  |icon_npc_alpha2_thelo_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i870f
+    |path=$lang0000/icons/npc_alpha2_thelo_boss/00000000.png
   ]
   |icon_npc_beta1_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9689
@@ -273,6 +301,22 @@
   |icon_npc_hersh_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8ac4
     |path=$lang0000/icons/npc_hersh_pitboss/00000000.png
+  ]
+  |icon_npc_rr_echelon=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8a1d
+    |path=$lang0000/icons/npc_rr_echelon/00000000.png
+  ]
+  |icon_npc_rr_helix=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8ce7
+    |path=$lang0000/icons/npc_rr_helix/00000000.png
+  ]
+  |icon_npc_rr_locust=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8cf3
+    |path=$lang0000/icons/npc_rr_locust/00000000.png
+  ]
+  |icon_npc_rr_vektor=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i91b2
+    |path=$lang0000/icons/npc_rr_vektor/00000000.png
   ]
   |icon_npc_sh70_boss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8956
