@@ -1,20 +1,20 @@
 #resources=[
   |definitionProperties=[
-    |version=n7
+    |version=n8
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000007.txt
+    |path=$lang0000/definitionProperties/00000008.txt
     |compression=i0
-    |size=ib8ceb
+    |size=ibaaa5
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n1
+    |version=n2
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000001.txt
+    |path=$lang0000/categoryFlags/00000002.txt
     |compression=i0
-    |size=i93b1
+    |size=ia0f7
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -198,9 +198,21 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8065
     |path=$lang0000/icons/item_stronghold_teleport/00000000.png
   ]
+  |icon_material_axicoline=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15
+    |path=$lang0000/icons/material_axicoline/00000000.png
+  ]
   |icon_material_boss_shard=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6f0c
     |path=$lang0000/icons/material_boss_shard/00000000.png
+  ]
+  |icon_material_boss_shard_71=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7006
+    |path=$lang0000/icons/material_boss_shard_71/00000000.png
+  ]
+  |icon_material_boss_shard_72=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6bc4
+    |path=$lang0000/icons/material_boss_shard_72/00000000.png
   ]
   |icon_material_fluxore=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab
@@ -246,13 +258,37 @@
     |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5124
     |path=$lang0000/icons/module_siege_hack_module/00000001.png
   ]
+  |icon_npc_alpha1_nuim_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8fd6
+    |path=$lang0000/icons/npc_alpha1_nuim_boss/00000000.png
+  ]
+  |icon_npc_alpha1_peli_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8f3e
+    |path=$lang0000/icons/npc_alpha1_peli_boss/00000000.png
+  ]
   |icon_npc_alpha1_arkhe_boss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7892
     |path=$lang0000/icons/npc_alpha1_arkhe_boss/00000000.png
   ]
+  |icon_npc_alpha1_thelo_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8bc0
+    |path=$lang0000/icons/npc_alpha1_thelo_boss/00000000.png
+  ]
+  |icon_npc_alpha2_nuim_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9468
+    |path=$lang0000/icons/npc_alpha2_nuim_boss/00000000.png
+  ]
+  |icon_npc_alpha2_peli_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9141
+    |path=$lang0000/icons/npc_alpha2_peli_boss/00000000.png
+  ]
   |icon_npc_alpha2_synd_boss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8a1d
     |path=$lang0000/icons/npc_alpha2_synd_boss/00000000.png
+  ]
+  |icon_npc_alpha2_thelo_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i870f
+    |path=$lang0000/icons/npc_alpha2_thelo_boss/00000000.png
   ]
   |icon_npc_beta1_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9689
@@ -273,6 +309,22 @@
   |icon_npc_hersh_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8ac4
     |path=$lang0000/icons/npc_hersh_pitboss/00000000.png
+  ]
+  |icon_npc_rr_echelon=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8a1d
+    |path=$lang0000/icons/npc_rr_echelon/00000000.png
+  ]
+  |icon_npc_rr_helix=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8ce7
+    |path=$lang0000/icons/npc_rr_helix/00000000.png
+  ]
+  |icon_npc_rr_locust=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8cf3
+    |path=$lang0000/icons/npc_rr_locust/00000000.png
+  ]
+  |icon_npc_rr_vektor=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i91b2
+    |path=$lang0000/icons/npc_rr_vektor/00000000.png
   ]
   |icon_npc_sh70_boss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8956
@@ -362,8 +414,40 @@
     |version=n0|language=i0|client=i0|compression=i1|size=i10dc6
     |path=$lang0000/layers/70/plants0070/00000000.dat
   ]
+  |altitude0071=[
+    |version=n0|language=i0|client=i0|compression=i1|size=if1d9
+    |path=$lang0000/layers/71/altitude0071/00000000.dat
+  ]
+  |blocks0071=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i1471
+    |path=$lang0000/layers/71/blocks0071/00000000.dat
+  ]
+  |control0071=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i569
+    |path=$lang0000/layers/71/control0071/00000000.dat
+  ]
+  |plants0071=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i2760
+    |path=$lang0000/layers/71/plants0071/00000000.dat
+  ]
+  |altitude0072=[
+    |version=n0|language=i0|client=i0|compression=i1|size=iaf78
+    |path=$lang0000/layers/72/altitude0072/00000000.dat
+  ]
+  |blocks0072=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i2cb8
+    |path=$lang0000/layers/72/blocks0072/00000000.dat
+  ]
+  |control0072=[
+    |version=n0|language=i0|client=i0|compression=i1|size=iad7
+    |path=$lang0000/layers/72/control0072/00000000.dat
+  ]
+  |plants0072=[
+    |version=n0|language=i0|client=i0|compression=i1|size=i1a9b
+    |path=$lang0000/layers/72/plants0072/00000000.dat
+  ]
   |zoneDataCache=[
-    |version=n0|language=i0|client=i0|compression=i0|size=i96af
-    |path=$lang0000/zoneDataCache/00000000.txt
+    |version=n1|language=i0|client=i0|compression=i0|size=i9d6d
+    |path=$lang0000/zoneDataCache/00000001.txt
   ]
 ]#date=$2020-06-23-00-00-00#dummy=$knjkqdmkmn
