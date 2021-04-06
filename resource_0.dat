@@ -270,6 +270,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7892
     |path=$lang0000/icons/npc_alpha1_arkhe_boss/00000000.png
   ]
+  |icon_npc_alpha1_synd_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8bc0
+    |path=$lang0000/icons/npc_alpha1_synd_boss/00000000.png
+  ]
   |icon_npc_alpha1_thelo_boss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8bc0
     |path=$lang0000/icons/npc_alpha1_thelo_boss/00000000.png
