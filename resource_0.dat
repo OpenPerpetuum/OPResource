@@ -423,7 +423,7 @@
     |path=$lang0000/layers/71/altitude0071/00000000.dat
   ]
   |blocks0071=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i1471
+    |version=n0|language=i0|client=i0|compression=i1|size=i143a
     |path=$lang0000/layers/71/blocks0071/00000000.dat
   ]
   |control0071=[
@@ -431,23 +431,23 @@
     |path=$lang0000/layers/71/control0071/00000000.dat
   ]
   |plants0071=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i2760
+    |version=n0|language=i0|client=i0|compression=i1|size=i1c51
     |path=$lang0000/layers/71/plants0071/00000000.dat
   ]
   |altitude0072=[
-    |version=n0|language=i0|client=i0|compression=i1|size=iaf78
+    |version=n0|language=i0|client=i0|compression=i1|size=iab75
     |path=$lang0000/layers/72/altitude0072/00000000.dat
   ]
   |blocks0072=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i2cb8
+    |version=n0|language=i0|client=i0|compression=i1|size=i2da0
     |path=$lang0000/layers/72/blocks0072/00000000.dat
   ]
   |control0072=[
-    |version=n0|language=i0|client=i0|compression=i1|size=iad7
+    |version=n0|language=i0|client=i0|compression=i1|size=ic64
     |path=$lang0000/layers/72/control0072/00000000.dat
   ]
   |plants0072=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i1a9b
+    |version=n0|language=i0|client=i0|compression=i1|size=i1759
     |path=$lang0000/layers/72/plants0072/00000000.dat
   ]
   |zoneDataCache=[
