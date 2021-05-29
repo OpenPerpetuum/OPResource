@@ -18,12 +18,12 @@
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n21
+    |version=n22
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000021.txt
+    |path=$lang0000/txtEffectIcons/00000022.txt
     |compression=i0
-    |size=i20bd
+    |size=i211b
     |hash=ib6ab339a
   ]
   |icon_ammo_cruisemissile_a_pr=[
@@ -169,6 +169,10 @@
   |icon_effect_night_overcast=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5ac
     |path=$lang0000/icons/effect_night_overcast/00000000.png
+  ]
+  |icon_effect_stronghold_despawn_timer=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i859
+    |path=$lang0000/icons/effect_stronghold_despawn_timer/00000000.png
   ]
   |icon_effect_weather_good=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i532
