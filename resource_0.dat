@@ -1111,7 +1111,7 @@
     |path=$lang0000/layers/0140/plants0140/00000000.dat
   ]
   |zoneDataCache=[
-    |version=n1|language=i0|client=i0|compression=i0|size=i9d6d
-    |path=$lang0000/zoneDataCache/00000001.txt
+    |version=n2|language=i0|client=i0|compression=i0|size=i12778
+    |path=$lang0000/zoneDataCache/00000002.txt
   ]
 ]#date=$2020-06-23-00-00-00#dummy=$knjkqdmkmn
