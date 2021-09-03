@@ -146,6 +146,22 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ic86
     |path=$lang0000/icons/effect_beta2_bonus/00000000.png
   ]
+  |icon_effect_gamma_t0=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_t0/00000000.png
+  ]
+  |icon_effect_gamma_t1=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_t1/00000000.png
+  ]
+  |icon_effect_gamma_t2=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_t2/00000000.png
+  ]
+  |icon_effect_gamma_t3=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_t3/00000000.png
+  ]
   |icon_effect_day=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i521
     |path=$lang0000/icons/effect_day/00000000.png
