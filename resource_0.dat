@@ -18,12 +18,12 @@
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n22
+    |version=n23
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000022.txt
+    |path=$lang0000/txtEffectIcons/00000023.txt
     |compression=i0
-    |size=i211b
+    |size=i2213
     |hash=ib6ab339a
   ]
   |icon_ammo_cruisemissile_a_pr=[
@@ -145,6 +145,22 @@
   |icon_effect_beta2_bonus=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ic86
     |path=$lang0000/icons/effect_beta2_bonus/00000000.png
+  ]
+  |icon_effect_gamma_t0=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_t0/00000000.png
+  ]
+  |icon_effect_gamma_t1=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_t1/00000000.png
+  ]
+  |icon_effect_gamma_t2=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_t2/00000000.png
+  ]
+  |icon_effect_gamma_t3=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_t3/00000000.png
   ]
   |icon_effect_day=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i521
