@@ -30546,6 +30546,22 @@
         |definition=n6089
         |icon=$icon_item_ct_capsule
   ]
+  |6090=[
+        |definition=n6090
+        |copyfrom=n4168
+  ]
+  |6091=[
+        |definition=n6091
+        |copyfrom=n4167
+  ]
+  |6092=[
+        |definition=n6092
+        |copyfrom=n4168
+  ]
+  |6093=[
+        |definition=n6093
+        |copyfrom=n4167
+  ]
 
 
   |6616=[
