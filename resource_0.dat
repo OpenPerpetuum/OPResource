@@ -26,6 +26,22 @@
     |size=i2213
     |hash=ib6ab339a
   ]
+  |icon_ammo_construction_t0=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i522d
+    |path=$lang0000/icons/ammo_construction_t0/00000000.png
+  ]
+  |icon_ammo_construction_t1=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i522d
+    |path=$lang0000/icons/ammo_construction_t1/00000000.png
+  ]
+  |icon_ammo_construction_t2=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i522d
+    |path=$lang0000/icons/ammo_construction_t2/00000000.png
+  ]
+  |icon_ammo_construction_t3=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i522d
+    |path=$lang0000/icons/ammo_construction_t3/00000000.png
+  ]
   |icon_ammo_cruisemissile_a_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i522d
     |path=$lang0000/icons/ammo_cruisemissile_a_pr/00000000.png
@@ -161,6 +177,10 @@
   |icon_effect_gamma_t3=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
     |path=$lang0000/icons/effect_gamma_t3/00000000.png
+  ]
+  |icon_effect_gamma_tc=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1644
+    |path=$lang0000/icons/effect_gamma_tc/00000000.png
   ]
   |icon_effect_day=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i521
