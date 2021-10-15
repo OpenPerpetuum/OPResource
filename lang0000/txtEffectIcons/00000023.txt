@@ -106,4 +106,5 @@
   |117=[|effect=$effect_gamma_t1|icon=$icon_effect_gamma_t1]
   |118=[|effect=$effect_gamma_t2|icon=$icon_effect_gamma_t2]
   |119=[|effect=$effect_gamma_t3|icon=$icon_effect_gamma_t3]
+  |120=[|effect=$effect_gamma_tc|icon=$icon_effect_gamma_tc]
 ]
