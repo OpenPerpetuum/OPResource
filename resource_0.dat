@@ -659,7 +659,7 @@
     |path=$lang0000/layers/0110/blocks0110/00000001.dat
   ]
   |control0110=[
-    |version=n1|language=i0|client=i0|compression=i1|size=i2494
+    |version=n1|language=i0|client=i0|compression=i1|size=i25f4
     |path=$lang0000/layers/0110/control0110/00000001.dat
   ]
   |plants0110=[
@@ -723,7 +723,7 @@
     |path=$lang0000/layers/0114/blocks0114/00000001.dat
   ]
   |control0114=[
-    |version=n1|language=i0|client=i0|compression=i1|size=i20cf
+    |version=n1|language=i0|client=i0|compression=i1|size=i4024
     |path=$lang0000/layers/0114/control0114/00000001.dat
   ]
   |plants0114=[
@@ -995,7 +995,7 @@
     |path=$lang0000/layers/0131/blocks0131/00000001.dat
   ]
   |control0131=[
-    |version=n1|language=i0|client=i0|compression=i1|size=i2142
+    |version=n1|language=i0|client=i0|compression=i1|size=i27f0
     |path=$lang0000/layers/0131/control0131/00000001.dat
   ]
   |plants0131=[
