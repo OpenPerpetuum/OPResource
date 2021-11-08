@@ -1,11 +1,11 @@
 #resources=[
   |definitionProperties=[
-    |version=n10
+    |version=n11
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000010.txt
+    |path=$lang0000/definitionProperties/00000011.txt
     |compression=i0
-    |size=ibbc92
+    |size=ibfc47
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -226,6 +226,18 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i90e9
     |path=$lang0000/icons/item_ct_capsule/00000000.png
   ]
+  |icon_item_reactor_booster_a=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i654c
+    |path=$lang0000/icons/item_reactor_booster_a/00000000.png
+  ]
+  |icon_item_reactor_booster_b=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6603
+    |path=$lang0000/icons/item_reactor_booster_b/00000000.png
+  ]
+  |icon_item_reactor_booster_c=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6622
+    |path=$lang0000/icons/item_reactor_booster_c/00000000.png
+  ]
   |icon_item_specimen_sap_item=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9ac0
     |path=$lang0000/icons/item_specimen_sap_item/00000000.png
@@ -257,6 +269,22 @@
   |icon_material_fluxore=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab
     |path=$lang0000/icons/material_fluxore/00000000.png
+  ]
+  |icon_material_gamma_shard_nuimqol=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6db0
+    |path=$lang0000/icons/material_gamma_shard_nuimqol/00000000.png
+  ]
+  |icon_material_gamma_shard_pelistal=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7eea
+    |path=$lang0000/icons/material_gamma_shard_pelistal/00000000.png
+  ]
+  |icon_material_gamma_shard_syndicate=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7664
+    |path=$lang0000/icons/material_gamma_shard_syndicate/00000000.png
+  ]
+  |icon_material_gamma_shard_thelodica=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7087
+    |path=$lang0000/icons/material_gamma_shard_thelodica/00000000.png
   ]
   |def_materialtype_unknown_16=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab
