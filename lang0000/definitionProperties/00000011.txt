@@ -30595,7 +30595,7 @@
 
   |6200=[
         |definition=n6200
-        |icon=$icon_material_gamma_shard_nuimqol
+        |icon=$icon_material_gamma_shard_thelodica
   ]
   |6201=[
         |definition=n6201
@@ -30603,11 +30603,11 @@
   ]
   |6202=[
         |definition=n6202
-        |icon=$icon_material_gamma_shard_syndicate
+        |icon=$icon_material_gamma_shard_nuimqol
   ]
   |6203=[
         |definition=n6203
-        |icon=$icon_material_gamma_shard_thelodica
+        |icon=$icon_material_gamma_shard_syndicate
   ]
 
 
@@ -30757,7 +30757,10 @@
   |7368=[|definition=n7368|copyfrom=n5368]
   |7369=[|definition=n7369|copyfrom=n5369]
 
-  |8001=[|definition=n8001|copyfrom=n6013]
+  |8001=[|definition=n8001
+    |miniicon=$tactical_icon_heavymech
+    |icon=$icon_npc_gamma_syndicate_pitboss
+  ]
   |8002=[|definition=n8002|copyfrom=n201]
   |8003=[|definition=n8003|copyfrom=n201]
   |8004=[|definition=n8004|copyfrom=n201]
@@ -30842,11 +30845,17 @@
   |8083=[|definition=n8083|copyfrom=n5516]
   |8084=[|definition=n8084|copyfrom=n5516]
   |8085=[|definition=n8085|copyfrom=n6008]
-  |8086=[|definition=n8086|copyfrom=n6008]
+  |8086=[|definition=n8086|copyfrom=n6008
+    |miniicon=$tactical_icon_heavymech
+    |icon=$icon_npc_gamma_nuimqol_pitboss
+  ]
   |8087=[|definition=n8087|copyfrom=n210]
   |8088=[|definition=n8088|copyfrom=n216]
   |8089=[|definition=n8089|copyfrom=n216]
-  |8090=[|definition=n8090|copyfrom=n216]
+  |8090=[|definition=n8090
+    |miniicon=$tactical_icon_heavymech
+    |icon=$icon_npc_gamma_pelistal_boss
+  ]
   |8091=[|definition=n8091|copyfrom=n216]
   |8092=[|definition=n8092|copyfrom=n216]
   |8093=[|definition=n8093|copyfrom=n216]
@@ -30871,7 +30880,10 @@
   |8112=[|definition=n8112|copyfrom=n5536]
   |8113=[|definition=n8113|copyfrom=n5536]
   |8114=[|definition=n8114|copyfrom=n6003]
-  |8115=[|definition=n8115|copyfrom=n6003]
+  |8115=[|definition=n8115
+    |miniicon=$tactical_icon_heavymech
+    |icon=$icon_npc_gamma_pelistal_pitboss
+  ]
   |8116=[|definition=n8116|copyfrom=n948]
   |8117=[|definition=n8117|copyfrom=n948]
   |8118=[|definition=n8118|copyfrom=n948]
@@ -30912,7 +30924,10 @@
   |8153=[|definition=n8153|copyfrom=n198]
   |8154=[|definition=n8154|copyfrom=n5524]
   |8155=[|definition=n8155|copyfrom=n5524]
-  |8156=[|definition=n8156|copyfrom=n5524]
+  |8156=[|definition=n8156
+    |miniicon=$tactical_icon_heavymech
+    |icon=$icon_npc_gamma_syndicate_boss
+  ]
   |8157=[|definition=n8157|copyfrom=n5524]
   |8158=[|definition=n8158|copyfrom=n5524]
   |8159=[|definition=n8159|copyfrom=n5524]
@@ -30937,7 +30952,10 @@
   |8178=[|definition=n8178|copyfrom=n5512]
   |8179=[|definition=n8179|copyfrom=n213]
   |8180=[|definition=n8180|copyfrom=n213]
-  |8181=[|definition=n8181|copyfrom=n213]
+  |8181=[|definition=n8181
+    |miniicon=$tactical_icon_heavymech
+    |icon=$icon_npc_gamma_nuimqol_boss
+  ]
   |8182=[|definition=n8182|copyfrom=n213]
   |8183=[|definition=n8183|copyfrom=n213]
   |8184=[|definition=n8184|copyfrom=n213]
@@ -30949,7 +30967,10 @@
   |8190=[|definition=n8190|copyfrom=n213]
   |8191=[|definition=n8191|copyfrom=n213]
   |8192=[|definition=n8192|copyfrom=n6013]
-  |8193=[|definition=n8193|copyfrom=n6013]
+  |8193=[|definition=n8193
+    |miniicon=$tactical_icon_heavymech
+    |icon=$icon_npc_gamma_thelodica_pitboss
+  ]
   |8194=[|definition=n8194|copyfrom=n194]
   |8195=[|definition=n8195|copyfrom=n194]
   |8196=[|definition=n8196|copyfrom=n194]
@@ -30967,7 +30988,10 @@
   |8208=[|definition=n8208|copyfrom=n1484]
   |8209=[|definition=n8209|copyfrom=n214]
   |8210=[|definition=n8210|copyfrom=n214]
-  |8211=[|definition=n8211|copyfrom=n214]
+  |8211=[|definition=n8211
+    |miniicon=$tactical_icon_heavymech
+    |icon=$icon_npc_gamma_thelodica_boss
+  ]
   |8212=[|definition=n8212|copyfrom=n214]
   |8213=[|definition=n8213|copyfrom=n214]
   |8214=[|definition=n8214|copyfrom=n214]
