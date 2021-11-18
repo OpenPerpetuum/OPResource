@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000011.txt
     |compression=i0
-    |size=ibfc47
+    |size=ibfe97
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -167,11 +167,11 @@
     |path=$lang0000/icons/effect_gamma_t0/00000000.png
   ]
   |icon_effect_gamma_t1=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7bf
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7c1
     |path=$lang0000/icons/effect_gamma_t1/00000000.png
   ]
   |icon_effect_gamma_t2=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i824
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i829
     |path=$lang0000/icons/effect_gamma_t2/00000000.png
   ]
   |icon_effect_gamma_t3=[
@@ -231,11 +231,11 @@
     |path=$lang0000/icons/item_reactor_booster_a/00000000.png
   ]
   |icon_item_reactor_booster_b=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6603
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5f05
     |path=$lang0000/icons/item_reactor_booster_b/00000000.png
   ]
   |icon_item_reactor_booster_c=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6622
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5e54
     |path=$lang0000/icons/item_reactor_booster_c/00000000.png
   ]
   |icon_item_specimen_sap_item=[
@@ -365,6 +365,38 @@
   |icon_npc_beta1_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9689
     |path=$lang0000/icons/npc_beta1_pitboss/00000000.png
+  ]
+  |icon_npc_gamma_nuimqol_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8d66
+    |path=$lang0000/icons/npc_gamma_nuimqol_boss/00000000.png
+  ]
+  |icon_npc_gamma_nuimqol_pitboss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i912b
+    |path=$lang0000/icons/npc_gamma_nuimqol_pitboss/00000000.png
+  ]
+  |icon_npc_gamma_pelistal_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8bbb
+    |path=$lang0000/icons/npc_gamma_pelistal_boss/00000000.png
+  ]
+  |icon_npc_gamma_pelistal_pitboss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8616
+    |path=$lang0000/icons/npc_gamma_pelistal_pitboss/00000000.png
+  ]
+  |icon_npc_gamma_syndicate_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8f4a
+    |path=$lang0000/icons/npc_gamma_syndicate_boss/00000000.png
+  ]
+  |icon_npc_gamma_syndicate_pitboss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8b1b
+    |path=$lang0000/icons/npc_gamma_syndicate_pitboss/00000000.png
+  ]
+  |icon_npc_gamma_thelodica_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i89d3
+    |path=$lang0000/icons/npc_gamma_thelodica_boss/00000000.png
+  ]
+  |icon_npc_gamma_thelodica_pitboss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8cdb
+    |path=$lang0000/icons/npc_gamma_thelodica_pitboss/00000000.png
   ]
   |icon_npc_goblin=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=iab45
