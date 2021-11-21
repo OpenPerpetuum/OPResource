@@ -1,11 +1,11 @@
 #resources=[
   |definitionProperties=[
-    |version=n10
+    |version=n11
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000010.txt
+    |path=$lang0000/definitionProperties/00000011.txt
     |compression=i0
-    |size=ibbc92
+    |size=ibfe97
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -167,11 +167,11 @@
     |path=$lang0000/icons/effect_gamma_t0/00000000.png
   ]
   |icon_effect_gamma_t1=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7bf
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7c1
     |path=$lang0000/icons/effect_gamma_t1/00000000.png
   ]
   |icon_effect_gamma_t2=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i824
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i829
     |path=$lang0000/icons/effect_gamma_t2/00000000.png
   ]
   |icon_effect_gamma_t3=[
@@ -226,6 +226,18 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i90e9
     |path=$lang0000/icons/item_ct_capsule/00000000.png
   ]
+  |icon_item_reactor_booster_a=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i654c
+    |path=$lang0000/icons/item_reactor_booster_a/00000000.png
+  ]
+  |icon_item_reactor_booster_b=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5f05
+    |path=$lang0000/icons/item_reactor_booster_b/00000000.png
+  ]
+  |icon_item_reactor_booster_c=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5e54
+    |path=$lang0000/icons/item_reactor_booster_c/00000000.png
+  ]
   |icon_item_specimen_sap_item=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9ac0
     |path=$lang0000/icons/item_specimen_sap_item/00000000.png
@@ -257,6 +269,22 @@
   |icon_material_fluxore=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab
     |path=$lang0000/icons/material_fluxore/00000000.png
+  ]
+  |icon_material_gamma_shard_nuimqol=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6db0
+    |path=$lang0000/icons/material_gamma_shard_nuimqol/00000000.png
+  ]
+  |icon_material_gamma_shard_pelistal=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7eea
+    |path=$lang0000/icons/material_gamma_shard_pelistal/00000000.png
+  ]
+  |icon_material_gamma_shard_syndicate=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7664
+    |path=$lang0000/icons/material_gamma_shard_syndicate/00000000.png
+  ]
+  |icon_material_gamma_shard_thelodica=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7087
+    |path=$lang0000/icons/material_gamma_shard_thelodica/00000000.png
   ]
   |def_materialtype_unknown_16=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i69ab
@@ -337,6 +365,38 @@
   |icon_npc_beta1_pitboss=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9689
     |path=$lang0000/icons/npc_beta1_pitboss/00000000.png
+  ]
+  |icon_npc_gamma_nuimqol_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8d66
+    |path=$lang0000/icons/npc_gamma_nuimqol_boss/00000000.png
+  ]
+  |icon_npc_gamma_nuimqol_pitboss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i912b
+    |path=$lang0000/icons/npc_gamma_nuimqol_pitboss/00000000.png
+  ]
+  |icon_npc_gamma_pelistal_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8bbb
+    |path=$lang0000/icons/npc_gamma_pelistal_boss/00000000.png
+  ]
+  |icon_npc_gamma_pelistal_pitboss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8616
+    |path=$lang0000/icons/npc_gamma_pelistal_pitboss/00000000.png
+  ]
+  |icon_npc_gamma_syndicate_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8f4a
+    |path=$lang0000/icons/npc_gamma_syndicate_boss/00000000.png
+  ]
+  |icon_npc_gamma_syndicate_pitboss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8b1b
+    |path=$lang0000/icons/npc_gamma_syndicate_pitboss/00000000.png
+  ]
+  |icon_npc_gamma_thelodica_boss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i89d3
+    |path=$lang0000/icons/npc_gamma_thelodica_boss/00000000.png
+  ]
+  |icon_npc_gamma_thelodica_pitboss=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8cdb
+    |path=$lang0000/icons/npc_gamma_thelodica_pitboss/00000000.png
   ]
   |icon_npc_goblin=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=iab45
@@ -591,560 +651,560 @@
     |path=$lang0000/layers/0106/altitude0106/00000000.dat
   ]
   |blocks0106=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i913e
-    |path=$lang0000/layers/0106/blocks0106/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i8ff2
+    |path=$lang0000/layers/0106/blocks0106/00000001.dat
   ]
   |control0106=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i404f
-    |path=$lang0000/layers/0106/control0106/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i404f
+    |path=$lang0000/layers/0106/control0106/00000001.dat
   ]
   |plants0106=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie79a6
-    |path=$lang0000/layers/0106/plants0106/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie79ba
+    |path=$lang0000/layers/0106/plants0106/00000001.dat
   ]
   |altitude0107=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4d4e2c
     |path=$lang0000/layers/0107/altitude0107/00000000.dat
   ]
   |blocks0107=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7049
-    |path=$lang0000/layers/0107/blocks0107/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6de0
+    |path=$lang0000/layers/0107/blocks0107/00000001.dat
   ]
   |control0107=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i45f0
-    |path=$lang0000/layers/0107/control0107/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i45f0
+    |path=$lang0000/layers/0107/control0107/00000001.dat
   ]
   |plants0107=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0107/plants0107/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7983
+    |path=$lang0000/layers/0107/plants0107/00000001.dat
   ]
   |altitude0108=[
     |version=n0|language=i0|client=i0|compression=i1|size=i520938
     |path=$lang0000/layers/0108/altitude0108/00000000.dat
   ]
   |blocks0108=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i8c70
-    |path=$lang0000/layers/0108/blocks0108/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i891d
+    |path=$lang0000/layers/0108/blocks0108/00000001.dat
   ]
   |control0108=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i4071
-    |path=$lang0000/layers/0108/control0108/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i4071
+    |path=$lang0000/layers/0108/control0108/00000001.dat
   ]
   |plants0108=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0108/plants0108/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7a04
+    |path=$lang0000/layers/0108/plants0108/00000001.dat
   ]
   |altitude0109=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4cd998
     |path=$lang0000/layers/0109/altitude0109/00000000.dat
   ]
   |blocks0109=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i79b0
-    |path=$lang0000/layers/0109/blocks0109/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i741f
+    |path=$lang0000/layers/0109/blocks0109/00000001.dat
   ]
   |control0109=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3b48
-    |path=$lang0000/layers/0109/control0109/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3b48
+    |path=$lang0000/layers/0109/control0109/00000001.dat
   ]
   |plants0109=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0109/plants0109/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie79a0
+    |path=$lang0000/layers/0109/plants0109/00000001.dat
   ]
   |altitude0110=[
     |version=n0|language=i0|client=i0|compression=i1|size=i49368a
     |path=$lang0000/layers/0110/altitude0110/00000000.dat
   ]
   |blocks0110=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i80a0
-    |path=$lang0000/layers/0110/blocks0110/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i7deb
+    |path=$lang0000/layers/0110/blocks0110/00000001.dat
   ]
   |control0110=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i250f
-    |path=$lang0000/layers/0110/control0110/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i25f4
+    |path=$lang0000/layers/0110/control0110/00000001.dat
   ]
   |plants0110=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0110/plants0110/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7994
+    |path=$lang0000/layers/0110/plants0110/00000001.dat
   ]
   |altitude0111=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4ccd21
     |path=$lang0000/layers/0111/altitude0111/00000000.dat
   ]
   |blocks0111=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7aeb
-    |path=$lang0000/layers/0111/blocks0111/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i7226
+    |path=$lang0000/layers/0111/blocks0111/00000001.dat
   ]
   |control0111=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i40f3
-    |path=$lang0000/layers/0111/control0111/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i40f3
+    |path=$lang0000/layers/0111/control0111/00000001.dat
   ]
   |plants0111=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0111/plants0111/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie799b
+    |path=$lang0000/layers/0111/plants0111/00000001.dat
   ]
   |altitude0112=[
     |version=n0|language=i0|client=i0|compression=i1|size=i49e959
     |path=$lang0000/layers/0112/altitude0112/00000000.dat
   ]
   |blocks0112=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7878
-    |path=$lang0000/layers/0112/blocks0112/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6e86
+    |path=$lang0000/layers/0112/blocks0112/00000001.dat
   ]
   |control0112=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3628
-    |path=$lang0000/layers/0112/control0112/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3628
+    |path=$lang0000/layers/0112/control0112/00000001.dat
   ]
   |plants0112=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0112/plants0112/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7989
+    |path=$lang0000/layers/0112/plants0112/00000001.dat
   ]
   |altitude0113=[
     |version=n0|language=i0|client=i0|compression=i1|size=i462478
     |path=$lang0000/layers/0113/altitude0113/00000000.dat
   ]
   |blocks0113=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i6901
-    |path=$lang0000/layers/0113/blocks0113/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6425
+    |path=$lang0000/layers/0113/blocks0113/00000001.dat
   ]
   |control0113=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i43eb
-    |path=$lang0000/layers/0113/control0113/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i43eb
+    |path=$lang0000/layers/0113/control0113/00000001.dat
   ]
   |plants0113=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0113/plants0113/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7998
+    |path=$lang0000/layers/0113/plants0113/00000001.dat
   ]
   |altitude0114=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4a6b53
     |path=$lang0000/layers/0114/altitude0114/00000000.dat
   ]
   |blocks0114=[
-    |version=n0|language=i0|client=i0|compression=i1|size=iab7f
-    |path=$lang0000/layers/0114/blocks0114/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ia5d2
+    |path=$lang0000/layers/0114/blocks0114/00000001.dat
   ]
   |control0114=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i20cf
-    |path=$lang0000/layers/0114/control0114/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i4024
+    |path=$lang0000/layers/0114/control0114/00000001.dat
   ]
   |plants0114=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0114/plants0114/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0114/plants0114/00000001.dat
   ]
   |altitude0115=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4784bd
     |path=$lang0000/layers/0115/altitude0115/00000000.dat
   ]
   |blocks0115=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i690f
-    |path=$lang0000/layers/0115/blocks0115/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6571
+    |path=$lang0000/layers/0115/blocks0115/00000001.dat
   ]
   |control0115=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3d16
-    |path=$lang0000/layers/0115/control0115/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3d16
+    |path=$lang0000/layers/0115/control0115/00000001.dat
   ]
   |plants0115=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0115/plants0115/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0115/plants0115/00000001.dat
   ]
   |altitude0116=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4fbde7
     |path=$lang0000/layers/0116/altitude0116/00000000.dat
   ]
   |blocks0116=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7aac
-    |path=$lang0000/layers/0116/blocks0116/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i777b
+    |path=$lang0000/layers/0116/blocks0116/00000001.dat
   ]
   |control0116=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i45b1
-    |path=$lang0000/layers/0116/control0116/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i45b1
+    |path=$lang0000/layers/0116/control0116/00000001.dat
   ]
   |plants0116=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie79a5
-    |path=$lang0000/layers/0116/plants0116/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0116/plants0116/00000001.dat
   ]
   |altitude0117=[
     |version=n0|language=i0|client=i0|compression=i1|size=i486f15
     |path=$lang0000/layers/0117/altitude0117/00000000.dat
   ]
   |blocks0117=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7265
-    |path=$lang0000/layers/0117/blocks0117/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6f30
+    |path=$lang0000/layers/0117/blocks0117/00000001.dat
   ]
   |control0117=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3f46
-    |path=$lang0000/layers/0117/control0117/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3f46
+    |path=$lang0000/layers/0117/control0117/00000001.dat
   ]
   |plants0117=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0117/plants0117/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0117/plants0117/00000001.dat
   ]
   |altitude0118=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4d5c7c
     |path=$lang0000/layers/0118/altitude0118/00000000.dat
   ]
   |blocks0118=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i84f7
-    |path=$lang0000/layers/0118/blocks0118/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i80d0
+    |path=$lang0000/layers/0118/blocks0118/00000001.dat
   ]
   |control0118=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i40c8
-    |path=$lang0000/layers/0118/control0118/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i40c8
+    |path=$lang0000/layers/0118/control0118/00000001.dat
   ]
   |plants0118=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie79b4
-    |path=$lang0000/layers/0118/plants0118/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7a39
+    |path=$lang0000/layers/0118/plants0118/00000001.dat
   ]
   |altitude0119=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4c11e4
     |path=$lang0000/layers/0119/altitude0119/00000000.dat
   ]
   |blocks0119=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7782
-    |path=$lang0000/layers/0119/blocks0119/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i7563
+    |path=$lang0000/layers/0119/blocks0119/00000001.dat
   ]
   |control0119=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i234d
-    |path=$lang0000/layers/0119/control0119/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i234d
+    |path=$lang0000/layers/0119/control0119/00000001.dat
   ]
   |plants0119=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie79af
-    |path=$lang0000/layers/0119/plants0119/00000000.dat
+    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0119/plants0119/00000001.dat
   ]
   |altitude0120=[
     |version=n0|language=i0|client=i0|compression=i1|size=i499d0e
     |path=$lang0000/layers/0120/altitude0120/00000000.dat
   ]
   |blocks0120=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i6ca3
-    |path=$lang0000/layers/0120/blocks0120/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i63a0
+    |path=$lang0000/layers/0120/blocks0120/00000001.dat
   ]
   |control0120=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3fad
-    |path=$lang0000/layers/0120/control0120/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3fad
+    |path=$lang0000/layers/0120/control0120/00000001.dat
   ]
   |plants0120=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0120/plants0120/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0120/plants0120/00000001.dat
   ]
   |altitude0121=[
     |version=n0|language=i0|client=i0|compression=i1|size=i48d2fe
     |path=$lang0000/layers/0121/altitude0121/00000000.dat
   ]
   |blocks0121=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i6839
-    |path=$lang0000/layers/0121/blocks0121/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i651a
+    |path=$lang0000/layers/0121/blocks0121/00000001.dat
   ]
   |control0121=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i42c3
-    |path=$lang0000/layers/0121/control0121/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i42c3
+    |path=$lang0000/layers/0121/control0121/00000001.dat
   ]
   |plants0121=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0121/plants0121/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0121/plants0121/00000001.dat
   ]
   |altitude0122=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4cfc5b
     |path=$lang0000/layers/0122/altitude0122/00000000.dat
   ]
   |blocks0122=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i6757
-    |path=$lang0000/layers/0122/blocks0122/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i65cd
+    |path=$lang0000/layers/0122/blocks0122/00000001.dat
   ]
   |control0122=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i48a3
-    |path=$lang0000/layers/0122/control0122/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i48a3
+    |path=$lang0000/layers/0122/control0122/00000001.dat
   ]
   |plants0122=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0122/plants0122/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0122/plants0122/00000001.dat
   ]
   |altitude0123=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4ca6d2
     |path=$lang0000/layers/0123/altitude0123/00000000.dat
   ]
   |blocks0123=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i811b
-    |path=$lang0000/layers/0123/blocks0123/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6ded
+    |path=$lang0000/layers/0123/blocks0123/00000001.dat
   ]
   |control0123=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3971
-    |path=$lang0000/layers/0123/control0123/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3971
+    |path=$lang0000/layers/0123/control0123/00000001.dat
   ]
   |plants0123=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0123/plants0123/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie79b6
+    |path=$lang0000/layers/0123/plants0123/00000001.dat
   ]
   |altitude0124=[
     |version=n0|language=i0|client=i0|compression=i1|size=i47c216
     |path=$lang0000/layers/0124/altitude0124/00000000.dat
   ]
   |blocks0124=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i6bb3
-    |path=$lang0000/layers/0124/blocks0124/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6894
+    |path=$lang0000/layers/0124/blocks0124/00000001.dat
   ]
   |control0124=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i404f
-    |path=$lang0000/layers/0124/control0124/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i404f
+    |path=$lang0000/layers/0124/control0124/00000001.dat
   ]
   |plants0124=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0124/plants0124/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie79e7
+    |path=$lang0000/layers/0124/plants0124/00000001.dat
   ]
   |altitude0125=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4c01d6
     |path=$lang0000/layers/0125/altitude0125/00000000.dat
   ]
   |blocks0125=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i6566
-    |path=$lang0000/layers/0125/blocks0125/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i5892
+    |path=$lang0000/layers/0125/blocks0125/00000001.dat
   ]
   |control0125=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i4658
-    |path=$lang0000/layers/0125/control0125/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i4658
+    |path=$lang0000/layers/0125/control0125/00000001.dat
   ]
   |plants0125=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0125/plants0125/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0125/plants0125/00000001.dat
   ]
   |altitude0126=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4ba33a
     |path=$lang0000/layers/0126/altitude0126/00000000.dat
   ]
   |blocks0126=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i6940
-    |path=$lang0000/layers/0126/blocks0126/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i67e1
+    |path=$lang0000/layers/0126/blocks0126/00000001.dat
   ]
   |control0126=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i4729
-    |path=$lang0000/layers/0126/control0126/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i4729
+    |path=$lang0000/layers/0126/control0126/00000001.dat
   ]
   |plants0126=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7a09
-    |path=$lang0000/layers/0126/plants0126/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7ac5
+    |path=$lang0000/layers/0126/plants0126/00000001.dat
   ]
   |altitude0127=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4c2520
     |path=$lang0000/layers/0127/altitude0127/00000000.dat
   ]
   |blocks0127=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7425
-    |path=$lang0000/layers/0127/blocks0127/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6be3
+    |path=$lang0000/layers/0127/blocks0127/00000001.dat
   ]
   |control0127=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i4192
-    |path=$lang0000/layers/0127/control0127/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i4192
+    |path=$lang0000/layers/0127/control0127/00000001.dat
   ]
   |plants0127=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0127/plants0127/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0127/plants0127/00000001.dat
   ]
   |altitude0128=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4e0d17
     |path=$lang0000/layers/0128/altitude0128/00000000.dat
   ]
   |blocks0128=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7085
-    |path=$lang0000/layers/0128/blocks0128/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6bba
+    |path=$lang0000/layers/0128/blocks0128/00000001.dat
   ]
   |control0128=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i4255
-    |path=$lang0000/layers/0128/control0128/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i4255
+    |path=$lang0000/layers/0128/control0128/00000001.dat
   ]
   |plants0128=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0128/plants0128/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7bc1
+    |path=$lang0000/layers/0128/plants0128/00000001.dat
   ]
   |altitude0129=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4e49d5
     |path=$lang0000/layers/0129/altitude0129/00000000.dat
   ]
   |blocks0129=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i72e4
-    |path=$lang0000/layers/0129/blocks0129/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i71b0
+    |path=$lang0000/layers/0129/blocks0129/00000001.dat
   ]
   |control0129=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i437b
-    |path=$lang0000/layers/0129/control0129/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i437b
+    |path=$lang0000/layers/0129/control0129/00000001.dat
   ]
   |plants0129=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0129/plants0129/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7977
+    |path=$lang0000/layers/0129/plants0129/00000001.dat
   ]
   |altitude0130=[
     |version=n0|language=i0|client=i0|compression=i1|size=i50dd42
     |path=$lang0000/layers/0130/altitude0130/00000000.dat
   ]
   |blocks0130=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i76fe
-    |path=$lang0000/layers/0130/blocks0130/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i754e
+    |path=$lang0000/layers/0130/blocks0130/00000001.dat
   ]
   |control0130=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3fc1
-    |path=$lang0000/layers/0130/control0130/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3fc1
+    |path=$lang0000/layers/0130/control0130/00000001.dat
   ]
   |plants0130=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0130/plants0130/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7a8a
+    |path=$lang0000/layers/0130/plants0130/00000001.dat
   ]
   |altitude0131=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4e2103
     |path=$lang0000/layers/0131/altitude0131/00000000.dat
   ]
   |blocks0131=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7293
-    |path=$lang0000/layers/0131/blocks0131/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i7090
+    |path=$lang0000/layers/0131/blocks0131/00000001.dat
   ]
   |control0131=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i2142
-    |path=$lang0000/layers/0131/control0131/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i27f0
+    |path=$lang0000/layers/0131/control0131/00000001.dat
   ]
   |plants0131=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0131/plants0131/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7992
+    |path=$lang0000/layers/0131/plants0131/00000001.dat
   ]
   |altitude0132=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4c4f06
     |path=$lang0000/layers/0132/altitude0132/00000000.dat
   ]
   |blocks0132=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i6f0a
-    |path=$lang0000/layers/0132/blocks0132/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6d60
+    |path=$lang0000/layers/0132/blocks0132/00000001.dat
   ]
   |control0132=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i4182
-    |path=$lang0000/layers/0132/control0132/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i4182
+    |path=$lang0000/layers/0132/control0132/00000001.dat
   ]
   |plants0132=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0132/plants0132/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7a98
+    |path=$lang0000/layers/0132/plants0132/00000001.dat
   ]
   |altitude0133=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4c2800
     |path=$lang0000/layers/0133/altitude0133/00000000.dat
   ]
   |blocks0133=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7d1a
-    |path=$lang0000/layers/0133/blocks0133/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i7a63
+    |path=$lang0000/layers/0133/blocks0133/00000001.dat
   ]
   |control0133=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3ce9
-    |path=$lang0000/layers/0133/control0133/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3ce9
+    |path=$lang0000/layers/0133/control0133/00000001.dat
   ]
   |plants0133=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0133/plants0133/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7cb5
+    |path=$lang0000/layers/0133/plants0133/00000001.dat
   ]
   |altitude0134=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4d6a9c
     |path=$lang0000/layers/0134/altitude0134/00000000.dat
   ]
   |blocks0134=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7c96
-    |path=$lang0000/layers/0134/blocks0134/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i74c5
+    |path=$lang0000/layers/0134/blocks0134/00000001.dat
   ]
   |control0134=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i409a
-    |path=$lang0000/layers/0134/control0134/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i409a
+    |path=$lang0000/layers/0134/control0134/00000001.dat
   ]
   |plants0134=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0134/plants0134/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7c99
+    |path=$lang0000/layers/0134/plants0134/00000001.dat
   ]
   |altitude0135=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4aa420
     |path=$lang0000/layers/0135/altitude0135/00000000.dat
   ]
   |blocks0135=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i767e
-    |path=$lang0000/layers/0135/blocks0135/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i6f3e
+    |path=$lang0000/layers/0135/blocks0135/00000001.dat
   ]
   |control0135=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3b8a
-    |path=$lang0000/layers/0135/control0135/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3b8a
+    |path=$lang0000/layers/0135/control0135/00000001.dat
   ]
   |plants0135=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0135/plants0135/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7c16
+    |path=$lang0000/layers/0135/plants0135/00000001.dat
   ]
   |altitude0136=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4a2f00
     |path=$lang0000/layers/0136/altitude0136/00000000.dat
   ]
   |blocks0136=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7daf
-    |path=$lang0000/layers/0136/blocks0136/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i76de
+    |path=$lang0000/layers/0136/blocks0136/00000001.dat
   ]
   |control0136=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3bd0
-    |path=$lang0000/layers/0136/control0136/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3bd0
+    |path=$lang0000/layers/0136/control0136/00000001.dat
   ]
   |plants0136=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0136/plants0136/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7a4c
+    |path=$lang0000/layers/0136/plants0136/00000001.dat
   ]
   |altitude0137=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4ef8dc
     |path=$lang0000/layers/0137/altitude0137/00000000.dat
   ]
   |blocks0137=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i71fb
-    |path=$lang0000/layers/0137/blocks0137/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i7054
+    |path=$lang0000/layers/0137/blocks0137/00000001.dat
   ]
   |control0137=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i44e3
-    |path=$lang0000/layers/0137/control0137/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i44e3
+    |path=$lang0000/layers/0137/control0137/00000001.dat
   ]
   |plants0137=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0137/plants0137/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7a67
+    |path=$lang0000/layers/0137/plants0137/00000001.dat
   ]
   |altitude0138=[
     |version=n0|language=i0|client=i0|compression=i1|size=i499582
     |path=$lang0000/layers/0138/altitude0138/00000000.dat
   ]
   |blocks0138=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7434
-    |path=$lang0000/layers/0138/blocks0138/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i70c2
+    |path=$lang0000/layers/0138/blocks0138/00000001.dat
   ]
   |control0138=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i3a1c
-    |path=$lang0000/layers/0138/control0138/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i3a1c
+    |path=$lang0000/layers/0138/control0138/00000001.dat
   ]
   |plants0138=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0138/plants0138/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie79cc
+    |path=$lang0000/layers/0138/plants0138/00000001.dat
   ]
   |altitude0139=[
     |version=n0|language=i0|client=i0|compression=i1|size=i50373a
     |path=$lang0000/layers/0139/altitude0139/00000000.dat
   ]
   |blocks0139=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i7cd4
-    |path=$lang0000/layers/0139/blocks0139/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i78b6
+    |path=$lang0000/layers/0139/blocks0139/00000001.dat
   ]
   |control0139=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i42bd
-    |path=$lang0000/layers/0139/control0139/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i42bd
+    |path=$lang0000/layers/0139/control0139/00000001.dat
   ]
   |plants0139=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0139/plants0139/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7c93
+    |path=$lang0000/layers/0139/plants0139/00000001.dat
   ]
   |altitude0140=[
     |version=n0|language=i0|client=i0|compression=i1|size=i4cca44
     |path=$lang0000/layers/0140/altitude0140/00000000.dat
   ]
   |blocks0140=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i71b3
-    |path=$lang0000/layers/0140/blocks0140/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i70d4
+    |path=$lang0000/layers/0140/blocks0140/00000001.dat
   ]
   |control0140=[
-    |version=n0|language=i0|client=i0|compression=i1|size=i4143
-    |path=$lang0000/layers/0140/control0140/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=i4143
+    |path=$lang0000/layers/0140/control0140/00000001.dat
   ]
   |plants0140=[
-    |version=n0|language=i0|client=i0|compression=i1|size=ie7977
-    |path=$lang0000/layers/0140/plants0140/00000000.dat
+    |version=n1|language=i0|client=i0|compression=i1|size=ie7a6a
+    |path=$lang0000/layers/0140/plants0140/00000001.dat
   ]
   |zoneDataCache=[
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
