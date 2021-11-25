@@ -30846,7 +30846,7 @@
   |8083=[|definition=n8083|copyfrom=n5516]
   |8084=[|definition=n8084|copyfrom=n5516]
   |8085=[|definition=n8085|copyfrom=n6008]
-  |8086=[|definition=n8086|copyfrom=n6008
+  |8086=[|definition=n8086
     |miniicon=$tactical_icon_heavymech
     |icon=$icon_npc_gamma_nuimqol_pitboss
     |name=$def_npc_gamma_felos_nuimqol_pitboss
