@@ -655,6 +655,6 @@
   |653=[|value=L796|name=$cf_zone_item_shop|hidden=i0]
   |654=[|value=L92|name=$cf_zone_objects|hidden=i1]
   |655=[|value=L691|name=$def_pbs_dogtags|hidden=i0]
-  |656=[|value=L4049b|name=$cf_respec_token|hidden=i0]
+  |656=[|value=L4049b|name=$cf_respec_tokens|hidden=i0]
   |657=[|value=L5049b|name=$cf_spark_teleport_devices|hidden=i0]
 ]
