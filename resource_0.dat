@@ -5,25 +5,25 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000016.txt
     |compression=i0
-    |size=ic0262
+    |size=ic0641
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n4
+    |version=n5
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000004.txt
+    |path=$lang0000/categoryFlags/00000005.txt
     |compression=i0
-    |size=ia171
+    |size=ia2c4
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n23
+    |version=n24
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000023.txt
+    |path=$lang0000/txtEffectIcons/00000024.txt
     |compression=i0
-    |size=i2251
+    |size=i2299
     |hash=ib6ab339a
   ]
   |icon_ammo_construction_t0=[
@@ -505,6 +505,18 @@
   |sparkTeleportDevice=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6e0a
     |path=$lang0000/icons/spark_teleport_device/00000000.png
+  ]
+  |landmine=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3cd0
+    |path=$lang0000/icons/landmine/00000000.png
+  ]
+  |icon_mine_detector=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3ed2
+    |path=$lang0000/icons/mine_detector/00000000.png
+  ]
+  |icon_effect_mine_detector=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i70A
+    |path=$lang0000/icons/effect_mine_detector/00000000.png
   ]
   |altitude0070=[
     |version=n0|language=i0|client=i0|compression=i1|size=i44fed
@@ -1218,4 +1230,4 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6e0a
     |path=$lang0000/icons/spark_teleport_device/00000000.png
   ]
-]#date=$2023-09-04-01-00-00#dummy=$knjkqdmkmn
+]#date=$2023-09-24-02-00-00#dummy=$knjkqdmkmn
