@@ -31113,4 +31113,6 @@
   |8302=[|definition=n8302|copyfrom=n212]
   |8303=[|definition=n8303|copyfrom=n212]
   |8304=[|definition=n8304|icon=$icon_ice]
+  |8305=[|definition=n8305|icon=$sparkTeleportDevice]
+  |8306=[|definition=n8306|icon=$sparkTeleportDevice]
 ]
