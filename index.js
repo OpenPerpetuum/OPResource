@@ -13,10 +13,10 @@ const gzip = require('zlib');
 
 const app = express();
 const port = process.env.PORT || 1337;
-const layerspath = process.env.GAMMA_LAYERS_NEW || 'lang0000/layers/GAMMA_LAYERS_NEW'
+const layerspath = process.env.GAMMA_LAYERS_NEW || 'lang0000/layers/GAMMA_LAYERS_NEW';
 
 // Log on any file access
-app.use(function(req, res, next){
+app.use(function(req, res, next) {
     console.log(req.originalUrl);
     next();
 });
@@ -31,11 +31,11 @@ app.use('/**/*.png', express.static('lang0000/icons/default/00000000.png'));
 function DeflateAndSeend(file, responce) {
     // Four bytes with the size of the source file.
     let buf = Buffer.alloc(4);
-    buf.writeInt32LE(fs.statSync(file).size)
+    buf.writeInt32LE(fs.statSync(file).size);
     responce.write(buf);
 
     // Pipeline for delivering compressed content to the client.
-    console.log('Defalte and send file:', file);
+    console.log('Deflate and send file:', file);
     stream.pipeline(fs.createReadStream(file), gzip.createDeflate(), responce, (err) => {
         if (err) {
             console.log('Pipeline error:', err, 'in', file);
@@ -72,22 +72,22 @@ function ProcessReq(layer, request, responce)
 
 // Thes altitude layer request.
 app.get('/lang0000/layers/*/altitude*/*.dat', function (req, res) {
-    ProcessReq('altitude', req, res)
+    ProcessReq('altitude', req, res);
 });
 
 // The blocks layer request.
 app.get('/lang0000/layers/*/blocks*/*.dat', function (req, res) {
-    ProcessReq('blocks', req, res)
+    ProcessReq('blocks', req, res);
 });
 
 // The altitude layer request.
 app.get('/lang0000/layers/*/control*/*.dat', function (req, res) {
-    ProcessReq('control', req, res)
+    ProcessReq('control', req, res);
 });
 
 // The plants layer request.
 app.get('/lang0000/layers/*/plants*/*.dat', function (req, res) {
-    ProcessReq('plants', req, res)
+    ProcessReq('plants', req, res);
 });
 
 // The index
