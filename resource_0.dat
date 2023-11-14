@@ -1,20 +1,20 @@
 #resources=[
   |definitionProperties=[
-    |version=n12
+    |version=n15
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000012.txt
+    |path=$lang0000/definitionProperties/00000015.txt
     |compression=i0
-    |size=ic01c8
+    |size=ic0262
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n2
+    |version=n3
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000002.txt
+    |path=$lang0000/categoryFlags/00000003.txt
     |compression=i0
-    |size=ia0f7
+    |size=ia171
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -521,6 +521,10 @@
   |paintYellow=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5914
     |path=$lang0000/icons/paint_yellow/00000000.png
+  ]
+  |sparkTeleportDevice=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6e0a
+    |path=$lang0000/icons/spark_teleport_device/00000000.png
   ]
   |altitude0070=[
     |version=n0|language=i0|client=i0|compression=i1|size=i44fed
@@ -1230,4 +1234,4 @@
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
     |path=$lang0000/zoneDataCache/00000002.txt
   ]
-]#date=$2021-09-12-00-00-00#dummy=$knjkqdmkmn
+]#date=$2023-09-04-01-00-00#dummy=$knjkqdmkmn
