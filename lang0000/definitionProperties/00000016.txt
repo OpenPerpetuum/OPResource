@@ -31150,8 +31150,104 @@
   |8320=[|definition=n8320|icon=$icon_mine_detector|copyfrom=n44]
   |8321=[|definition=n8321|icon=$icon_mine_detector|copyfrom=n44]
   |8322=[|definition=n8322|icon=$icon_mine_detector|copyfrom=n44]
-  |8336=[
-        |definition=n8336
+  |8328=[
+        |definition=n8328
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8329=[
+        |definition=n8329
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8330=[
+        |definition=n8330
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8331=[
+        |definition=n8331
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8332=[
+        |definition=n8332
+        |gfxresource=$gfx_medium_minigun
+        |staticscene=[
+            |scene01=[|sceneid=n2|resource=$gfx_medium_minigun|scene=$med_minigun_arm]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_minigun|scene=$med_minigun_side_turret]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_minigun|scene=$med_minigun_side_direct]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_minigun|scene=$med_minigun_tyrannos]
+            |scene07=[|sceneid=n5|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene08=[|sceneid=if|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_minigun|scene=$med_minigun_zenith]
+        ]
+        |icon=$icon_autocannon
+  ]
+  |8333=[
+        |definition=n8333
+        |gfxresource=$gfx_medium_minigun
+        |staticscene=[
+            |scene01=[|sceneid=n2|resource=$gfx_medium_minigun|scene=$med_minigun_arm]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_minigun|scene=$med_minigun_side_turret]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_minigun|scene=$med_minigun_side_direct]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_minigun|scene=$med_minigun_tyrannos]
+            |scene07=[|sceneid=n5|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene08=[|sceneid=if|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_minigun|scene=$med_minigun_zenith]
+        ]
+        |icon=$icon_autocannon
+  ]
+  |8334=[
+        |definition=n8334
+        |gfxresource=$gfx_medium_minigun
+        |staticscene=[
+            |scene01=[|sceneid=n2|resource=$gfx_medium_minigun|scene=$med_minigun_arm]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_minigun|scene=$med_minigun_side_turret]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_minigun|scene=$med_minigun_side_direct]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_minigun|scene=$med_minigun_tyrannos]
+            |scene07=[|sceneid=n5|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene08=[|sceneid=if|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_minigun|scene=$med_minigun_zenith]
+        ]
+        |icon=$icon_autocannon
+  ]
+  |8335=[
+        |definition=n8335
+        |gfxresource=$gfx_medium_minigun
+        |staticscene=[
+            |scene01=[|sceneid=n2|resource=$gfx_medium_minigun|scene=$med_minigun_arm]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_minigun|scene=$med_minigun_side_turret]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_minigun|scene=$med_minigun_side_direct]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_minigun|scene=$med_minigun_tyrannos]
+            |scene07=[|sceneid=n5|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene08=[|sceneid=if|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_minigun|scene=$med_minigun_zenith]
+        ]
+        |icon=$icon_autocannon
+  ]
+  |8340=[
+        |definition=n8340
         |icon=$icon_mech_lithus
         |defaulttint=iff1756d6
         |gfxresource=$gfx_lithus
@@ -31167,8 +31263,8 @@
             |override03=[|condition=$terraincondition_smoke_high|newstateeffectid=n258]
         ]
   ]
-  |8337=[
-        |definition=n8337
+  |8341=[
+        |definition=n8341
         |icon=$icon_mech_lithus
         |defaulttint=iff1756d6
         |gfxresource=$gfx_lithus
@@ -31180,8 +31276,8 @@
             |override02=[|condition=$terraincondition_remote_sensor_amplifier|newstateeffectid=n278]
         ]
   ]
-  |8338=[
-        |definition=n8338
+  |8342=[
+        |definition=n8342
         |icon=$icon_scarab
         |defaulttint=iff1756d6
         |gfxresource=$gfx_scarab
@@ -31199,8 +31295,8 @@
         |dummyscene=$heavymech
         |terminalscale=f0.5
   ]
-  |8340=[
-        |definition=n8340
+  |8344=[
+        |definition=n8335
         |icon=$icon_mech_lithus
         |miniicon=$tactical_icon_heavymech
   ]
