@@ -668,4 +668,5 @@
   |665=[|value=L200A|name=$cf_remote_controlled_units|hidden=i0]
   |666=[|value=L10200A|name=$cf_sentry_turret_units|hidden=i0]
   |667=[|value=LB070F|name=$cf_remote_controllers|hidden=i0]
+  |668=[|value=L20200A|name=$cf_mining_turret_units|hidden=i0]
 ]

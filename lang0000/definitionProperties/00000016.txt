@@ -31296,8 +31296,44 @@
         |terminalscale=f0.5
   ]
   |8344=[
-        |definition=n8335
+        |definition=n8344
         |icon=$icon_mech_lithus
         |miniicon=$tactical_icon_heavymech
   ]
+  |8345=[
+        |definition=n8345
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8346=[
+        |definition=n8346
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8347=[
+        |definition=n8347
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8348=[
+        |definition=n8348
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8349=[|definition=n8349|copyfrom=n54]
+  |8350=[|definition=n8350|copyfrom=n54]
+  |8351=[|definition=n8351|copyfrom=n54]
+  |8352=[|definition=n8352|copyfrom=n54]
 ]

@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000016.txt
     |compression=i0
-    |size=ic24e3
+    |size=ic28e3
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -14,7 +14,7 @@
     |client=i0
     |path=$lang0000/categoryFlags/00000005.txt
     |compression=i0
-    |size=ia2c4
+    |size=ia452
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
