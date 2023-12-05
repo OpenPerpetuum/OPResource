@@ -31336,4 +31336,40 @@
   |8350=[|definition=n8350|copyfrom=n54]
   |8351=[|definition=n8351|copyfrom=n54]
   |8352=[|definition=n8352|copyfrom=n54]
+  |8357=[
+        |definition=n8357
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8358=[
+        |definition=n8358
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8359=[
+        |definition=n8359
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8360=[
+        |definition=n8360
+        |miniicon=$tactical_icon_pbs_turret
+        |icon=$icon_pbs_turret
+		|explosioneffects=N4,6
+        |dematerializeeffects=N19
+        |materializeeffects=N23
+  ]
+  |8361=[|definition=n8361|copyfrom=n640]
+  |8362=[|definition=n8362|copyfrom=n640]
+  |8363=[|definition=n8363|copyfrom=n640]
+  |8364=[|definition=n8364|copyfrom=n640]
 ]
