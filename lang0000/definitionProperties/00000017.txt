@@ -31372,7 +31372,6 @@
   |8362=[|definition=n8362|copyfrom=n640]
   |8363=[|definition=n8363|copyfrom=n640]
   |8364=[|definition=n8364|copyfrom=n640]
-  
   |8369=[
         |definition=n8369
         |icon=$icon_bot_onyx
@@ -31421,5 +31420,74 @@
         |definition=n8373
         |icon=$icon_bot_onyx
         |miniicon=$tactical_icon_heavymech
+  ]
+  
+  |8374=[
+        |definition=n8374
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_medium_artillery
+        |staticscene=[
+                |scene01=[|sceneid=n2|resource=$gfx_medium_artillery|scene=$med_artillery_arm]
+                |scene02=[|sceneid=n1|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene03=[|sceneid=n3|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene04=[|sceneid=n4|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene05=[|sceneid=n7|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene06=[|sceneid=n8|resource=$gfx_medium_artillery|scene=$med_artillery_tyrannos]
+                |scene07=[|sceneid=n5|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene08=[|sceneid=if|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene09=[|sceneid=i15|resource=$gfx_medium_artillery|scene=$med_artillery_zenith]
+        ]
+        |icon=$icon_autocannon
+  ]
+  |8375=[
+        |definition=n8375
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_medium_artillery
+        |staticscene=[
+                |scene01=[|sceneid=n2|resource=$gfx_medium_artillery|scene=$med_artillery_arm]
+                |scene02=[|sceneid=n1|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene03=[|sceneid=n3|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene04=[|sceneid=n4|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene05=[|sceneid=n7|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene06=[|sceneid=n8|resource=$gfx_medium_artillery|scene=$med_artillery_tyrannos]
+                |scene07=[|sceneid=n5|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene08=[|sceneid=if|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene09=[|sceneid=i15|resource=$gfx_medium_artillery|scene=$med_artillery_zenith]
+        ]
+        |icon=$icon_autocannon
+  ]
+  |8376=[
+        |definition=n8376
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_medium_artillery
+        |staticscene=[
+                |scene01=[|sceneid=n2|resource=$gfx_medium_artillery|scene=$med_artillery_arm]
+                |scene02=[|sceneid=n1|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene03=[|sceneid=n3|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene04=[|sceneid=n4|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene05=[|sceneid=n7|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene06=[|sceneid=n8|resource=$gfx_medium_artillery|scene=$med_artillery_tyrannos]
+                |scene07=[|sceneid=n5|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene08=[|sceneid=if|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene09=[|sceneid=i15|resource=$gfx_medium_artillery|scene=$med_artillery_zenith]
+        ]
+        |icon=$icon_autocannon
+  ]
+  |8377=[
+        |definition=n8377
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_medium_artillery
+        |staticscene=[
+                |scene01=[|sceneid=n2|resource=$gfx_medium_artillery|scene=$med_artillery_arm]
+                |scene02=[|sceneid=n1|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene03=[|sceneid=n3|resource=$gfx_medium_artillery|scene=$med_artillery_side]
+                |scene04=[|sceneid=n4|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene05=[|sceneid=n7|resource=$gfx_medium_artillery|scene=$med_artillery_top]
+                |scene06=[|sceneid=n8|resource=$gfx_medium_artillery|scene=$med_artillery_tyrannos]
+                |scene07=[|sceneid=n5|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene08=[|sceneid=if|resource=$gfx_medium_artillery|scene=$med_artillery_top_b]
+                |scene09=[|sceneid=i15|resource=$gfx_medium_artillery|scene=$med_artillery_zenith]
+        ]
+        |icon=$icon_autocannon
   ]
 ]

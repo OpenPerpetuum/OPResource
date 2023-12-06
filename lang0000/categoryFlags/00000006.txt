@@ -670,5 +670,5 @@
   |667=[|value=LB070F|name=$cf_remote_controllers|hidden=i0]
   |668=[|value=L20200A|name=$cf_mining_turret_units|hidden=i0]
   |669=[|value=L30200A|name=$cf_harvesting_turret_units|hidden=i0]
-  |670=[|value=L50F01|name=$cf_syndicate_artillery|hidden=i0]
+  |670=[|value=LD070F|name=$cf_artillery_cannons|hidden=i0]
 ]
