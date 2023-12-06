@@ -1,20 +1,20 @@
 #resources=[
   |definitionProperties=[
-    |version=n16
+    |version=n17
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000016.txt
+    |path=$lang0000/definitionProperties/00000017.txt
     |compression=i0
-    |size=ic2ce7
+    |size=ic3394
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n5
+    |version=n6
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000005.txt
+    |path=$lang0000/categoryFlags/00000006.txt
     |compression=i0
-    |size=ia496
+    |size=ia4d5
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
