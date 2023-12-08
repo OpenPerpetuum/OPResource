@@ -250,9 +250,29 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8065
     |path=$lang0000/icons/item_stronghold_teleport/00000000.png
   ]
+    |icon_material_axicol=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15!!
+    |path=$lang0000/icons/material_axicol/00000000.png
+  ]
   |icon_material_axicoline=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15
     |path=$lang0000/icons/material_axicoline/00000000.png
+  ]
+  |icon_material_gamma_buildblock=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15
+    |path=$lang0000/icons/material_gamma_buildblock/00000000.png
+  ]
+  |icon_material_gamma_defblock=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5267
+    |path=$lang0000/icons/material_gamma_defblock/00000000.png
+  ]
+  |icon_material_gamma_energyblock=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15
+    |path=$lang0000/icons/material_gamma_energyblock/00000000.png
+  ]
+  |icon_material_gamma_offenseblock=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15
+    |path=$lang0000/icons/material_gamma_offenseblock/00000000.png
   ]
   |icon_material_boss_shard=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6f0c
@@ -503,7 +523,7 @@
     |path=$lang0000/icons/paint_yellow/00000000.png
   ]
   |sparkTeleportDevice=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6e0a
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i599f
     |path=$lang0000/icons/spark_teleport_device/00000000.png
   ]
   |landmine=[
