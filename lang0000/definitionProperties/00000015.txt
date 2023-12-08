@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #definitionproperties=[
   |4=[
         |definition=n4
@@ -31133,3 +31132,4 @@
   |8321=[|definition=n8320|icon=$icon_mine_detector|copyfrom=n44]
   |8322=[|definition=n8321|icon=$icon_mine_detector|copyfrom=n44]
   |8323=[|definition=n8322|icon=$icon_mine_detector|copyfrom=n44]
+]
