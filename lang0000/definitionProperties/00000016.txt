@@ -22753,7 +22753,7 @@
         |defaulttint=iff000000
         |gfxresource=$gfx_pbs_buildings
         |staticscene=[
-        |scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
         ]
         |explosioneffects=N6,27,55
   ]
@@ -31153,7 +31153,11 @@
   |8328=[
         |definition=n8328
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31161,7 +31165,11 @@
   |8329=[
         |definition=n8329
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31169,7 +31177,11 @@
   |8330=[
         |definition=n8330
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31177,7 +31189,11 @@
   |8331=[
         |definition=n8331
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31303,7 +31319,11 @@
   |8345=[
         |definition=n8345
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31311,7 +31331,11 @@
   |8346=[
         |definition=n8346
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31319,7 +31343,11 @@
   |8347=[
         |definition=n8347
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31327,7 +31355,11 @@
   |8348=[
         |definition=n8348
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31339,7 +31371,11 @@
   |8357=[
         |definition=n8357
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31347,7 +31383,11 @@
   |8358=[
         |definition=n8358
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31355,7 +31395,11 @@
   |8359=[
         |definition=n8359
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
@@ -31363,7 +31407,11 @@
   |8360=[
         |definition=n8360
         |miniicon=$tactical_icon_pbs_turret
-        |icon=$icon_pbs_turret
+		|defaulttint=iff000000
+		|gfxresource=$gfx_pbs_buildings
+		|staticscene=[
+			|scene01=[|sceneid=n0|resource=$gfx_pbs_buildings|scene=$building_foundation]
+        ]
 		|explosioneffects=N4,6
         |dematerializeeffects=N19
         |materializeeffects=N23
