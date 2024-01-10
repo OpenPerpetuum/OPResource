@@ -31138,7 +31138,13 @@
   |8331=[|definition=n8331|copyfrom=n61]
   |8332=[|definition=n8332|copyfrom=n4867]
   |8333=[|definition=n8333|copyfrom=n4866]
-  |8334=[|definition=n8334|copyfrom=n2561]
+  |8334=[
+	|definition=n8334
+	|copyfrom=n2561
+	|explosioneffects=N0,4
+    |dematerializeeffects=N18
+    |materializeeffects=N22
+  ]
   |8336=[
         |definition=n8336
         |miniicon=$tactical_icon_pbs_turret
@@ -31189,7 +31195,13 @@
   |8352=[|definition=n8352|copyfrom=n54]
   |8353=[|definition=n8353|copyfrom=n4867]
   |8354=[|definition=n8354|copyfrom=n4866]
-  |8355=[|definition=n8355|copyfrom=n2561]
+  |8355=[
+	|definition=n8355
+	|copyfrom=n2561
+	|explosioneffects=N0,4
+    |dematerializeeffects=N18
+    |materializeeffects=N22
+  ]
   |8357=[
         |definition=n8357
         |miniicon=$tactical_icon_pbs_turret
@@ -31232,7 +31244,13 @@
   |8368=[|definition=n8368|copyfrom=n640]
   |8369=[|definition=n8369|copyfrom=n4867]
   |8370=[|definition=n8370|copyfrom=n4866]
-  |8371=[|definition=n8371|copyfrom=n2561]
+  |8355=[
+	|definition=n8355
+	|copyfrom=n2561
+	|explosioneffects=N0,4
+    |dematerializeeffects=N18
+    |materializeeffects=N22
+  ]
   |8373=[
         |definition=n8373
         |miniicon=$tactical_icon_pbs_turret
