@@ -31265,7 +31265,7 @@
   |8380=[|definition=n8380|copyfrom=n4979]
   |8381=[|definition=n8381|copyfrom=n946]
   |8382=[|definition=n8382|copyfrom=n945]
-  |8383=[|definition=n8383|copyfrom=n1482]
+  |8383=[|definition=n8383|copyfrom=n120]
   |8385=[
         |definition=n8385
         |miniicon=$tactical_icon_pbs_turret
@@ -31296,7 +31296,7 @@
   |8392=[|definition=n8392|copyfrom=n4979]
   |8393=[|definition=n8393|copyfrom=n125]
   |8394=[|definition=n8394|copyfrom=n124]
-  |8395=[|definition=n8395|copyfrom=n1482]
+  |8395=[|definition=n8395|copyfrom=n120]
   |8397=[
         |definition=n8397
         |miniicon=$tactical_icon_pbs_turret
@@ -31325,9 +31325,9 @@
   |8402=[|definition=n8402|copyfrom=n4979]
   |8403=[|definition=n8403|copyfrom=n4979]
   |8404=[|definition=n8403|copyfrom=n4979]
-  |8405=[|definition=n8405|copyfrom=n125]
-  |8406=[|definition=n8406|copyfrom=n124]
-  |8407=[|definition=n8407|copyfrom=n1482]
+  |8405=[|definition=n8405|copyfrom=n128]
+  |8406=[|definition=n8406|copyfrom=n127]
+  |8407=[|definition=n8407|copyfrom=n120]
   |8409=[
         |definition=n8409
         |miniicon=$tactical_icon_pbs_turret
