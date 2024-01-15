@@ -31228,8 +31228,8 @@
   |8368=[|definition=n8368|copyfrom=n640]
   |8369=[|definition=n8369|copyfrom=n4867]
   |8370=[|definition=n8370|copyfrom=n4866]
-  |8355=[
-	|definition=n8355
+  |8371=[
+	|definition=n8371
 	|copyfrom=n2561
 	|explosioneffects=N0,4
     |dematerializeeffects=N18
