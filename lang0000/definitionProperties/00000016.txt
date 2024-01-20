@@ -31172,10 +31172,27 @@
   |8340=[|definition=n8340|copyfrom=n4979]
   |8341=[|definition=n8341|copyfrom=n4979]
   |8342=[|definition=n8342|copyfrom=n4979]
-  |8343=[|definition=n8343|copyfrom=n4979]
   |8344=[|definition=n8344|copyfrom=n2864]
   |8345=[|definition=n8345|copyfrom=n2863]
-  |8346=[|definition=n8346|copyfrom=n4443]
+  |8346=[
+        |definition=n8346
+        |icon=$icon_scarab
+        |defaulttint=iff1756d6
+        |gfxresource=$gfx_scarab_v2
+        |staticscene=[
+            |scene01=[|sceneid=n0|resource=$gfx_scarab_v2|scene=$leg]
+        ]
+        |miniicon=$tactical_icon_heavymech
+        |explosioneffects=N38
+        |dematerializeeffects=N21
+        |materializeeffects=N25
+        |stateeffectoverrides=[
+            |override01=[|condition=$terraincondition_demobilizer|newstateeffectid=n284]
+        ]
+        |dummyresource=$gfx_robotdummies
+        |dummyscene=$heavymech
+        |terminalscale=f0.5
+  ]
   |8348=[
         |definition=n8348
         |icon=$icon_mech_lithus
