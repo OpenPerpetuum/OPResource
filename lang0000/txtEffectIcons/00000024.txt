@@ -108,4 +108,5 @@
   |119=[|effect=$effect_gamma_t3|icon=$icon_effect_gamma_t3]
   |120=[|effect=$effect_gamma_tc|icon=$icon_effect_gamma_tc]
   |121=[|effect=$effect_mine_detector|icon=$icon_effect_mine_detector]
+  |122=[|effect=$effect_alpha3_bonus|icon=$icon_effect_alpha2_bonus]
 ]
