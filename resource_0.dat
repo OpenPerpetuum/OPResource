@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000016.txt
     |compression=i0
-    |size=ic436b
+    |size=ic3b02
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -538,17 +538,9 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i70A
     |path=$lang0000/icons/effect_mine_detector/00000000.png
   ]
-  |gfx_grand_arkhe=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i92840
-    |path=$lang0000/gfx/grand_arkhe/00000036.a3m
-  ]
   |gfx_scarab_v2=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3fadad
     |path=$lang0000/gfx/scarab_v2/00000000.a3m
-  ]
-  |gfx_medium_autocannon=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ibbbe1
-    |path=$lang0000/gfx/medium_autocannon/00000000.a3m
   ]
   |altitude0070=[
     |version=n0|language=i0|client=i0|compression=i1|size=i44fed
