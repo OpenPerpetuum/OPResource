@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000016.txt
     |compression=i0
-    |size=ic3b02
+    |size=ic4732
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -537,6 +537,10 @@
   |icon_effect_mine_detector=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i70A
     |path=$lang0000/icons/effect_mine_detector/00000000.png
+  ]
+  |icon_remote_controller=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i77b6
+    |path=$lang0000/icons/item_remote_controller/00000000.png
   ]
   |gfx_scarab_v2=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3fadad
@@ -1250,4 +1254,4 @@
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
     |path=$lang0000/zoneDataCache/00000002.txt
   ]
-]#date=$2024-02-17-01-00-00#dummy=$knjkqdmkmn
+]#date=$2024-03-06-00-00-00#dummy=$knjkqdmkmn

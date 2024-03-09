@@ -566,17 +566,17 @@
   ]
   |61=[
         |definition=n61
-        |gfxresource=$gfx_medium_autocannon
+        |gfxresource=$gfx_medium_minigun
         |staticscene=[
-            |scene01=[|sceneid=n2|resource=$gfx_medium_autocannon|scene=$med_minigun_arm]
-            |scene02=[|sceneid=n1|resource=$gfx_medium_autocannon|scene=$med_minigun_side_turret]
-            |scene03=[|sceneid=n3|resource=$gfx_medium_autocannon|scene=$med_minigun_side_direct]
-            |scene04=[|sceneid=n4|resource=$gfx_medium_autocannon|scene=$med_minigun_top_turret]
-            |scene05=[|sceneid=n7|resource=$gfx_medium_autocannon|scene=$med_minigun_top_turret]
-            |scene06=[|sceneid=n8|resource=$gfx_medium_autocannon|scene=$med_minigun_tyrannos]
-            |scene07=[|sceneid=n5|resource=$gfx_medium_autocannon|scene=$med_minigun_top_turret]
-            |scene08=[|sceneid=if|resource=$gfx_medium_autocannon|scene=$med_minigun_top_turret]
-            |scene09=[|sceneid=i15|resource=$gfx_medium_autocannon|scene=$med_minigun_zenith]
+            |scene01=[|sceneid=n2|resource=$gfx_medium_minigun|scene=$med_minigun_arm]
+            |scene02=[|sceneid=n1|resource=$gfx_medium_minigun|scene=$med_minigun_side_turret]
+            |scene03=[|sceneid=n3|resource=$gfx_medium_minigun|scene=$med_minigun_side_direct]
+            |scene04=[|sceneid=n4|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene05=[|sceneid=n7|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene06=[|sceneid=n8|resource=$gfx_medium_minigun|scene=$med_minigun_tyrannos]
+            |scene07=[|sceneid=n5|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene08=[|sceneid=if|resource=$gfx_medium_minigun|scene=$med_minigun_top_turret]
+            |scene09=[|sceneid=i15|resource=$gfx_medium_minigun|scene=$med_minigun_zenith]
         ]
         |icon=$icon_autocannon
   ]
@@ -31131,6 +31131,10 @@
   |8321=[|definition=n8321|icon=$icon_mine_detector|copyfrom=n44]
   |8322=[|definition=n8322|icon=$icon_mine_detector|copyfrom=n44]
   |8323=[|definition=n8323|icon=$icon_mine_detector|copyfrom=n44]
+  |8324=[|definition=n8324|icon=$icon_remote_controller]
+  |8325=[|definition=n8325|icon=$icon_remote_controller]
+  |8326=[|definition=n8326|icon=$icon_remote_controller]
+  |8327=[|definition=n8327|icon=$icon_remote_controller]
   |8328=[|definition=n8328|copyfrom=n61]
   |8329=[|definition=n8329|copyfrom=n61]
   |8330=[|definition=n8330|copyfrom=n61]
@@ -31399,6 +31403,9 @@
         |icon=$icon_mech_lithus
         |miniicon=$tactical_icon_heavymech
   ]
+  |8421=[|definition=n8421|icon=$icon_remote_controller]
+  |8422=[|definition=n8422|icon=$icon_remote_controller]
+  |8423=[|definition=n8423|icon=$icon_remote_controller]
   |8424=[
         |definition=n8424
         |icon=$icon_mech_lithus
@@ -31590,6 +31597,74 @@
   |8483=[|definition=n8483|copyfrom=n211]
   |8484=[
         |definition=n8484
+        |icon=$icon_mech_lithus
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |8485=[|definition=n8485|copyfrom=n206]
+  |8486=[|definition=n8486|copyfrom=n202]
+  |8487=[|definition=n8487|copyfrom=n200]
+  |8488=[|definition=n8488|copyfrom=n1484]
+  |8489=[|definition=n8489|copyfrom=n217]
+  |8490=[|definition=n8490|copyfrom=n198]
+  |8491=[|definition=n8491|copyfrom=n214]
+  |8492=[|definition=n8492|copyfrom=n206]
+  |8493=[|definition=n8493|copyfrom=n212]
+  |8494=[|definition=n8494|copyfrom=n200]
+  |8495=[|definition=n8495|copyfrom=n194]
+  |8496=[|definition=n8496|copyfrom=n214]
+  |8497=[|definition=n8497|copyfrom=n194]
+  |8498=[|definition=n8498|copyfrom=n202]
+  |8499=[|definition=n8499|copyfrom=n197]
+  |8500=[|definition=n8500|copyfrom=n8193]
+  |8501=[|definition=n8501|copyfrom=n214]
+  |8502=[|definition=n8502|copyfrom=n212]
+  |8503=[|definition=n8503|copyfrom=n8211]
+  |8504=[|definition=n8504|copyfrom=n212]
+  |8505=[|definition=n8505|copyfrom=n206]
+  |8506=[|definition=n8506|copyfrom=n202]
+  |8507=[|definition=n8507|copyfrom=n200]
+  |8508=[|definition=n8508|copyfrom=n1484]
+  |8509=[|definition=n8509|copyfrom=n194]
+  |8510=[|definition=n8510|copyfrom=n5536]
+  |8511=[|definition=n8511|copyfrom=n214]
+  |8512=[|definition=n8512|copyfrom=n206]
+  |8513=[|definition=n8513|copyfrom=n212]
+  |8514=[
+        |definition=n8514
+        |icon=$icon_mech_lithus
+        |miniicon=$tactical_icon_heavymech
+  ]
+  |8515=[|definition=n8515|copyfrom=n208]
+  |8516=[|definition=n8516|copyfrom=n196]
+  |8517=[|definition=n8517|copyfrom=n942]
+  |8518=[|definition=n8518|copyfrom=n1484]
+  |8519=[|definition=n8519|copyfrom=n217]
+  |8520=[|definition=n8520|copyfrom=n198]
+  |8521=[|definition=n8521|copyfrom=n216]
+  |8522=[|definition=n8522|copyfrom=n208]
+  |8523=[|definition=n8523|copyfrom=n948]
+  |8524=[|definition=n8524|copyfrom=n942]
+  |8525=[|definition=n8525|copyfrom=n204]
+  |8526=[|definition=n8526|copyfrom=n216]
+  |8527=[|definition=n8527|copyfrom=n204]
+  |8528=[|definition=n8528|copyfrom=n196]
+  |8529=[|definition=n8529|copyfrom=n197]
+  |8530=[|definition=n8530|copyfrom=n8115]
+  |8531=[|definition=n8531|copyfrom=n216]
+  |8532=[|definition=n8532|copyfrom=n948]
+  |8533=[|definition=n8533|copyfrom=n8090]
+  |8534=[|definition=n8534|copyfrom=n948]
+  |8535=[|definition=n8535|copyfrom=n208]
+  |8536=[|definition=n8536|copyfrom=n196]
+  |8537=[|definition=n8537|copyfrom=n942]
+  |8538=[|definition=n8538|copyfrom=n1484]
+  |8539=[|definition=n8539|copyfrom=n204]
+  |8540=[|definition=n8540|copyfrom=n5536]
+  |8541=[|definition=n8541|copyfrom=n216]
+  |8542=[|definition=n8542|copyfrom=n208]
+  |8543=[|definition=n8543|copyfrom=n948]
+  |8544=[
+        |definition=n8544
         |icon=$icon_mech_lithus
         |miniicon=$tactical_icon_heavymech
   ]
