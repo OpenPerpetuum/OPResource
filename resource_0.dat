@@ -1,29 +1,29 @@
 #resources=[
   |definitionProperties=[
-    |version=n15
+    |version=n16
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000015.txt
+    |path=$lang0000/definitionProperties/00000016.txt
     |compression=i0
-    |size=ic0262
+    |size=ic4732
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n3
+    |version=n5
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000003.txt
+    |path=$lang0000/categoryFlags/00000005.txt
     |compression=i0
-    |size=ia171
+    |size=ia607
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n23
+    |version=n24
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000023.txt
+    |path=$lang0000/txtEffectIcons/00000024.txt
     |compression=i0
-    |size=i2251
+    |size=i22e4
     |hash=ib6ab339a
   ]
   |icon_ammo_construction_t0=[
@@ -525,6 +525,26 @@
   |sparkTeleportDevice=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i599f
     |path=$lang0000/icons/spark_teleport_device/00000000.png
+  ]
+  |landmine=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3cd0
+    |path=$lang0000/icons/landmine/00000000.png
+  ]
+  |icon_mine_detector=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3ed2
+    |path=$lang0000/icons/mine_detector/00000000.png
+  ]
+  |icon_effect_mine_detector=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i70A
+    |path=$lang0000/icons/effect_mine_detector/00000000.png
+  ]
+  |icon_remote_controller=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i77b6
+    |path=$lang0000/icons/item_remote_controller/00000000.png
+  ]
+  |gfx_scarab_v2=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3fadad
+    |path=$lang0000/gfx/scarab_v2/00000000.a3m
   ]
   |altitude0070=[
     |version=n0|language=i0|client=i0|compression=i1|size=i44fed
@@ -1234,4 +1254,4 @@
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
     |path=$lang0000/zoneDataCache/00000002.txt
   ]
-]#date=$2023-09-04-01-00-00#dummy=$knjkqdmkmn
+]#date=$2024-03-06-00-00-00#dummy=$knjkqdmkmn
