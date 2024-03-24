@@ -1,20 +1,20 @@
 #resources=[
   |definitionProperties=[
-    |version=n16
+    |version=n17
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000016.txt
+    |path=$lang0000/definitionProperties/00000017.txt
     |compression=i0
-    |size=ic4732
+    |size=ic475c
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n5
+    |version=n6
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000005.txt
+    |path=$lang0000/categoryFlags/00000006.txt
     |compression=i0
-    |size=ia607
+    |size=ia63c
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -1254,4 +1254,4 @@
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
     |path=$lang0000/zoneDataCache/00000002.txt
   ]
-]#date=$2024-03-06-00-00-00#dummy=$knjkqdmkmn
+]#date=$2024-03-23-00-00-00#dummy=$knjkqdmkmn
