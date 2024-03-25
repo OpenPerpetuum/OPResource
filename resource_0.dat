@@ -5,7 +5,7 @@
     |client=i0
     |path=$lang0000/definitionProperties/00000017.txt
     |compression=i0
-    |size=ic475c
+    |size=ic47bc
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -14,7 +14,7 @@
     |client=i0
     |path=$lang0000/categoryFlags/00000006.txt
     |compression=i0
-    |size=ia63c
+    |size=ia730
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -1254,4 +1254,4 @@
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
     |path=$lang0000/zoneDataCache/00000002.txt
   ]
-]#date=$2024-03-23-00-00-00#dummy=$knjkqdmkmn
+]#date=$2024-03-25-00-00-00#dummy=$knjkqdmkmn

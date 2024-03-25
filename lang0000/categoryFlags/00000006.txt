@@ -676,4 +676,8 @@
   |674=[|value=L202120A|name=$cf_nuimqol_combat_drones_units|hidden=i0]
   |675=[|value=L302120A|name=$cf_thelodica_combat_drones_units|hidden=i0]
   |676=[|value=LD070F|name=$cf_scorchers|hidden=i0]
+  |677=[|value=LB0F|name=$cf_nox_modules|hidden=i0]
+  |678=[|value=L10B0F|name=$cf_nox_shield_negators|hidden=i0]
+  |679=[|value=L20B0F|name=$cf_nox_repair_negators|hidden=i0]
+  |680=[|value=L30B0F|name=$cf_nox_teleport_negators|hidden=i0]
 ]

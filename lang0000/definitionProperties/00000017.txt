@@ -31669,4 +31669,8 @@
         |miniicon=$tactical_icon_heavymech
   ]
   |8545=[|definition=n8545|copyfrom=n39]
+  |8546=[
+        |definition=n8546
+        |icon=$icon_gang_assist_shield_calculations
+  ]
 ]
