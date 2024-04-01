@@ -1,9 +1,9 @@
 #resources=[
   |definitionProperties=[
-    |version=n16
+    |version=n17
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000016.txt
+    |path=$lang0000/definitionProperties/00000017.txt
     |compression=i0
     |size=ic4732
     |hash=ib6ab339a
