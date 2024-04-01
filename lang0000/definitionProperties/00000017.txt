@@ -31668,4 +31668,8 @@
         |icon=$icon_mech_lithus
         |miniicon=$tactical_icon_heavymech
   ]
+  |8545=[
+        |definition=n8545
+        |icon=$paintDarkMaroon
+  ]
 ]
