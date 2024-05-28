@@ -31673,4 +31673,14 @@
         |definition=n8546
         |icon=$icon_gang_assist_shield_calculations
   ]
+  |8549=[|definition=n8549|copyfrom=n948]
+  |8550=[|definition=n8550|copyfrom=n212]
+  |8551=[|definition=n8551|copyfrom=n211]
+  |8552=[|definition=n8552|copyfrom=n213]
+  |8553=[|definition=n8553|copyfrom=n211]
+  |8554=[|definition=n8554|copyfrom=n214]
+  |8555=[|definition=n8555|copyfrom=n212]
+  |8556=[|definition=n8556|copyfrom=n216]
+  |8557=[|definition=n8557|copyfrom=n948]
+  |8558=[|definition=n8558|copyfrom=n209]
 ]
