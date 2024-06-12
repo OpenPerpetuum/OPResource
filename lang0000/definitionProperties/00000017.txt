@@ -31683,4 +31683,8 @@
   |8556=[|definition=n8556|copyfrom=n216]
   |8557=[|definition=n8557|copyfrom=n948]
   |8558=[|definition=n8558|copyfrom=n209]
+  |8559=[
+        |definition=n8559
+        |icon=$paintDarkMaroon
+  ]
 ]
