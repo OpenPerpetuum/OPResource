@@ -31202,10 +31202,10 @@
         |icon=$icon_mech_lithus
         |miniicon=$tactical_icon_heavymech
   ]
-  |8349=[|definition=n8349|copyfrom=n54]
-  |8350=[|definition=n8350|copyfrom=n54]
-  |8351=[|definition=n8351|copyfrom=n54]
-  |8352=[|definition=n8352|copyfrom=n54]
+  |8349=[|definition=n8349|copyfrom=n53]
+  |8350=[|definition=n8350|copyfrom=n53]
+  |8351=[|definition=n8351|copyfrom=n53]
+  |8352=[|definition=n8352|copyfrom=n53]
   |8353=[|definition=n8353|copyfrom=n4867]
   |8354=[|definition=n8354|copyfrom=n4866]
   |8355=[
@@ -31243,10 +31243,10 @@
   |8362=[|definition=n8362|copyfrom=n4979]
   |8363=[|definition=n8363|copyfrom=n4979]
   |8364=[|definition=n8364|copyfrom=n4979]  
-  |8365=[|definition=n8365|copyfrom=n640]
-  |8366=[|definition=n8366|copyfrom=n640]
-  |8367=[|definition=n8367|copyfrom=n640]
-  |8368=[|definition=n8368|copyfrom=n640]
+  |8365=[|definition=n8365|copyfrom=n639]
+  |8366=[|definition=n8366|copyfrom=n639]
+  |8367=[|definition=n8367|copyfrom=n639]
+  |8368=[|definition=n8368|copyfrom=n639]
   |8369=[|definition=n8369|copyfrom=n4867]
   |8370=[|definition=n8370|copyfrom=n4866]
   |8371=[
@@ -31416,26 +31416,10 @@
         |icon=$icon_ct_module
         |name=$def_spectator_bot_cprg
   ]
-  |8425=[
-        |definition=n8425
-        |icon=$icon_ct_module
-        |name=$def_standart_remote_controller_cprg
-  ]
-  |8426=[
-        |definition=n8426
-        |icon=$icon_ct_module
-        |name=$def_named1_remote_controller_cprg
-  ]
-  |8427=[
-        |definition=n8427
-        |icon=$icon_ct_module
-        |name=$def_named2_remote_controller_cprg
-  ]
-  |8428=[
-        |definition=n8428
-        |icon=$icon_ct_module
-        |name=$def_named3_remote_controller_cprg
-  ]
+  |8425=[|definition=n8425|icon=$icon_ct_module|name=$def_standard_assault_remote_controller_cprg]
+  |8426=[|definition=n8426|icon=$icon_ct_module|name=$def_named1_assault_remote_controller_cprg]
+  |8427=[|definition=n8427|icon=$icon_ct_module|name=$def_named2_assault_remote_controller_cprg]
+  |8428=[|definition=n8428|icon=$icon_ct_module|name=$def_named3_assault_remote_controller_cprg]
   |8429=[
         |definition=n8429
         |icon=$icon_ct_module
@@ -31687,4 +31671,92 @@
         |definition=n8559
         |icon=$paintDarkMaroon
   ]
+  |8560=[|definition=n8560|icon=$icon_remote_controller]
+  |8561=[|definition=n8561|icon=$icon_remote_controller]
+  |8562=[|definition=n8562|icon=$icon_remote_controller]
+  |8563=[|definition=n8563|icon=$icon_remote_controller]
+  |8564=[|definition=n8564|icon=$icon_remote_controller]
+  |8565=[|definition=n8565|icon=$icon_remote_controller]
+  |8566=[|definition=n8566|icon=$icon_remote_controller]
+  |8567=[|definition=n8567|icon=$icon_ct_module|name=$def_standard_tactical_remote_controller_cprg]
+  |8568=[|definition=n8568|icon=$icon_ct_module|name=$def_named1_tactical_remote_controller_cprg]
+  |8569=[|definition=n8569|icon=$icon_ct_module|name=$def_named2_tactical_remote_controller_cprg]
+  |8570=[|definition=n8570|icon=$icon_ct_module|name=$def_named3_tactical_remote_controller_cprg]
+  |8571=[|definition=n8571|icon=$icon_remote_controller]
+  |8572=[|definition=n8572|icon=$icon_remote_controller]
+  |8573=[|definition=n8573|icon=$icon_remote_controller]
+  |8574=[|definition=n8574|icon=$icon_remote_controller]
+  |8575=[|definition=n8575|icon=$icon_remote_controller]
+  |8576=[|definition=n8576|icon=$icon_remote_controller]
+  |8577=[|definition=n8577|icon=$icon_remote_controller]
+  |8578=[|definition=n8578|icon=$icon_ct_module|name=$def_standard_industrial_remote_controller_cprg]
+  |8579=[|definition=n8579|icon=$icon_ct_module|name=$def_named1_industrial_remote_controller_cprg]
+  |8580=[|definition=n8580|icon=$icon_ct_module|name=$def_named2_industrial_remote_controller_cprg]
+  |8581=[|definition=n8581|icon=$icon_ct_module|name=$def_named3_industrial_remote_controller_cprg]
+  |8582=[|definition=n8582|icon=$icon_remote_controller]
+  |8583=[|definition=n8583|icon=$icon_remote_controller]
+  |8584=[|definition=n8584|icon=$icon_remote_controller]
+  |8585=[|definition=n8585|icon=$icon_remote_controller]
+  |8586=[|definition=n8586|icon=$icon_remote_controller]
+  |8587=[|definition=n8587|icon=$icon_remote_controller]
+  |8588=[|definition=n8588|icon=$icon_remote_controller]
+  |8589=[|definition=n8589|icon=$icon_ct_module|name=$def_standard_support_remote_controller_cprg]
+  |8590=[|definition=n8590|icon=$icon_ct_module|name=$def_named1_support_remote_controller_cprg]
+  |8591=[|definition=n8591|icon=$icon_ct_module|name=$def_named2_support_remote_controller_cprg]
+  |8592=[|definition=n8592|icon=$icon_ct_module|name=$def_named3_support_remote_controller_cprg]
+  |8593=[|definition=n8593|copyfrom=n5521]
+  |8594=[|definition=n8594|copyfrom=n5522]
+  |8595=[|definition=n8595|copyfrom=n120]
+  |8597=[|definition=n8597|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8598=[|definition=n8598|copyfrom=n4979]
+  |8599=[|definition=n8599|copyfrom=n124]
+  |8600=[|definition=n8600|copyfrom=n125]
+  |8601=[|definition=n8601|copyfrom=n120]
+  |8603=[|definition=n8603|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8604=[|definition=n8604|copyfrom=n4979]
+  |8605=[|definition=n8605|copyfrom=n127]
+  |8606=[|definition=n8606|copyfrom=n128]
+  |8607=[|definition=n8607|copyfrom=n120]
+  |8609=[|definition=n8609|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8610=[|definition=n8610|copyfrom=n4979]
+  |8611=[|definition=n8611|copyfrom=n945]
+  |8612=[|definition=n8612|copyfrom=n946]
+  |8613=[|definition=n8613|copyfrom=n120]
+  |8615=[|definition=n8615|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8616=[|definition=n8616|copyfrom=n4979]
+  |8617=[|definition=n8617|copyfrom=n5505]
+  |8618=[|definition=n8618|copyfrom=n5506]
+  |8619=[|definition=n8619|copyfrom=n120]
+  |8621=[|definition=n8621|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8622=[|definition=n8622|copyfrom=n4979]
+  |8623=[|definition=n8623|copyfrom=n70]
+  |8624=[|definition=n8624|copyfrom=n71]
+  |8625=[|definition=n8625|copyfrom=n120]
+  |8627=[|definition=n8627|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8628=[|definition=n8628|copyfrom=n4979]
+  |8629=[|definition=n8629|copyfrom=n73]
+  |8630=[|definition=n8630|copyfrom=n74]
+  |8631=[|definition=n8631|copyfrom=n120]
+  |8633=[|definition=n8633|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8634=[|definition=n8634|copyfrom=n4979]
+  |8635=[|definition=n8635|copyfrom=n103]
+  |8636=[|definition=n8636|copyfrom=n104]
+  |8637=[|definition=n8637|copyfrom=n120]
+  |8639=[|definition=n8639|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8640=[|definition=n8640|copyfrom=n4979]
+  |8641=[|definition=n8641|copyfrom=n2792]
+  |8642=[|definition=n8642|copyfrom=n2793]
+  |8643=[|definition=n8643|copyfrom=n120]
+  |8645=[|definition=n8645|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8646=[|definition=n8646|copyfrom=n4979]
+  |8647=[|definition=n8647|copyfrom=n2792]
+  |8648=[|definition=n8648|copyfrom=n2793]
+  |8649=[|definition=n8649|copyfrom=n120]
+  |8651=[|definition=n8651|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8652=[|definition=n8652|copyfrom=n4979]
+  |8653=[|definition=n8653|copyfrom=n2792]
+  |8654=[|definition=n8654|copyfrom=n2793]
+  |8655=[|definition=n8655|copyfrom=n120]
+  |8657=[|definition=n8657|miniicon=$tactical_icon_pbs_turret|icon=$icon_pbs_turret|defaulttint=iff000000]
+  |8658=[|definition=n8658|copyfrom=n4979]
 ]
