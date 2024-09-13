@@ -31652,7 +31652,34 @@
         |icon=$icon_mech_lithus
         |miniicon=$tactical_icon_heavymech
   ]
-  |8545=[|definition=n8545|copyfrom=n39]
+  |8545=[
+	|definition=n8545
+	|defaulttint=iff436c39
+    |gfxresource=$gfx_small_e_neutralizer
+    |staticscene=[
+        |scene01=[|sceneid=n2|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_arm]
+        |scene02=[|sceneid=n1|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_side_direct]
+        |scene03=[|sceneid=n3|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_side]
+        |scene04=[|sceneid=n4|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_top_turret]
+        |scene05=[|sceneid=n5|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_top_turret]
+        |scene06=[|sceneid=n7|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_top_turret]
+        |scene07=[|sceneid=n8|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_tyrannos]
+        |scene09=[|sceneid=n9|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_side]
+        |scene10=[|sceneid=id|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_side]
+        |scene11=[|sceneid=ie|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_side]
+        |scene12=[|sceneid=ia|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_gropho]
+        |scene13=[|sceneid=ib|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_mesmer]
+        |scene14=[|sceneid=ic|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_gropho]
+        |scene15=[|sceneid=if|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_top_turret]
+        |scene16=[|sceneid=i16|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_side]
+        |scene17=[|sceneid=i17|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_side]
+        |scene18=[|sceneid=i14|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_side]
+        |scene19=[|sceneid=i18|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_ictus]
+        |scene20=[|sceneid=i19|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_ictus_arm]
+        |scene21=[|sceneid=i20|resource=$gfx_small_e_neutralizer|scene=$med_e_neut_gropho_arm]
+    ]
+    |icon=$icon_scorcher
+  ]
   |8546=[|definition=n8546|icon=$icon_nox_shield]
   |8547=[|definition=n8547|icon=$icon_nox_repair]
   |8548=[|definition=n8548|icon=$icon_nox_teleport]
