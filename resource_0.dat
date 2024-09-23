@@ -1,11 +1,11 @@
 #resources=[
   |definitionProperties=[
-    |version=n17
+    |version=n18
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000017.txt
+    |path=$lang0000/definitionProperties/00000018.txt
     |compression=i0
-    |size=ic67ae
+    |size=ic6baf
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -533,6 +533,10 @@
   |paintYellow=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5914
     |path=$lang0000/icons/paint_yellow/00000000.png
+  ]
+  |paintDarkMaroon=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i45e6
+    |path=$lang0000/icons/paint_dark_maroon/00000000.png
   ]
   |sparkTeleportDevice=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i599f
