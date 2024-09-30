@@ -691,4 +691,5 @@
   |689=[|value=L302120A|name=$cf_thelodica_combat_drones_units|hidden=i1]
   |690=[|value=L130A|name=$cf_deep_mining_ammo|hidden=i0]
   |691=[|value=L301060F|name=$cf_large_drillers|hidden=i0]
+  |692=[|value=L604010F|name=$cf_adaptive_alloys|hidden=i0]
 ]
