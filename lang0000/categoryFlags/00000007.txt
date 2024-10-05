@@ -692,4 +692,6 @@
   |690=[|value=L130A|name=$cf_deep_mining_ammo|hidden=i0]
   |691=[|value=L301060F|name=$cf_large_drillers|hidden=i0]
   |692=[|value=L604010F|name=$cf_adaptive_alloys|hidden=i0]
+  |693=[|value=LC0F|name=$cf_robot_enhancements|hidden=i0]
+  |694=[|value=L10C0F|name=$cf_dreadnought_modules|hidden=i0]
 ]
