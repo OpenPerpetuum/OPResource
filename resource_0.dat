@@ -18,10 +18,10 @@
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n25
+    |version=n26
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000025.txt
+    |path=$lang0000/txtEffectIcons/00000026.txt
     |compression=i0
     |size=i23c4
     |hash=ib6ab339a
@@ -594,6 +594,42 @@
   |gfx_scarab_v2=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3fadad
     |path=$lang0000/gfx/scarab_v2/00000000.a3m
+  ]
+  |icon_dreadnought_module=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/item_dreadnought_module/00000000.png
+  ]
+  |icon_effect_dreadnought_mode=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/effect_dreadnought_mode/00000000.png
+  ]
+  |icon_effect_overheat_buildup_low=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/effect_overheat_buildup_low/00000000.png
+  ]
+  |icon_effect_overheat_buildup_medium=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/effect_overheat_buildup_medium/00000000.png
+  ]
+  |icon_effect_overheat_buildup_high=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/effect_overheat_buildup_high/00000000.png
+  ]
+  |icon_effect_overheat_buildup_critical=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/effect_overheat_buildup_critical/00000000.png
+  ]
+  |icon_large_driller=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/item_large_driller/00000000.png
+  ]
+  |icon_excavator_module=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/item_excavator_module/00000000.png
+  ]
+  |icon_effect_excavator_mode=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/effect_excavator_mode/00000000.png
   ]
   |altitude0070=[
     |version=n0|language=i0|client=i0|compression=i1|size=i44fed

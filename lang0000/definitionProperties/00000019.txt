@@ -31796,28 +31796,28 @@
   |8667=[|definition=n8667|icon=$icon_ct_module|name=$def_mining_industrial_drone_unit_cprg]
   |8668=[|definition=n8668|icon=$icon_ct_module|name=$def_harvesting_industrial_drone_unit_cprg]
   |8669=[|definition=n8669|icon=$icon_ct_module|name=$def_repair_support_drone_unit_cprg]
-  |8677=[|definition=n8677]
+  |8677=[|definition=n8677|icon=$icon_large_driller]
   |8678=[
         |definition=n8678
         |icon=$icon_ct_module
         |name=$def_standard_large_driller_cprg
   ]
-  |8679=[|definition=n8679]
-  |8680=[|definition=n8680]
+  |8679=[|definition=n8679|icon=$icon_large_driller]
+  |8680=[|definition=n8680|icon=$icon_large_driller]
   |8681=[
         |definition=n8681
         |icon=$icon_ct_module
         |name=$def_standard_large_driller_cprg
   ]
-  |8682=[|definition=n8682]
-  |8683=[|definition=n8683]
+  |8682=[|definition=n8682|icon=$icon_large_driller]
+  |8683=[|definition=n8683|icon=$icon_large_driller]
   |8684=[
         |definition=n8684
         |icon=$icon_ct_module
         |name=$def_standard_large_driller_cprg
   ]
-  |8685=[|definition=n8685]
-  |8686=[|definition=n8686]
+  |8685=[|definition=n8685|icon=$icon_large_driller]
+  |8686=[|definition=n8686|icon=$icon_large_driller]
   |8687=[
         |definition=n8687
         |icon=$icon_ct_module
@@ -31892,4 +31892,26 @@
   |8784=[|definition=n8784|copyfrom=n5516]
   |8785=[|definition=n8785|copyfrom=n5512]
   |8786=[|definition=n8786|icon=$sparkTeleportDevice]
+  |8798=[|definition=n8798|icon=$icon_dreadnought_module]
+  |8799=[|definition=n8799|icon=$icon_ct_module|name=$def_standard_dreadnought_module_cprg]
+  |8800=[|definition=n8800|icon=$icon_dreadnought_module]
+  |8801=[|definition=n8801|icon=$icon_dreadnought_module]
+  |8802=[|definition=n8802|icon=$icon_ct_module|name=$def_named1_dreadnought_module_cprg]
+  |8803=[|definition=n8803|icon=$icon_dreadnought_module]
+  |8804=[|definition=n8804|icon=$icon_dreadnought_module]
+  |8805=[|definition=n8805|icon=$icon_ct_module|name=$def_named2_dreadnought_module_cprg]
+  |8806=[|definition=n8806|icon=$icon_dreadnought_module]
+  |8807=[|definition=n8807|icon=$icon_dreadnought_module]
+  |8808=[|definition=n8808|icon=$icon_ct_module|name=$def_named3_dreadnought_module_cprg]
+  |8818=[|definition=n8818|icon=$icon_excavator_module]
+  |8819=[|definition=n8819|icon=$icon_ct_module|name=$def_standard_excavator_module_cprg]
+  |8820=[|definition=n8820|icon=$icon_excavator_module]
+  |8821=[|definition=n8821|icon=$icon_excavator_module]
+  |8822=[|definition=n8822|icon=$icon_ct_module|name=$def_named1_excavator_module_cprg]
+  |8823=[|definition=n8823|icon=$icon_excavator_module]
+  |8824=[|definition=n8824|icon=$icon_excavator_module]
+  |8825=[|definition=n8825|icon=$icon_ct_module|name=$def_named2_excavator_module_cprg]
+  |8826=[|definition=n8826|icon=$icon_excavator_module]
+  |8827=[|definition=n8827|icon=$icon_excavator_module]
+  |8828=[|definition=n8828|icon=$icon_ct_module|name=$def_named3_excavator_module_cprg]
 ]

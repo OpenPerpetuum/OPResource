@@ -694,4 +694,5 @@
   |692=[|value=L604010F|name=$cf_adaptive_alloys|hidden=i0]
   |693=[|value=LC0F|name=$cf_robot_enhancements|hidden=i0]
   |694=[|value=L10C0F|name=$cf_dreadnought_modules|hidden=i0]
+  |695=[|value=L20C0F|name=$cf_excavator_modules|hidden=i0]
 ]
