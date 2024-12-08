@@ -1,11 +1,11 @@
 #resources=[
   |definitionProperties=[
-    |version=n19
+    |version=n20
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000019.txt
+    |path=$lang0000/definitionProperties/00000020.txt
     |compression=i0
-    |size=ic67ae
+    |size=ic8a59
     |hash=ib6ab339a
   ]
   |categoryFlags=[
@@ -14,7 +14,7 @@
     |client=i0
     |path=$lang0000/categoryFlags/00000007.txt
     |compression=i0
-    |size=ia994
+    |size=iab00
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -23,17 +23,8 @@
     |client=i0
     |path=$lang0000/txtEffectIcons/00000026.txt
     |compression=i0
-    |size=i23c4
+    |size=i2648
     |hash=ib6ab339a
-  ]
-  |beamdescriptions=[
-    |version=n1
-	|language=i0
-	|client=i0
-	|path=$lang0000/beamdescriptions/00000001.txt
-	|compression=i0
-	|size=i14a6b
-	|hash=ib6ab339a
   ]
   |icon_ammo_construction_t0=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i48d8
@@ -239,6 +230,14 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i158e
     |path=$lang0000/icons/effect_nox_shield/00000000.png
   ]
+  |icon_effect_gods_bless=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ib37
+    |path=$lang0000/icons/effect_gods_bless/00000000.png
+  ]
+  |icon_effect_adaptive_alloy=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ic99
+    |path=$lang0000/icons/effect_adaptive_alloy/00000000.png
+  ]
   |icon_item_boost_ep=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i72a3
     |path=$lang0000/icons/item_boost_ep/00000000.png
@@ -271,7 +270,7 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8065
     |path=$lang0000/icons/item_stronghold_teleport/00000000.png
   ]
-    |icon_material_axicol=[
+  |icon_material_axicol=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15!!
     |path=$lang0000/icons/material_axicol/00000000.png
   ]
@@ -591,32 +590,36 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i614e
     |path=$lang0000/icons/item_scorcher/00000000.png
   ]
+  |icon_item_adaptive_alloy=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8ab3
+    |path=$lang0000/icons/item_adaptive_alloy/00000000.png
+  ]
   |gfx_scarab_v2=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3fadad
     |path=$lang0000/gfx/scarab_v2/00000000.a3m
   ]
   |icon_dreadnought_module=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i576d
     |path=$lang0000/icons/item_dreadnought_module/00000000.png
   ]
   |icon_effect_dreadnought_mode=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i97e
     |path=$lang0000/icons/effect_dreadnought_mode/00000000.png
   ]
   |icon_effect_overheat_buildup_low=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ic3c
     |path=$lang0000/icons/effect_overheat_buildup_low/00000000.png
   ]
   |icon_effect_overheat_buildup_medium=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=id1a
     |path=$lang0000/icons/effect_overheat_buildup_medium/00000000.png
   ]
   |icon_effect_overheat_buildup_high=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=iea0
     |path=$lang0000/icons/effect_overheat_buildup_high/00000000.png
   ]
   |icon_effect_overheat_buildup_critical=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1067
     |path=$lang0000/icons/effect_overheat_buildup_critical/00000000.png
   ]
   |icon_large_driller=[
@@ -624,12 +627,84 @@
     |path=$lang0000/icons/item_large_driller/00000000.png
   ]
   |icon_excavator_module=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7534
     |path=$lang0000/icons/item_excavator_module/00000000.png
   ]
   |icon_effect_excavator_mode=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ib26
     |path=$lang0000/icons/effect_excavator_mode/00000000.png
+  ]
+  |icon_ammo_mining_deep_crude=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4fe8
+    |path=$lang0000/icons/ammo_mining_deep_crude/00000000.png
+  ]
+  |icon_ammo_mining_deep_crude_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5607
+    |path=$lang0000/icons/ammo_mining_deep_crude_pr/00000000.png
+  ]
+  |icon_ammo_mining_deep_epriton=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i578f
+    |path=$lang0000/icons/ammo_mining_deep_epriton/00000000.png
+  ]
+  |icon_ammo_mining_deep_epriton_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5f43
+    |path=$lang0000/icons/ammo_mining_deep_epriton_pr/00000000.png
+  ]
+  |icon_ammo_mining_deep_fluxore=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6bcb
+    |path=$lang0000/icons/ammo_mining_deep_fluxore/00000000.png
+  ]
+  |icon_ammo_mining_deep_fluxore_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i72ea
+    |path=$lang0000/icons/ammo_mining_deep_fluxore_pr/00000000.png
+  ]
+  |icon_ammo_mining_deep_gammaterial=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i62c6
+    |path=$lang0000/icons/ammo_mining_deep_gammaterial/00000000.png
+  ]
+  |icon_ammo_mining_deep_gammaterial_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i66e6
+    |path=$lang0000/icons/ammo_mining_deep_gammaterial_pr/00000000.png
+  ]
+  |icon_ammo_mining_deep_imentium=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6794
+    |path=$lang0000/icons/ammo_mining_deep_imentium/00000000.png
+  ]
+  |icon_ammo_mining_deep_imentium_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6cd2
+    |path=$lang0000/icons/ammo_mining_deep_imentium_pr/00000000.png
+  ]
+  |icon_ammo_mining_deep_liquizit=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5748
+    |path=$lang0000/icons/ammo_mining_deep_liquizit/00000000.png
+  ]
+  |icon_ammo_mining_deep_liquizit_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i60c9
+    |path=$lang0000/icons/ammo_mining_deep_liquizit_pr/00000000.png
+  ]
+  |icon_ammo_mining_deep_silgium=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i68ed
+    |path=$lang0000/icons/ammo_mining_deep_silgium/00000000.png
+  ]
+  |icon_ammo_mining_deep_silgium_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6c3c
+    |path=$lang0000/icons/ammo_mining_deep_silgium_pr/00000000.png
+  ]
+  |icon_ammo_mining_deep_stermonit=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6c13
+    |path=$lang0000/icons/ammo_mining_deep_stermonit/00000000.png
+  ]
+  |icon_ammo_mining_deep_stermonit_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i6ee3
+    |path=$lang0000/icons/ammo_mining_deep_stermonit_pr/00000000.png
+  ]
+  |icon_ammo_mining_deep_titan=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i640c
+    |path=$lang0000/icons/ammo_mining_deep_titan/00000000.png
+  ]
+  |icon_ammo_mining_deep_titan_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i682a
+    |path=$lang0000/icons/ammo_mining_deep_titan_pr/00000000.png
   ]
   |altitude0070=[
     |version=n0|language=i0|client=i0|compression=i1|size=i44fed
