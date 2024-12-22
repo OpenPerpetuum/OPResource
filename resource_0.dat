@@ -1,20 +1,20 @@
 #resources=[
   |definitionProperties=[
-    |version=n20
+    |version=n22
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000020.txt
+    |path=$lang0000/definitionProperties/00000022.txt
     |compression=i0
-    |size=ic8a59
+    |size=ic92f5
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n7
+    |version=n8
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000007.txt
+    |path=$lang0000/categoryFlags/00000008.txt
     |compression=i0
-    |size=iab00
+    |size=iabc6
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -705,6 +705,22 @@
   |icon_ammo_mining_deep_titan_pr=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i682a
     |path=$lang0000/icons/ammo_mining_deep_titan_pr/00000000.png
+  ]
+  |icon_remote_command_translator=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i636f
+    |path=$lang0000/icons/remote_command_translator/00000000.png
+  ]
+  |icon_basic_remote_command=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8e85
+    |path=$lang0000/icons/basic_remote_command/00000000.png
+  ]
+  |icon_improved_remote_command=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9582
+    |path=$lang0000/icons/improved_remote_command/00000000.png
+  ]
+  |icon_item_server_wide_ep_booster=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3e0c
+    |path=$lang0000/icons/item_server_wide_ep_booster/00000000.png
   ]
   |altitude0070=[
     |version=n0|language=i0|client=i0|compression=i1|size=i44fed
