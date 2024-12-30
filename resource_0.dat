@@ -1,11 +1,11 @@
 #resources=[
   |definitionProperties=[
-    |version=n22
+    |version=n23
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000022.txt
+    |path=$lang0000/definitionProperties/00000023.txt
     |compression=i0
-    |size=ic92f5
+    |size=ic937f
     |hash=ib6ab339a
   ]
   |categoryFlags=[
