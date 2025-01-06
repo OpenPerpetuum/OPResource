@@ -1,20 +1,20 @@
 #resources=[
   |definitionProperties=[
-    |version=n23
+    |version=n24
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000023.txt
+    |path=$lang0000/definitionProperties/00000024.txt
     |compression=i0
-    |size=ic937f
+    |size=ic967d
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n8
+    |version=n9
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000008.txt
+    |path=$lang0000/categoryFlags/00000009.txt
     |compression=i0
-    |size=iabc6
+    |size=iac40
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -626,6 +626,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
     |path=$lang0000/icons/item_large_driller/00000000.png
   ]
+  |icon_large_harvester=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/item_large_harvester/00000000.png
+  ]
   |icon_excavator_module=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7534
     |path=$lang0000/icons/item_excavator_module/00000000.png
@@ -633,6 +637,14 @@
   |icon_effect_excavator_mode=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ib26
     |path=$lang0000/icons/effect_excavator_mode/00000000.png
+  ]
+  |icon_ammo_mass_harvesting=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4a42
+    |path=$lang0000/icons/ammo_mass_harvesting/00000000.png
+  ]
+  |icon_ammo_mass_harvesting_pr=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5349
+    |path=$lang0000/icons/ammo_mass_harvesting_pr/00000000.png
   ]
   |icon_ammo_mining_deep_crude=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4fe8
