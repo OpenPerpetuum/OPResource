@@ -120,4 +120,5 @@
   |132=[|effect=$effect_overheat_buildup_high|icon=$icon_effect_overheat_buildup_high]
   |133=[|effect=$effect_overheat_buildup_critical|icon=$icon_effect_overheat_buildup_critical]
   |134=[|effect=$effect_excavator|icon=$icon_effect_excavator_mode]
+  |135=[|effect=$effect_field_stealth|icon=$icon_effect_stealth]
 ]
