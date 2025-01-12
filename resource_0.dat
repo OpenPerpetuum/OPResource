@@ -1,29 +1,29 @@
 #resources=[
   |definitionProperties=[
-    |version=n24
+    |version=n25
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000024.txt
+    |path=$lang0000/definitionProperties/00000025.txt
     |compression=i0
-    |size=ic967d
+    |size=ica133
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n9
+    |version=n10
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000009.txt
+    |path=$lang0000/categoryFlags/00000010.txt
     |compression=i0
-    |size=iac40
+    |size=iac88
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n26
+    |version=n27
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000026.txt
+    |path=$lang0000/txtEffectIcons/00000027.txt
     |compression=i0
-    |size=i2648
+    |size=i268a
     |hash=ib6ab339a
   ]
   |icon_ammo_construction_t0=[
@@ -269,6 +269,10 @@
   |icon_item_stronghold_teleport=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8065
     |path=$lang0000/icons/item_stronghold_teleport/00000000.png
+  ]
+  |icon_item_mobile_field_stealth=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8aaa
+    |path=$lang0000/icons/item_mobile_field_stealth/00000000.png
   ]
   |icon_material_axicol=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7f15!!
