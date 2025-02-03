@@ -1,20 +1,29 @@
 #resources=[
-  |definitionProperties=[
-    |version=n25
+  |beamDescriptions=[
+    |version=n1
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000025.txt
+    |path=$lang0000/beamDescriptions/00000001.txt
     |compression=i0
-    |size=ica133
+    |size=i14eef
+    |hash=ib6ab339a
+  ]
+  |definitionProperties=[
+    |version=n26
+    |language=i0
+    |client=i0
+    |path=$lang0000/definitionProperties/00000026.txt
+    |compression=i0
+    |size=icde03
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n10
+    |version=n11
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000010.txt
+    |path=$lang0000/categoryFlags/00000011.txt
     |compression=i0
-    |size=iac88
+    |size=iad82
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -141,6 +150,22 @@
   |icon_bot_onyx=[
     |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i941e
     |path=$lang0000/icons/bot_onyx/00000001.png
+  ]
+  |icon_bot_ares=[
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i923b
+    |path=$lang0000/icons/bot_ares/00000000.png
+  ]
+  |icon_bot_beholder=[
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i98c3
+    |path=$lang0000/icons/bot_beholder/00000000.png
+  ]
+  |icon_bot_spectator=[
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9a38
+    |path=$lang0000/icons/bot_spectator/00000000.png
+  ]
+  |icon_bot_terramotus=[
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i92c3
+    |path=$lang0000/icons/bot_terramotus/00000000.png
   ]
   |icon_bot_anniversarkhe=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ia38d
@@ -601,6 +626,10 @@
   |gfx_scarab_v2=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3fadad
     |path=$lang0000/gfx/scarab_v2/00000000.a3m
+  ]
+  |gfx_symbiont_v2=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i12d4e8
+    |path=$lang0000/gfx/symbiont_v2/00000000.a3m
   ]
   |icon_dreadnought_module=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i576d
