@@ -233,11 +233,11 @@
  ]
  |beam13=[
   |beamid=n13
-  |pathlinear=n1
+  |pathlinear=n0
   |isbullet=n1
   |vertextarget=n1
   |bulletcount=n1
-  |bulletspeed=f17
+  |bulletspeed=f7
   |bulletshotdelay=f0.4
   |beamsceneresource=$gfx_beam_beams
   |beamscene=$small_rocket
@@ -1239,11 +1239,11 @@
  ]
  |beam65=[
   |beamid=n65
-  |pathlinear=n1
+  |pathlinear=n0
   |isbullet=n1
   |vertextarget=n1
   |bulletcount=n1
-  |bulletspeed=f17
+  |bulletspeed=f7
   |bulletshotdelay=f0.4
   |beamsceneresource=$gfx_beam_beams
   |beamscene=$small_rocket
@@ -1263,11 +1263,11 @@
  ]
  |beam66=[
   |beamid=n66
-  |pathlinear=n1
+  |pathlinear=n0
   |isbullet=n1
   |vertextarget=n1
   |bulletcount=n1
-  |bulletspeed=f17
+  |bulletspeed=f7
   |bulletshotdelay=f0.4
   |beamsceneresource=$gfx_beam_beams
   |beamscene=$small_rocket
@@ -1287,11 +1287,11 @@
  ]
  |beam67=[
   |beamid=n67
-  |pathlinear=n1
+  |pathlinear=n0
   |isbullet=n1
   |vertextarget=n1
   |bulletcount=n1
-  |bulletspeed=f17
+  |bulletspeed=f7
   |bulletshotdelay=f0.4
   |beamsceneresource=$gfx_beam_beams
   |beamscene=$small_rocket
@@ -1311,11 +1311,11 @@
  ]
  |beam68=[
   |beamid=n68
-  |pathlinear=n1
+  |pathlinear=n0
   |isbullet=n1
   |vertextarget=n1
   |bulletcount=n1
-  |bulletspeed=f17
+  |bulletspeed=f7
   |bulletshotdelay=f0.4
   |beamsceneresource=$gfx_beam_beams
   |beamscene=$small_rocket
@@ -3707,5 +3707,52 @@
   |loopbusyanim=n1
   |ripplelength=f1.0
   |ripplesize=f0.3
+ ]
+  |beam194=[
+  |beamid=n194
+  |pathlinear=n1
+  |isbullet=n1
+  |vertextarget=n1
+  |bulletcount=n5
+  |bulletspeed=f35
+  |bulletshotdelay=f0.45
+  |beamsceneresource=$gfx_beam_beams
+  |beamscene=$medium_missile
+  |beamhitresource=$gfx_beam_hiteffects
+  |beamhitscene=$missile_hit
+  |beamstartresource=$gfx_beam_hiteffects
+  |beamstartscene=$rocket_starteffect
+  |nofireanimtrigger=i1
+  |startdelay=f0.2858
+  |hitrotatex=i1
+  |hitrotatey=i1
+  |ripplelength=f1.0
+  |ripplesize=f0.7
+  |hiteffectwhennotarget=i1
+  |spreadwhennotarget=f0.3
+ ]
+  |beam195=[
+  |beamid=n195
+  |pathlinear=n1
+  |isbullet=n1
+  |vertextarget=n1
+  |bulletcount=n1
+  |bulletspeed=f35
+  |bulletshotdelay=f1.0
+  |beamsceneresource=$gfx_medium_minigun
+  |beamscene=$large_missile
+  |bulletparticleeffectid=n15
+  |beamhitresource=$gfx_beam_hiteffects
+  |beamhitscene=$sentry_missile_hit
+  |beamstartresource=$gfx_beam_hiteffects
+  |beamstartscene=$large_missile_starteffect
+  |nofireanimtrigger=i1
+  |startdelay=f0.2858
+  |hitrotatex=i1
+  |hitrotatey=i1
+  |ripplelength=f1.0
+  |ripplesize=f0.7
+  |hiteffectwhennotarget=i1
+  |spreadwhennotarget=f0.3
  ]
 ]
