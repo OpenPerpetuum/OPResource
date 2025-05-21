@@ -18,12 +18,12 @@
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n12
+    |version=n13
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000012.txt
+    |path=$lang0000/categoryFlags/00000013.txt
     |compression=i0
-    |size=ib000
+    |size=iaf32
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
@@ -33,6 +33,15 @@
     |path=$lang0000/txtEffectIcons/00000028.txt
     |compression=i0
     |size=i272a
+    |hash=ib6ab339a
+  ]
+  |terrainOverviewFilters=[
+    |version=n1
+    |language=i0
+    |client=i0
+    |path=$lang0000/terrainOverviewFilters/00000001.txt
+    |compression=i0
+    |size=ib5b
     |hash=ib6ab339a
   ]
   |icon_ammo_construction_t0=[
