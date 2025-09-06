@@ -1,0 +1,21 @@
+services:
+  open-perpetuum-resource:
+    image: node:lts
+    container_name: open-perpetuum-resource
+    environment:
+      - TZ=Europe/Budapest
+    command:
+      - /bin/bash
+      - -c
+      - |
+        cd /app/
+        ls -la
+        npm install -g npm@latest
+        npm i
+        node index.js
+    hostname: opresource
+    volumes:
+      - ./OPResource:/app
+    ports:
+      - 80:1337
+    restart: always

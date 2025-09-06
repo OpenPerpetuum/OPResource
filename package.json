@@ -9,9 +9,8 @@
   "author": "OpenPerpetuum",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2",
-    "mkdirp": "^1.0.4",
-    "zlib": "^1.0.5"
+    "express": "latest-4",
+    "mkdirp": "^3.0.1"
   },
   "repository": {
     "type": "git",
