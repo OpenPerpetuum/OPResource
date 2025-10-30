@@ -596,6 +596,10 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5914
     |path=$lang0000/icons/paint_yellow/00000000.png
   ]
+  |paintDarkMaroon=[
+    |version=n1|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i45e6
+    |path=$lang0000/icons/paint_dark_maroon/00000001.png
+  ]
   |sparkTeleportDevice=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i599f
     |path=$lang0000/icons/spark_teleport_device/00000000.png
@@ -663,6 +667,10 @@
   |gfx_symbiont_v2=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i12d4e8
     |path=$lang0000/gfx/symbiont_v2/00000000.a3m
+  ]
+  |gfx_waspish=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=id1394
+    |path=$lang0000/gfx/waspish/00000000.a3m
   ]
   |icon_dreadnought_module=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i576d
@@ -1507,5 +1515,37 @@
   |zoneDataCache=[
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
     |path=$lang0000/zoneDataCache/00000002.txt
+  ]
+  |snd_3d_robots_move_engine_waspish_engine=[
+    |version=n0
+	|language=i0
+	|client=i0
+	|path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine/00000000.xm
+	|compression=i0
+	|size=i8481c
+  ]
+  |snd_3d_robots_move_engine_waspish_engine_state_1=[
+    |version=n0
+	|language=i0
+	|client=i0
+	|path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_1/00000000.xm
+	|compression=i0
+	|size=i8481c
+  ]
+  |snd_3d_robots_move_engine_waspish_engine_state_2=[
+    |version=n0
+	|language=i0
+	|client=i0
+	|path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_2/00000000.xm
+	|compression=i0
+	|size=i8481c
+  ]
+  |snd_3d_robots_move_engine_waspish_engine_state_3=[
+    |version=n0
+	|language=i0
+	|client=i0
+	|path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_3/00000000.xm
+	|compression=i0
+	|size=i8481c
   ]
 ]#date=$2024-03-26-00-00-00#dummy=$knjkqdmkmn
