@@ -17,8 +17,15 @@ const layerspath = process.env.GAMMA_LAYERS_NEW || 'lang0000/layers/GAMMA_LAYERS
 
 // Log on any file access
 app.use(function(req, res, next) {
-    console.log(req.originalUrl);
-    next();
+    let agent = req.headers['user-agent'];
+    if (!agent || !agent.match(/Perpetuum/)) {
+        res.status(403).send();
+    }
+    else
+    {
+        console.log(req.originalUrl);
+        next();
+    }
 });
 
 // By default, we give resources along the request path
