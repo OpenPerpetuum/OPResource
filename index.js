@@ -36,6 +36,12 @@ app.use('/**/*.png', express.static('lang0000/icons/default/00000000.png'));
 
 // Сompress the file, add its size to the beginning and send it as an answer.
 function DeflateAndSeend(file, responce) {
+    // Check file availability.
+    if (!fs.existsSync(file)) {
+        console.log('File does not exist:', file);
+        return responce.status(400).send();
+    }
+
     // Four bytes with the size of the source file.
     let buf = Buffer.alloc(4);
     buf.writeInt32LE(fs.statSync(file).size);
@@ -100,7 +106,13 @@ app.get('/lang0000/layers/*/plants*/*.dat', function (req, res) {
 // The index
 app.get('/', function(req, res, next) {
     console.log('Client hit index!');
-    res.sendFile(path.join(__dirname, 'resource_0.dat'));
+    // Check file availability.
+    let index = path.join(__dirname, 'resource_0.dat')
+    if (!fs.existsSync(index)) {
+        console.log('File does not exist:', index);
+        return res.status(400).send();
+    }
+    res.sendFile(index);
 });
 
 app.listen(port, () => console.log('Local development OPResource server initialized'));
