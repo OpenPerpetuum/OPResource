@@ -1518,34 +1518,34 @@
   ]
   |snd_3d_robots_move_engine_waspish_engine=[
     |version=n0
-	|language=i0
-	|client=i0
-	|path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine/00000000.xm
-	|compression=i0
-	|size=i8481c
+    |language=i0
+    |client=i0
+    |path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine/00000000.xm
+    |compression=i0
+    |size=i8481c
   ]
   |snd_3d_robots_move_engine_waspish_engine_state_1=[
     |version=n0
-	|language=i0
-	|client=i0
-	|path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_1/00000000.xm
-	|compression=i0
-	|size=i8481c
+    |language=i0
+    |client=i0
+    |path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_1/00000000.xm
+    |compression=i0
+    |size=i8481c
   ]
   |snd_3d_robots_move_engine_waspish_engine_state_2=[
     |version=n0
-	|language=i0
-	|client=i0
-	|path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_2/00000000.xm
-	|compression=i0
-	|size=i8481c
+    |language=i0
+    |client=i0
+    |path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_2/00000000.xm
+    |compression=i0
+    |size=i8481c
   ]
   |snd_3d_robots_move_engine_waspish_engine_state_3=[
     |version=n0
-	|language=i0
-	|client=i0
-	|path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_3/00000000.xm
-	|compression=i0
-	|size=i8481c
+    |language=i0
+    |client=i0
+    |path=$lang0000/sfx/snd_3d_robots_move_engine_waspish_engine_state_3/00000000.xm
+    |compression=i0
+    |size=i8481c
   ]
 ]#date=$2024-03-26-00-00-00#dummy=$knjkqdmkmn
