@@ -1548,4 +1548,52 @@
     |compression=i0
     |size=i8481c
   ]
+  |textures_terrain_set01_tm_atlas_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set01_tm_atlas_dds/00000000.dds
+    |compression=i1
+    |size=i4277a55
+  ]
+  |textures_terrain_set01_tm_atlas_normal_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set01_tm_atlas_normal_dds/00000000.dds
+    |compression=i1
+    |size=i136Faed
+  ]
+  |textures_terrain_set02_ics_atlas_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set02_ics_atlas_dds/00000000.dds
+    |compression=i1
+    |size=i3f015db
+  ]
+  |textures_terrain_set02_ics_atlas_normal_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set02_ics_atlas_normal_dds/00000000.dds
+    |compression=i1
+    |size=i10ac394
+  ]
+  |textures_terrain_set03_asi_atlas_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set03_asi_atlas_dds/00000000.dds
+    |compression=i1
+    |size=i3f93cde
+  ]
+  |textures_terrain_set03_asi_atlas_normal_dds=[
+    |version=n0
+    |language=i0
+    |client=i0
+    |path=$lang0000/textures/textures_terrain_set03_asi_atlas_normal_dds/00000000.dds
+    |compression=i1
+    |size=i109809d
+  ]
 ]#date=$2024-03-26-00-00-00#dummy=$knjkqdmkmn
