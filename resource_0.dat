@@ -9,10 +9,10 @@
     |hash=ib6ab339a
   ]
   |definitionProperties=[
-    |version=n27
+    |version=n29
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000027.txt
+    |path=$lang0000/definitionProperties/00000029.txt
     |compression=i0
     |size=ice3e5
     |hash=ib6ab339a
@@ -27,12 +27,12 @@
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n28
+    |version=n29
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000028.txt
+    |path=$lang0000/txtEffectIcons/00000029.txt
     |compression=i0
-    |size=i272a
+    |size=id0000
     |hash=ib6ab339a
   ]
   |terrainOverviewFilters=[
@@ -711,6 +711,10 @@
   |icon_effect_excavator_mode=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ib26
     |path=$lang0000/icons/effect_excavator_mode/00000000.png
+  ]
+  |icon_effect_synergy=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7c3
+    |path=$lang0000/icons/effect_synergy/00000000.png
   ]
   |icon_ammo_mass_harvesting=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i4a42
