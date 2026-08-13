@@ -9,30 +9,30 @@
     |hash=ib6ab339a
   ]
   |definitionProperties=[
-    |version=n29
+    |version=n30
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000029.txt
+    |path=$lang0000/definitionProperties/00000030.txt
     |compression=i0
-    |size=ice3e5
+    |size=icfc75
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n15
+    |version=n16
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000015.txt
+    |path=$lang0000/categoryFlags/00000016.txt
     |compression=i0
-    |size=iaf32
+    |size=ib030
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n29
+    |version=n30
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000029.txt
+    |path=$lang0000/txtEffectIcons/00000030.txt
     |compression=i0
-    |size=id0000
+    |size=i27b8
     |hash=ib6ab339a
   ]
   |terrainOverviewFilters=[
@@ -268,9 +268,13 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ib37
     |path=$lang0000/icons/effect_gods_bless/00000000.png
   ]
-  |icon_effect_adaptive_alloy=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ic99
-    |path=$lang0000/icons/effect_adaptive_alloy/00000000.png
+  |icon_effect_gods_bless=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ib37
+    |path=$lang0000/icons/effect_gods_bless/00000000.png
+  ]
+  |icon_effect_self_destruct=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i335
+    |path=$lang0000/icons/effect_self_destruct/00000000.png
   ]
   |icon_effect_field_eccm=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i926
@@ -639,6 +643,14 @@
   |icon_support_remote_controller=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7707
     |path=$lang0000/icons/item_support_remote_controller/00000000.png
+  ]
+  |icon_hunter_remote_controller=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i64с1
+    |path=$lang0000/icons/item_hunter_remote_controller/00000000.png
+  ]
+  |icon_self_destruct=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=ia68
+    |path=$lang0000/icons/item_self_destruct/00000000.png
   ]
   |icon_nox_teleport=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5b8b
