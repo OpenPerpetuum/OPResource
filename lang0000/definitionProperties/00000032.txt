@@ -32803,4 +32803,6 @@
         |copyfrom=n2897
   ]
   |9020=[|definition=n9020|icon=$icon_npc_scanner]
+  |9023=[|definition=n9023|icon=$icon_ct_ammo]
+  |9024=[|definition=n9024|icon=$icon_item_ct_capsule]
 ]
