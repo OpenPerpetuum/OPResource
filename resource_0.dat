@@ -9,13 +9,13 @@
     |hash=ib6ab339a
   ]
   |definitionProperties=[
-    |version=n31
+    |version=n32
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000031.txt
+    |path=$lang0000/definitionProperties/00000032.txt
     |compression=i0
-    |size=id0026
-    |hash=ib6ab339a
+    |size=id00c2
+    |hash=ie1271462
   ]
   |categoryFlags=[
     |version=n16
@@ -499,6 +499,10 @@
   |icon_npc_goblin=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=iab45
     |path=$lang0000/icons/npc_goblin/00000000.png
+  ]
+  |icon_npc_scanner=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=i64888f58|size=i4736
+    |path=$lang0000/icons/npc_scanner/00000000.png
   ]
   |icon_npc_outpost_guard=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i9c5f
