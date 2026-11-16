@@ -6,5 +6,6 @@ node_modules/
 temp/
 package-lock.json
 !lang0000/icons/default/*.png
+!lang0000/icons/npc_scanner/00000000.png
 *.a3m
 *.xm
