@@ -32802,7 +32802,7 @@
         |definition=n9013
         |copyfrom=n2897
   ]
-  |9020=[|definition=n9020|icon=$icon_npc_scanner]
-  |9023=[|definition=n9023|icon=$icon_ct_ammo]
-  |9024=[|definition=n9024|icon=$icon_item_ct_capsule]
+  |9025=[|definition=n9025|icon=$icon_npc_scanner]
+  |9026=[|definition=n9026|icon=$icon_ct_ammo]
+  |9027=[|definition=n9027|icon=$icon_item_ct_capsule]
 ]
